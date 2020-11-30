@@ -1,0 +1,5 @@
+
+
+# To check how close the drone location is to the midpoint of the path
+safeGap := (LeadPosition[t] - HostPosition[t] <= dSafe)
+safeFollowing := alw_[0,T] (safeGap)
