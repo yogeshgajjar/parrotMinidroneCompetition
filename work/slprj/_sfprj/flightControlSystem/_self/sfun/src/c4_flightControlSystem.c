@@ -5677,7 +5677,6 @@ static void sf_gateway_c4_flightControlSystem
     NULL                               /* prev */
   };
 
-  const mxArray *c4_y = NULL;
   real_T c4_b_dv[256];
   real_T c4_b_x_data[180];
   real_T c4_c_x_data[180];
@@ -6170,10 +6169,6 @@ static void sf_gateway_c4_flightControlSystem
         covrtEmlIfEval(chartInstance->c4_covrtInstance, 4U, 0, 4, false);
       }
     }
-
-    c4_y = NULL;
-    sf_mex_assign(&c4_y, sf_mex_create("y", &c4_angle, 0, 0U, 0U, 0U, 0), false);
-    sf_mex_call(&c4_st, NULL, "disp", 0U, 1U, 14, c4_y);
   }
 
   c4_emxFree_skoeQIuVNKJRHNtBIlOCZhD(chartInstance, &c4_lines);
@@ -6264,7 +6259,7 @@ static void mdl_setup_runtime_resources_c4_flightControlSystem
     &chartInstance->c4_mlFcnLineNumber, &chartInstance->c4_IsHeatMapPresent, 0);
   sim_mode_is_external(chartInstance->S);
   covrtCreateStateflowInstanceData(chartInstance->c4_covrtInstance, 1U, 0U, 1U,
-    82U);
+    105U);
   covrtChartInitFcn(chartInstance->c4_covrtInstance, 0U, false, false, false);
   covrtStateInitFcn(chartInstance->c4_covrtInstance, 0U, 0U, false, false, false,
                     0U, &c4_decisionTxtStartIdx, &c4_decisionTxtEndIdx);
@@ -6272,9 +6267,9 @@ static void mdl_setup_runtime_resources_c4_flightControlSystem
   covrtEmlInitFcn(chartInstance->c4_covrtInstance, "", 4U, 0U, 1U, 0U, 6U, 0U,
                   0U, 0U, 2U, 0U, 6U, 3U);
   covrtEmlFcnInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U,
-                     "eML_blk_kernel", 485, -1, 1821);
+                     "eML_blk_kernel", 485, -1, 1799);
   covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1206, 1227, -1,
-                    1755);
+                    1733);
   covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1316, 1383, -1,
                     1489);
   covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 2U, 1498, 1514, -1,
@@ -6283,8 +6278,8 @@ static void mdl_setup_runtime_resources_c4_flightControlSystem
                     1661, 1692);
   covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 4U, 1661, 1692, -1,
                     1692);
-  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 5U, 1757, 1780, -1,
-                    1798);
+  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 5U, 1735, 1758, -1,
+                    1776);
   covrtEmlForInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1078, 1102,
                      1204);
   covrtEmlForInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1246, 1270,
@@ -6312,8 +6307,8 @@ static void mdl_setup_runtime_resources_c4_flightControlSystem
     1677, -1, 4U);
   covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 7U, 1681,
     1692, -1, 0U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 8U, 1760,
-    1780, -1, 0U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 8U, 1738,
+    1758, -1, 0U);
 }
 
 static void mdl_cleanup_runtime_resources_c4_flightControlSystem
@@ -22679,10 +22674,10 @@ static void init_simulink_io_address(SFc4_flightControlSystemInstanceStruct
 /* SFunction Glue Code */
 void sf_c4_flightControlSystem_get_check_sum(mxArray *plhs[])
 {
-  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(555101625U);
-  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(3519554201U);
-  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(2577306236U);
-  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(280758653U);
+  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(3070031302U);
+  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(4291712974U);
+  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(2548812218U);
+  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(601781129U);
 }
 
 mxArray *sf_c4_flightControlSystem_third_party_uses_info(void)
@@ -22757,7 +22752,7 @@ static const mxArray *sf_get_sim_state_info_c4_flightControlSystem(void)
 
 static const char* sf_get_instance_specialization(void)
 {
-  return "se8yLw6YHk2bo8Ikt95CFgF";
+  return "svJASzTnunXSt10dHywpddB";
 }
 
 static void sf_opaque_initialize_c4_flightControlSystem(void *chartInstanceVar)
@@ -22864,28 +22859,28 @@ const char* sf_c4_flightControlSystem_get_post_codegen_info(void)
 {
   int i;
   const char* encStrCodegen [19] = {
-    "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",
+    "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",
     ""
   };
 
-  static char newstr [1325] = "";
+  static char newstr [1317] = "";
   newstr[0] = '\0';
   for (i = 0; i < 19; i++) {
     strcat(newstr, encStrCodegen[i]);
@@ -22898,10 +22893,10 @@ static void mdlSetWorkWidths_c4_flightControlSystem(SimStruct *S)
 {
   const char* newstr = sf_c4_flightControlSystem_get_post_codegen_info();
   sf_set_work_widths(S, newstr);
-  ssSetChecksum0(S,(2791857663U));
-  ssSetChecksum1(S,(2603072660U));
-  ssSetChecksum2(S,(953983767U));
-  ssSetChecksum3(S,(1965639974U));
+  ssSetChecksum0(S,(2825395560U));
+  ssSetChecksum1(S,(1123208798U));
+  ssSetChecksum2(S,(3772312744U));
+  ssSetChecksum3(S,(3926790058U));
 }
 
 static void mdlRTW_c4_flightControlSystem(SimStruct *S)
