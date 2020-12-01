@@ -221,1359 +221,1334 @@ static emlrtMCInfo c4_fb_emlrtMCI = { 56,/* lineNo */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/parseSortrowsOptions.m"/* pName */
 };
 
-static emlrtRSInfo c4_emlrtRSI = { 24, /* lineNo */
+static emlrtRSInfo c4_emlrtRSI = { 26, /* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_b_emlrtRSI = { 25,/* lineNo */
+static emlrtRSInfo c4_b_emlrtRSI = { 27,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_c_emlrtRSI = { 26,/* lineNo */
+static emlrtRSInfo c4_c_emlrtRSI = { 28,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_d_emlrtRSI = { 29,/* lineNo */
+static emlrtRSInfo c4_d_emlrtRSI = { 31,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_e_emlrtRSI = { 32,/* lineNo */
+static emlrtRSInfo c4_e_emlrtRSI = { 34,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_f_emlrtRSI = { 33,/* lineNo */
+static emlrtRSInfo c4_f_emlrtRSI = { 35,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_g_emlrtRSI = { 34,/* lineNo */
+static emlrtRSInfo c4_g_emlrtRSI = { 36,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_h_emlrtRSI = { 40,/* lineNo */
+static emlrtRSInfo c4_h_emlrtRSI = { 42,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_i_emlrtRSI = { 41,/* lineNo */
+static emlrtRSInfo c4_i_emlrtRSI = { 43,/* lineNo */
   "Image Processing System/Image Processing Function",/* fcnName */
   "#flightControlSystem:2687"          /* pathName */
 };
 
-static emlrtRSInfo c4_j_emlrtRSI = { 59,/* lineNo */
-  "Image Processing System/Image Processing Function",/* fcnName */
-  "#flightControlSystem:2687"          /* pathName */
-};
-
-static emlrtRSInfo c4_k_emlrtRSI = { 62,/* lineNo */
-  "Image Processing System/Image Processing Function",/* fcnName */
-  "#flightControlSystem:2687"          /* pathName */
-};
-
-static emlrtRSInfo c4_l_emlrtRSI = { 70,/* lineNo */
+static emlrtRSInfo c4_j_emlrtRSI = { 70,/* lineNo */
   "imbinarize",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imbinarize.m"/* pathName */
 };
 
-static emlrtRSInfo c4_m_emlrtRSI = { 102,/* lineNo */
+static emlrtRSInfo c4_k_emlrtRSI = { 102,/* lineNo */
   "imbinarize",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imbinarize.m"/* pathName */
 };
 
-static emlrtRSInfo c4_n_emlrtRSI = { 39,/* lineNo */
+static emlrtRSInfo c4_l_emlrtRSI = { 39,/* lineNo */
   "im2uint8",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/im2uint8.m"/* pathName */
 };
 
-static emlrtRSInfo c4_o_emlrtRSI = { 138,/* lineNo */
+static emlrtRSInfo c4_m_emlrtRSI = { 138,/* lineNo */
   "im2uint8",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/im2uint8.m"/* pathName */
 };
 
-static emlrtRSInfo c4_p_emlrtRSI = { 19,/* lineNo */
+static emlrtRSInfo c4_n_emlrtRSI = { 19,/* lineNo */
   "grayto8",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/grayto8.m"/* pathName */
 };
 
-static emlrtRSInfo c4_q_emlrtRSI = { 133,/* lineNo */
+static emlrtRSInfo c4_o_emlrtRSI = { 133,/* lineNo */
   "imhist",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imhist.m"/* pathName */
 };
 
-static emlrtRSInfo c4_r_emlrtRSI = { 207,/* lineNo */
+static emlrtRSInfo c4_p_emlrtRSI = { 207,/* lineNo */
   "imhist",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imhist.m"/* pathName */
 };
 
-static emlrtRSInfo c4_s_emlrtRSI = { 170,/* lineNo */
+static emlrtRSInfo c4_q_emlrtRSI = { 170,/* lineNo */
   "imhist",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imhist.m"/* pathName */
 };
 
-static emlrtRSInfo c4_t_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c4_r_emlrtRSI = { 14,/* lineNo */
   "warning",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/shared/coder/coder/lib/+coder/+internal/warning.m"/* pathName */
 };
 
-static emlrtRSInfo c4_u_emlrtRSI = { 37,/* lineNo */
+static emlrtRSInfo c4_s_emlrtRSI = { 37,/* lineNo */
   "otsuthresh",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/otsuthresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_v_emlrtRSI = { 71,/* lineNo */
+static emlrtRSInfo c4_t_emlrtRSI = { 71,/* lineNo */
   "otsuthresh",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/otsuthresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_w_emlrtRSI = { 76,/* lineNo */
+static emlrtRSInfo c4_u_emlrtRSI = { 76,/* lineNo */
   "validateattributes",                /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/lang/validateattributes.m"/* pathName */
 };
 
-static emlrtRSInfo c4_x_emlrtRSI = { 45,/* lineNo */
+static emlrtRSInfo c4_v_emlrtRSI = { 45,/* lineNo */
   "mpower",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/mpower.m"/* pathName */
 };
 
-static emlrtRSInfo c4_y_emlrtRSI = { 70,/* lineNo */
+static emlrtRSInfo c4_w_emlrtRSI = { 70,/* lineNo */
   "power",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/power.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ab_emlrtRSI = { 112,/* lineNo */
+static emlrtRSInfo c4_x_emlrtRSI = { 112,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bb_emlrtRSI = { 128,/* lineNo */
+static emlrtRSInfo c4_y_emlrtRSI = { 128,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cb_emlrtRSI = { 134,/* lineNo */
+static emlrtRSInfo c4_ab_emlrtRSI = { 134,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_db_emlrtRSI = { 698,/* lineNo */
+static emlrtRSInfo c4_bb_emlrtRSI = { 698,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_eb_emlrtRSI = { 699,/* lineNo */
+static emlrtRSInfo c4_cb_emlrtRSI = { 699,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fb_emlrtRSI = { 704,/* lineNo */
+static emlrtRSInfo c4_db_emlrtRSI = { 704,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gb_emlrtRSI = { 705,/* lineNo */
+static emlrtRSInfo c4_eb_emlrtRSI = { 705,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hb_emlrtRSI = { 106,/* lineNo */
+static emlrtRSInfo c4_fb_emlrtRSI = { 106,/* lineNo */
   "imfilter",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfilter.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ib_emlrtRSI = { 110,/* lineNo */
+static emlrtRSInfo c4_gb_emlrtRSI = { 110,/* lineNo */
   "imfilter",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfilter.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jb_emlrtRSI = { 849,/* lineNo */
+static emlrtRSInfo c4_hb_emlrtRSI = { 849,/* lineNo */
   "imfilter",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfilter.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kb_emlrtRSI = { 1021,/* lineNo */
+static emlrtRSInfo c4_ib_emlrtRSI = { 1021,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_lb_emlrtRSI = { 934,/* lineNo */
+static emlrtRSInfo c4_jb_emlrtRSI = { 934,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mb_emlrtRSI = { 926,/* lineNo */
+static emlrtRSInfo c4_kb_emlrtRSI = { 926,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nb_emlrtRSI = { 977,/* lineNo */
+static emlrtRSInfo c4_lb_emlrtRSI = { 977,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ob_emlrtRSI = { 21,/* lineNo */
+static emlrtRSInfo c4_mb_emlrtRSI = { 21,/* lineNo */
   "eml_int_forloop_overflow_check",    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/eml/eml_int_forloop_overflow_check.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pb_emlrtRSI = { 994,/* lineNo */
+static emlrtRSInfo c4_nb_emlrtRSI = { 994,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qb_emlrtRSI = { 923,/* lineNo */
+static emlrtRSInfo c4_ob_emlrtRSI = { 923,/* lineNo */
   "imfilter",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfilter.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rb_emlrtRSI = { 997,/* lineNo */
+static emlrtRSInfo c4_pb_emlrtRSI = { 997,/* lineNo */
   "imfilter",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfilter.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sb_emlrtRSI = { 1025,/* lineNo */
+static emlrtRSInfo c4_qb_emlrtRSI = { 1025,/* lineNo */
   "imfilter",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfilter.m"/* pathName */
 };
 
-static emlrtRSInfo c4_tb_emlrtRSI = { 1037,/* lineNo */
+static emlrtRSInfo c4_rb_emlrtRSI = { 1037,/* lineNo */
   "imfilter",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfilter.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ub_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c4_sb_emlrtRSI = { 14,/* lineNo */
   "max",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/max.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vb_emlrtRSI = { 44,/* lineNo */
+static emlrtRSInfo c4_tb_emlrtRSI = { 44,/* lineNo */
   "minOrMax",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/minOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wb_emlrtRSI = { 79,/* lineNo */
+static emlrtRSInfo c4_ub_emlrtRSI = { 79,/* lineNo */
   "minOrMax",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/minOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xb_emlrtRSI = { 147,/* lineNo */
+static emlrtRSInfo c4_vb_emlrtRSI = { 147,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yb_emlrtRSI = { 714,/* lineNo */
+static emlrtRSInfo c4_wb_emlrtRSI = { 714,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ac_emlrtRSI = { 456,/* lineNo */
+static emlrtRSInfo c4_xb_emlrtRSI = { 456,/* lineNo */
   "imhist",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imhist.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bc_emlrtRSI = { 757,/* lineNo */
+static emlrtRSInfo c4_yb_emlrtRSI = { 757,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cc_emlrtRSI = { 751,/* lineNo */
+static emlrtRSInfo c4_ac_emlrtRSI = { 751,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_dc_emlrtRSI = { 859,/* lineNo */
+static emlrtRSInfo c4_bc_emlrtRSI = { 859,/* lineNo */
   "edge",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/edge.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ec_emlrtRSI = { 76,/* lineNo */
+static emlrtRSInfo c4_cc_emlrtRSI = { 76,/* lineNo */
   "imreconstruct",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imreconstruct.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fc_emlrtRSI = { 77,/* lineNo */
+static emlrtRSInfo c4_dc_emlrtRSI = { 77,/* lineNo */
   "bwmorph",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwmorph.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gc_emlrtRSI = { 33,/* lineNo */
+static emlrtRSInfo c4_ec_emlrtRSI = { 33,/* lineNo */
   "algbwmorph",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/algbwmorph.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hc_emlrtRSI = { 322,/* lineNo */
+static emlrtRSInfo c4_fc_emlrtRSI = { 322,/* lineNo */
   "algbwmorph",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/algbwmorph.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ic_emlrtRSI = { 325,/* lineNo */
+static emlrtRSInfo c4_gc_emlrtRSI = { 325,/* lineNo */
   "algbwmorph",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/algbwmorph.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jc_emlrtRSI = { 145,/* lineNo */
+static emlrtRSInfo c4_hc_emlrtRSI = { 145,/* lineNo */
   "bwlookup",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwlookup.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kc_emlrtRSI = { 216,/* lineNo */
+static emlrtRSInfo c4_ic_emlrtRSI = { 216,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_lc_emlrtRSI = { 174,/* lineNo */
+static emlrtRSInfo c4_jc_emlrtRSI = { 174,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mc_emlrtRSI = { 175,/* lineNo */
+static emlrtRSInfo c4_kc_emlrtRSI = { 175,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nc_emlrtRSI = { 28,/* lineNo */
+static emlrtRSInfo c4_lc_emlrtRSI = { 28,/* lineNo */
   "imfindcircles",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfindcircles.m"/* pathName */
 };
 
-static emlrtRSInfo c4_oc_emlrtRSI = { 38,/* lineNo */
+static emlrtRSInfo c4_mc_emlrtRSI = { 38,/* lineNo */
   "imfindcircles",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfindcircles.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pc_emlrtRSI = { 46,/* lineNo */
+static emlrtRSInfo c4_nc_emlrtRSI = { 46,/* lineNo */
   "imfindcircles",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfindcircles.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qc_emlrtRSI = { 24,/* lineNo */
+static emlrtRSInfo c4_oc_emlrtRSI = { 24,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rc_emlrtRSI = { 28,/* lineNo */
+static emlrtRSInfo c4_pc_emlrtRSI = { 28,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sc_emlrtRSI = { 31,/* lineNo */
+static emlrtRSInfo c4_qc_emlrtRSI = { 31,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_tc_emlrtRSI = { 32,/* lineNo */
+static emlrtRSInfo c4_rc_emlrtRSI = { 32,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_uc_emlrtRSI = { 76,/* lineNo */
+static emlrtRSInfo c4_sc_emlrtRSI = { 76,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vc_emlrtRSI = { 136,/* lineNo */
+static emlrtRSInfo c4_tc_emlrtRSI = { 136,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wc_emlrtRSI = { 187,/* lineNo */
+static emlrtRSInfo c4_uc_emlrtRSI = { 187,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xc_emlrtRSI = { 190,/* lineNo */
+static emlrtRSInfo c4_vc_emlrtRSI = { 190,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yc_emlrtRSI = { 195,/* lineNo */
+static emlrtRSInfo c4_wc_emlrtRSI = { 195,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ad_emlrtRSI = { 35,/* lineNo */
+static emlrtRSInfo c4_xc_emlrtRSI = { 35,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bd_emlrtRSI = { 40,/* lineNo */
+static emlrtRSInfo c4_yc_emlrtRSI = { 40,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cd_emlrtRSI = { 60,/* lineNo */
+static emlrtRSInfo c4_ad_emlrtRSI = { 60,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_dd_emlrtRSI = { 101,/* lineNo */
+static emlrtRSInfo c4_bd_emlrtRSI = { 101,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ed_emlrtRSI = { 103,/* lineNo */
+static emlrtRSInfo c4_cd_emlrtRSI = { 103,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fd_emlrtRSI = { 105,/* lineNo */
+static emlrtRSInfo c4_dd_emlrtRSI = { 105,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gd_emlrtRSI = { 107,/* lineNo */
+static emlrtRSInfo c4_ed_emlrtRSI = { 107,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hd_emlrtRSI = { 149,/* lineNo */
+static emlrtRSInfo c4_fd_emlrtRSI = { 149,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_id_emlrtRSI = { 151,/* lineNo */
+static emlrtRSInfo c4_gd_emlrtRSI = { 151,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jd_emlrtRSI = { 152,/* lineNo */
+static emlrtRSInfo c4_hd_emlrtRSI = { 152,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kd_emlrtRSI = { 155,/* lineNo */
+static emlrtRSInfo c4_id_emlrtRSI = { 155,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ld_emlrtRSI = { 575,/* lineNo */
+static emlrtRSInfo c4_jd_emlrtRSI = { 575,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_md_emlrtRSI = { 576,/* lineNo */
+static emlrtRSInfo c4_kd_emlrtRSI = { 576,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nd_emlrtRSI = { 754,/* lineNo */
+static emlrtRSInfo c4_ld_emlrtRSI = { 754,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_od_emlrtRSI = { 755,/* lineNo */
+static emlrtRSInfo c4_md_emlrtRSI = { 755,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pd_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c4_nd_emlrtRSI = { 14,/* lineNo */
   "min",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/min.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qd_emlrtRSI = { 46,/* lineNo */
+static emlrtRSInfo c4_od_emlrtRSI = { 46,/* lineNo */
   "minOrMax",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/minOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rd_emlrtRSI = { 92,/* lineNo */
+static emlrtRSInfo c4_pd_emlrtRSI = { 92,/* lineNo */
   "minOrMax",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/minOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sd_emlrtRSI = { 157,/* lineNo */
+static emlrtRSInfo c4_qd_emlrtRSI = { 157,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_td_emlrtRSI = { 1017,/* lineNo */
+static emlrtRSInfo c4_rd_emlrtRSI = { 1017,/* lineNo */
   "unaryMinOrMax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ud_emlrtRSI = { 452,/* lineNo */
+static emlrtRSInfo c4_sd_emlrtRSI = { 452,/* lineNo */
   "imhist",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imhist.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vd_emlrtRSI = { 196,/* lineNo */
+static emlrtRSInfo c4_td_emlrtRSI = { 196,/* lineNo */
   "imhist",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imhist.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wd_emlrtRSI = { 145,/* lineNo */
+static emlrtRSInfo c4_ud_emlrtRSI = { 145,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xd_emlrtRSI = { 113,/* lineNo */
+static emlrtRSInfo c4_vd_emlrtRSI = { 113,/* lineNo */
   "mergesort",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/mergesort.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yd_emlrtRSI = { 40,/* lineNo */
+static emlrtRSInfo c4_wd_emlrtRSI = { 40,/* lineNo */
   "safeEq",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/safeEq.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ae_emlrtRSI = { 46,/* lineNo */
+static emlrtRSInfo c4_xd_emlrtRSI = { 46,/* lineNo */
   "eps",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/eps.m"/* pathName */
 };
 
-static emlrtRSInfo c4_be_emlrtRSI = { 912,/* lineNo */
+static emlrtRSInfo c4_yd_emlrtRSI = { 912,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ce_emlrtRSI = { 917,/* lineNo */
+static emlrtRSInfo c4_ae_emlrtRSI = { 917,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_de_emlrtRSI = { 44,/* lineNo */
+static emlrtRSInfo c4_be_emlrtRSI = { 44,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ee_emlrtRSI = { 240,/* lineNo */
+static emlrtRSInfo c4_ce_emlrtRSI = { 240,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fe_emlrtRSI = { 234,/* lineNo */
+static emlrtRSInfo c4_de_emlrtRSI = { 234,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ge_emlrtRSI = { 226,/* lineNo */
+static emlrtRSInfo c4_ee_emlrtRSI = { 226,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_he_emlrtRSI = { 215,/* lineNo */
+static emlrtRSInfo c4_fe_emlrtRSI = { 215,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ie_emlrtRSI = { 202,/* lineNo */
+static emlrtRSInfo c4_ge_emlrtRSI = { 202,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_je_emlrtRSI = { 195,/* lineNo */
+static emlrtRSInfo c4_he_emlrtRSI = { 195,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ke_emlrtRSI = { 177,/* lineNo */
+static emlrtRSInfo c4_ie_emlrtRSI = { 177,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_le_emlrtRSI = { 158,/* lineNo */
+static emlrtRSInfo c4_je_emlrtRSI = { 158,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_me_emlrtRSI = { 43,/* lineNo */
+static emlrtRSInfo c4_ke_emlrtRSI = { 43,/* lineNo */
   "indexShapeCheck",                   /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/indexShapeCheck.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ne_emlrtRSI = { 13,/* lineNo */
+static emlrtRSInfo c4_le_emlrtRSI = { 13,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_oe_emlrtRSI = { 17,/* lineNo */
+static emlrtRSInfo c4_me_emlrtRSI = { 17,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pe_emlrtRSI = { 169,/* lineNo */
+static emlrtRSInfo c4_ne_emlrtRSI = { 169,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qe_emlrtRSI = { 172,/* lineNo */
+static emlrtRSInfo c4_oe_emlrtRSI = { 172,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_re_emlrtRSI = { 132,/* lineNo */
+static emlrtRSInfo c4_pe_emlrtRSI = { 132,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_se_emlrtRSI = { 1027,/* lineNo */
+static emlrtRSInfo c4_qe_emlrtRSI = { 1027,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_te_emlrtRSI = { 1028,/* lineNo */
+static emlrtRSInfo c4_re_emlrtRSI = { 1028,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ue_emlrtRSI = { 1037,/* lineNo */
+static emlrtRSInfo c4_se_emlrtRSI = { 1037,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ve_emlrtRSI = { 18,/* lineNo */
+static emlrtRSInfo c4_te_emlrtRSI = { 18,/* lineNo */
   "abs",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elfun/abs.m"/* pathName */
 };
 
-static emlrtRSInfo c4_we_emlrtRSI = { 75,/* lineNo */
+static emlrtRSInfo c4_ue_emlrtRSI = { 75,/* lineNo */
   "applyScalarFunction",               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/applyScalarFunction.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xe_emlrtRSI = { 13,/* lineNo */
+static emlrtRSInfo c4_ve_emlrtRSI = { 13,/* lineNo */
   "any",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/any.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ye_emlrtRSI = { 143,/* lineNo */
+static emlrtRSInfo c4_we_emlrtRSI = { 143,/* lineNo */
   "allOrAny",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/allOrAny.m"/* pathName */
 };
 
-static emlrtRSInfo c4_af_emlrtRSI = { 32,/* lineNo */
+static emlrtRSInfo c4_xe_emlrtRSI = { 32,/* lineNo */
   "sort",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sort.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bf_emlrtRSI = { 72,/* lineNo */
+static emlrtRSInfo c4_ye_emlrtRSI = { 72,/* lineNo */
   "sort",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sort.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cf_emlrtRSI = { 105,/* lineNo */
+static emlrtRSInfo c4_af_emlrtRSI = { 105,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_df_emlrtRSI = { 308,/* lineNo */
+static emlrtRSInfo c4_bf_emlrtRSI = { 308,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ef_emlrtRSI = { 316,/* lineNo */
+static emlrtRSInfo c4_cf_emlrtRSI = { 316,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ff_emlrtRSI = { 317,/* lineNo */
+static emlrtRSInfo c4_df_emlrtRSI = { 317,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gf_emlrtRSI = { 325,/* lineNo */
+static emlrtRSInfo c4_ef_emlrtRSI = { 325,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hf_emlrtRSI = { 333,/* lineNo */
+static emlrtRSInfo c4_ff_emlrtRSI = { 333,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_if_emlrtRSI = { 392,/* lineNo */
+static emlrtRSInfo c4_gf_emlrtRSI = { 392,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jf_emlrtRSI = { 420,/* lineNo */
+static emlrtRSInfo c4_hf_emlrtRSI = { 420,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kf_emlrtRSI = { 427,/* lineNo */
+static emlrtRSInfo c4_if_emlrtRSI = { 427,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_lf_emlrtRSI = { 587,/* lineNo */
+static emlrtRSInfo c4_jf_emlrtRSI = { 587,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mf_emlrtRSI = { 589,/* lineNo */
+static emlrtRSInfo c4_kf_emlrtRSI = { 589,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nf_emlrtRSI = { 617,/* lineNo */
+static emlrtRSInfo c4_lf_emlrtRSI = { 617,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_of_emlrtRSI = { 499,/* lineNo */
+static emlrtRSInfo c4_mf_emlrtRSI = { 499,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pf_emlrtRSI = { 506,/* lineNo */
+static emlrtRSInfo c4_nf_emlrtRSI = { 506,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qf_emlrtRSI = { 507,/* lineNo */
+static emlrtRSInfo c4_of_emlrtRSI = { 507,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rf_emlrtRSI = { 514,/* lineNo */
+static emlrtRSInfo c4_pf_emlrtRSI = { 514,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sf_emlrtRSI = { 561,/* lineNo */
+static emlrtRSInfo c4_qf_emlrtRSI = { 561,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_tf_emlrtRSI = { 530,/* lineNo */
+static emlrtRSInfo c4_rf_emlrtRSI = { 530,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_uf_emlrtRSI = { 35,/* lineNo */
+static emlrtRSInfo c4_sf_emlrtRSI = { 35,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vf_emlrtRSI = { 138,/* lineNo */
+static emlrtRSInfo c4_tf_emlrtRSI = { 138,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wf_emlrtRSI = { 255,/* lineNo */
+static emlrtRSInfo c4_uf_emlrtRSI = { 255,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xf_emlrtRSI = { 254,/* lineNo */
+static emlrtRSInfo c4_vf_emlrtRSI = { 254,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yf_emlrtRSI = { 253,/* lineNo */
+static emlrtRSInfo c4_wf_emlrtRSI = { 253,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ag_emlrtRSI = { 16,/* lineNo */
+static emlrtRSInfo c4_xf_emlrtRSI = { 16,/* lineNo */
   "sub2ind",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/sub2ind.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bg_emlrtRSI = { 28,/* lineNo */
+static emlrtRSInfo c4_yf_emlrtRSI = { 28,/* lineNo */
   "colon",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/colon.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cg_emlrtRSI = { 103,/* lineNo */
+static emlrtRSInfo c4_ag_emlrtRSI = { 103,/* lineNo */
   "colon",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/colon.m"/* pathName */
 };
 
-static emlrtRSInfo c4_dg_emlrtRSI = { 305,/* lineNo */
+static emlrtRSInfo c4_bg_emlrtRSI = { 305,/* lineNo */
   "colon",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/colon.m"/* pathName */
 };
 
-static emlrtRSInfo c4_eg_emlrtRSI = { 161,/* lineNo */
+static emlrtRSInfo c4_cg_emlrtRSI = { 161,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fg_emlrtRSI = { 37,/* lineNo */
+static emlrtRSInfo c4_dg_emlrtRSI = { 37,/* lineNo */
   "medfilt2",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/medfilt2.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gg_emlrtRSI = { 25,/* lineNo */
+static emlrtRSInfo c4_eg_emlrtRSI = { 25,/* lineNo */
   "ordfilt2",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/ordfilt2.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hg_emlrtRSI = { 155,/* lineNo */
+static emlrtRSInfo c4_fg_emlrtRSI = { 155,/* lineNo */
   "ordfilt2",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/ordfilt2.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ig_emlrtRSI = { 179,/* lineNo */
+static emlrtRSInfo c4_gg_emlrtRSI = { 179,/* lineNo */
   "ordfilt2",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/ordfilt2.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jg_emlrtRSI = { 29,/* lineNo */
+static emlrtRSInfo c4_hg_emlrtRSI = { 29,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kg_emlrtRSI = { 34,/* lineNo */
+static emlrtRSInfo c4_ig_emlrtRSI = { 34,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_lg_emlrtRSI = { 35,/* lineNo */
+static emlrtRSInfo c4_jg_emlrtRSI = { 35,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mg_emlrtRSI = { 36,/* lineNo */
+static emlrtRSInfo c4_kg_emlrtRSI = { 36,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ng_emlrtRSI = { 48,/* lineNo */
+static emlrtRSInfo c4_lg_emlrtRSI = { 48,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_og_emlrtRSI = { 53,/* lineNo */
+static emlrtRSInfo c4_mg_emlrtRSI = { 53,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pg_emlrtRSI = { 55,/* lineNo */
+static emlrtRSInfo c4_ng_emlrtRSI = { 55,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qg_emlrtRSI = { 66,/* lineNo */
+static emlrtRSInfo c4_og_emlrtRSI = { 66,/* lineNo */
   "imhmax",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/imhmax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rg_emlrtRSI = { 10,/* lineNo */
+static emlrtRSInfo c4_pg_emlrtRSI = { 10,/* lineNo */
   "imreconstruct",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imreconstruct.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sg_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c4_qg_emlrtRSI = { 14,/* lineNo */
   "imreconstruct",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imreconstruct.m"/* pathName */
 };
 
-static emlrtRSInfo c4_tg_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c4_rg_emlrtRSI = { 14,/* lineNo */
   "imregionalmax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imregionalmax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ug_emlrtRSI = { 35,/* lineNo */
+static emlrtRSInfo c4_sg_emlrtRSI = { 35,/* lineNo */
   "imregionalmax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imregionalmax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vg_emlrtRSI = { 37,/* lineNo */
+static emlrtRSInfo c4_tg_emlrtRSI = { 37,/* lineNo */
   "imregionalmax",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imregionalmax.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wg_emlrtRSI = { 32,/* lineNo */
+static emlrtRSInfo c4_ug_emlrtRSI = { 32,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xg_emlrtRSI = { 73,/* lineNo */
+static emlrtRSInfo c4_vg_emlrtRSI = { 73,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yg_emlrtRSI = { 75,/* lineNo */
+static emlrtRSInfo c4_wg_emlrtRSI = { 75,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ah_emlrtRSI = { 78,/* lineNo */
+static emlrtRSInfo c4_xg_emlrtRSI = { 78,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bh_emlrtRSI = { 168,/* lineNo */
+static emlrtRSInfo c4_yg_emlrtRSI = { 168,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ch_emlrtRSI = { 197,/* lineNo */
+static emlrtRSInfo c4_ah_emlrtRSI = { 197,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_dh_emlrtRSI = { 79,/* lineNo */
+static emlrtRSInfo c4_bh_emlrtRSI = { 79,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_eh_emlrtRSI = { 71,/* lineNo */
+static emlrtRSInfo c4_ch_emlrtRSI = { 71,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fh_emlrtRSI = { 70,/* lineNo */
+static emlrtRSInfo c4_dh_emlrtRSI = { 70,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gh_emlrtRSI = { 69,/* lineNo */
+static emlrtRSInfo c4_eh_emlrtRSI = { 69,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hh_emlrtRSI = { 57,/* lineNo */
+static emlrtRSInfo c4_fh_emlrtRSI = { 57,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ih_emlrtRSI = { 44,/* lineNo */
+static emlrtRSInfo c4_gh_emlrtRSI = { 44,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jh_emlrtRSI = { 23,/* lineNo */
+static emlrtRSInfo c4_hh_emlrtRSI = { 23,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kh_emlrtRSI = { 51,/* lineNo */
+static emlrtRSInfo c4_ih_emlrtRSI = { 51,/* lineNo */
   "intermediateLabelRuns",             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/+coder/intermediateLabelRuns.m"/* pathName */
 };
 
-static emlrtRSInfo c4_lh_emlrtRSI = { 114,/* lineNo */
+static emlrtRSInfo c4_jh_emlrtRSI = { 114,/* lineNo */
   "intermediateLabelRuns",             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/+coder/intermediateLabelRuns.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mh_emlrtRSI = { 149,/* lineNo */
+static emlrtRSInfo c4_kh_emlrtRSI = { 149,/* lineNo */
   "intermediateLabelRuns",             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/+coder/intermediateLabelRuns.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nh_emlrtRSI = { 150,/* lineNo */
+static emlrtRSInfo c4_lh_emlrtRSI = { 150,/* lineNo */
   "intermediateLabelRuns",             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/+coder/intermediateLabelRuns.m"/* pathName */
 };
 
-static emlrtRSInfo c4_oh_emlrtRSI = { 153,/* lineNo */
+static emlrtRSInfo c4_mh_emlrtRSI = { 153,/* lineNo */
   "intermediateLabelRuns",             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/+images/+internal/+coder/intermediateLabelRuns.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ph_emlrtRSI = { 20,/* lineNo */
+static emlrtRSInfo c4_nh_emlrtRSI = { 20,/* lineNo */
   "sum",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qh_emlrtRSI = { 99,/* lineNo */
+static emlrtRSInfo c4_oh_emlrtRSI = { 99,/* lineNo */
   "sumprod",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/sumprod.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rh_emlrtRSI = { 133,/* lineNo */
+static emlrtRSInfo c4_ph_emlrtRSI = { 133,/* lineNo */
   "combineVectorElements",             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/combineVectorElements.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sh_emlrtRSI = { 194,/* lineNo */
+static emlrtRSInfo c4_qh_emlrtRSI = { 194,/* lineNo */
   "combineVectorElements",             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/combineVectorElements.m"/* pathName */
 };
 
-static emlrtRSInfo c4_th_emlrtRSI = { 14,/* lineNo */
+static emlrtRSInfo c4_rh_emlrtRSI = { 14,/* lineNo */
   "cumsum",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/cumsum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_uh_emlrtRSI = { 16,/* lineNo */
+static emlrtRSInfo c4_sh_emlrtRSI = { 16,/* lineNo */
   "cumop",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/cumop.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vh_emlrtRSI = { 32,/* lineNo */
+static emlrtRSInfo c4_th_emlrtRSI = { 32,/* lineNo */
   "useConstantDim",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/useConstantDim.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wh_emlrtRSI = { 99,/* lineNo */
+static emlrtRSInfo c4_uh_emlrtRSI = { 99,/* lineNo */
   "cumop",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/cumop.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xh_emlrtRSI = { 125,/* lineNo */
+static emlrtRSInfo c4_vh_emlrtRSI = { 125,/* lineNo */
   "cumop",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/cumop.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yh_emlrtRSI = { 290,/* lineNo */
+static emlrtRSInfo c4_wh_emlrtRSI = { 290,/* lineNo */
   "cumop",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/private/cumop.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ai_emlrtRSI = { 1283,/* lineNo */
+static emlrtRSInfo c4_xh_emlrtRSI = { 1283,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bi_emlrtRSI = { 1468,/* lineNo */
+static emlrtRSInfo c4_yh_emlrtRSI = { 1468,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ci_emlrtRSI = { 28,/* lineNo */
+static emlrtRSInfo c4_ai_emlrtRSI = { 28,/* lineNo */
   "repmat",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/repmat.m"/* pathName */
 };
 
-static emlrtRSInfo c4_di_emlrtRSI = { 1840,/* lineNo */
+static emlrtRSInfo c4_bi_emlrtRSI = { 1840,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ei_emlrtRSI = { 295,/* lineNo */
+static emlrtRSInfo c4_ci_emlrtRSI = { 295,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fi_emlrtRSI = { 1152,/* lineNo */
+static emlrtRSInfo c4_di_emlrtRSI = { 1152,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gi_emlrtRSI = { 1143,/* lineNo */
+static emlrtRSInfo c4_ei_emlrtRSI = { 1143,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hi_emlrtRSI = { 1138,/* lineNo */
+static emlrtRSInfo c4_fi_emlrtRSI = { 1138,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ii_emlrtRSI = { 1135,/* lineNo */
+static emlrtRSInfo c4_gi_emlrtRSI = { 1135,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ji_emlrtRSI = { 772,/* lineNo */
+static emlrtRSInfo c4_hi_emlrtRSI = { 772,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ki_emlrtRSI = { 770,/* lineNo */
+static emlrtRSInfo c4_ii_emlrtRSI = { 770,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_li_emlrtRSI = { 19,/* lineNo */
+static emlrtRSInfo c4_ji_emlrtRSI = { 19,/* lineNo */
   "ind2sub",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/ind2sub.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mi_emlrtRSI = { 22,/* lineNo */
+static emlrtRSInfo c4_ki_emlrtRSI = { 22,/* lineNo */
   "cat",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/cat.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ni_emlrtRSI = { 102,/* lineNo */
+static emlrtRSInfo c4_li_emlrtRSI = { 102,/* lineNo */
   "cat",                               /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/cat.m"/* pathName */
 };
 
-static emlrtRSInfo c4_oi_emlrtRSI = { 1121,/* lineNo */
+static emlrtRSInfo c4_mi_emlrtRSI = { 1121,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pi_emlrtRSI = { 22,/* lineNo */
+static emlrtRSInfo c4_ni_emlrtRSI = { 22,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qi_emlrtRSI = { 26,/* lineNo */
+static emlrtRSInfo c4_oi_emlrtRSI = { 26,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ri_emlrtRSI = { 274,/* lineNo */
+static emlrtRSInfo c4_pi_emlrtRSI = { 274,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_si_emlrtRSI = { 275,/* lineNo */
+static emlrtRSInfo c4_qi_emlrtRSI = { 275,/* lineNo */
   "nullAssignment",                    /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/nullAssignment.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ti_emlrtRSI = { 10,/* lineNo */
+static emlrtRSInfo c4_ri_emlrtRSI = { 10,/* lineNo */
   "round",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elfun/round.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ui_emlrtRSI = { 33,/* lineNo */
+static emlrtRSInfo c4_si_emlrtRSI = { 33,/* lineNo */
   "applyScalarFunctionInPlace",        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/applyScalarFunctionInPlace.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vi_emlrtRSI = { 27,/* lineNo */
+static emlrtRSInfo c4_ti_emlrtRSI = { 27,/* lineNo */
   "sort",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sort.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wi_emlrtRSI = { 104,/* lineNo */
+static emlrtRSInfo c4_ui_emlrtRSI = { 104,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xi_emlrtRSI = { 340,/* lineNo */
+static emlrtRSInfo c4_vi_emlrtRSI = { 340,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yi_emlrtRSI = { 354,/* lineNo */
+static emlrtRSInfo c4_wi_emlrtRSI = { 354,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_aj_emlrtRSI = { 363,/* lineNo */
+static emlrtRSInfo c4_xi_emlrtRSI = { 363,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bj_emlrtRSI = { 39,/* lineNo */
+static emlrtRSInfo c4_yi_emlrtRSI = { 39,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cj_emlrtRSI = { 144,/* lineNo */
+static emlrtRSInfo c4_aj_emlrtRSI = { 144,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_dj_emlrtRSI = { 382,/* lineNo */
+static emlrtRSInfo c4_bj_emlrtRSI = { 382,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ej_emlrtRSI = { 402,/* lineNo */
+static emlrtRSInfo c4_cj_emlrtRSI = { 402,/* lineNo */
   "find",                              /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/find.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fj_emlrtRSI = { 58,/* lineNo */
+static emlrtRSInfo c4_dj_emlrtRSI = { 58,/* lineNo */
   "hough",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/hough.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gj_emlrtRSI = { 288,/* lineNo */
+static emlrtRSInfo c4_ej_emlrtRSI = { 288,/* lineNo */
   "hough",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/hough.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hj_emlrtRSI = { 295,/* lineNo */
+static emlrtRSInfo c4_fj_emlrtRSI = { 295,/* lineNo */
   "hough",                             /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/hough.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ij_emlrtRSI = { 138,/* lineNo */
+static emlrtRSInfo c4_gj_emlrtRSI = { 138,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jj_emlrtRSI = { 137,/* lineNo */
+static emlrtRSInfo c4_hj_emlrtRSI = { 137,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kj_emlrtRSI = { 91,/* lineNo */
+static emlrtRSInfo c4_ij_emlrtRSI = { 91,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_lj_emlrtRSI = { 90,/* lineNo */
+static emlrtRSInfo c4_jj_emlrtRSI = { 90,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mj_emlrtRSI = { 61,/* lineNo */
+static emlrtRSInfo c4_kj_emlrtRSI = { 61,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nj_emlrtRSI = { 219,/* lineNo */
+static emlrtRSInfo c4_lj_emlrtRSI = { 219,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_oj_emlrtRSI = { 262,/* lineNo */
+static emlrtRSInfo c4_mj_emlrtRSI = { 262,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pj_emlrtRSI = { 265,/* lineNo */
+static emlrtRSInfo c4_nj_emlrtRSI = { 265,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qj_emlrtRSI = { 268,/* lineNo */
+static emlrtRSInfo c4_oj_emlrtRSI = { 268,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rj_emlrtRSI = { 371,/* lineNo */
+static emlrtRSInfo c4_pj_emlrtRSI = { 371,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sj_emlrtRSI = { 383,/* lineNo */
+static emlrtRSInfo c4_qj_emlrtRSI = { 383,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_tj_emlrtRSI = { 415,/* lineNo */
+static emlrtRSInfo c4_rj_emlrtRSI = { 415,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_uj_emlrtRSI = { 410,/* lineNo */
+static emlrtRSInfo c4_sj_emlrtRSI = { 410,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vj_emlrtRSI = { 407,/* lineNo */
+static emlrtRSInfo c4_tj_emlrtRSI = { 407,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wj_emlrtRSI = { 404,/* lineNo */
+static emlrtRSInfo c4_uj_emlrtRSI = { 404,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xj_emlrtRSI = { 74,/* lineNo */
+static emlrtRSInfo c4_vj_emlrtRSI = { 74,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yj_emlrtRSI = { 91,/* lineNo */
+static emlrtRSInfo c4_wj_emlrtRSI = { 91,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ak_emlrtRSI = { 127,/* lineNo */
+static emlrtRSInfo c4_xj_emlrtRSI = { 127,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bk_emlrtRSI = { 137,/* lineNo */
+static emlrtRSInfo c4_yj_emlrtRSI = { 137,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ck_emlrtRSI = { 145,/* lineNo */
+static emlrtRSInfo c4_ak_emlrtRSI = { 145,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_dk_emlrtRSI = { 159,/* lineNo */
+static emlrtRSInfo c4_bk_emlrtRSI = { 159,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ek_emlrtRSI = { 638,/* lineNo */
+static emlrtRSInfo c4_ck_emlrtRSI = { 638,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fk_emlrtRSI = { 531,/* lineNo */
+static emlrtRSInfo c4_dk_emlrtRSI = { 531,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gk_emlrtRSI = { 501,/* lineNo */
+static emlrtRSInfo c4_ek_emlrtRSI = { 501,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hk_emlrtRSI = { 420,/* lineNo */
+static emlrtRSInfo c4_fk_emlrtRSI = { 420,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ik_emlrtRSI = { 24,/* lineNo */
+static emlrtRSInfo c4_gk_emlrtRSI = { 24,/* lineNo */
   "sortrows",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sortrows.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jk_emlrtRSI = { 27,/* lineNo */
+static emlrtRSInfo c4_hk_emlrtRSI = { 27,/* lineNo */
   "sortrows",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sortrows.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kk_emlrtRSI = { 28,/* lineNo */
+static emlrtRSInfo c4_ik_emlrtRSI = { 28,/* lineNo */
   "sortrows",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sortrows.m"/* pathName */
 };
 
-static emlrtRSInfo c4_lk_emlrtRSI = { 86,/* lineNo */
+static emlrtRSInfo c4_jk_emlrtRSI = { 86,/* lineNo */
   "sortIdx",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/sortIdx.m"/* pathName */
 };
 
-static emlrtRSInfo c4_mk_emlrtRSI = { 40,/* lineNo */
+static emlrtRSInfo c4_kk_emlrtRSI = { 40,/* lineNo */
   "sortrows",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sortrows.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nk_emlrtRSI = { 43,/* lineNo */
+static emlrtRSInfo c4_lk_emlrtRSI = { 43,/* lineNo */
   "sortrows",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sortrows.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ok_emlrtRSI = { 543,/* lineNo */
+static emlrtRSInfo c4_mk_emlrtRSI = { 543,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pk_emlrtRSI = { 587,/* lineNo */
+static emlrtRSInfo c4_nk_emlrtRSI = { 587,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_qk_emlrtRSI = { 590,/* lineNo */
+static emlrtRSInfo c4_ok_emlrtRSI = { 590,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rk_emlrtRSI = { 608,/* lineNo */
+static emlrtRSInfo c4_pk_emlrtRSI = { 608,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
-};
-
-static emlrtRSInfo c4_sk_emlrtRSI = { 42,/* lineNo */
-  "string",                            /* fcnName */
-  "/home/yogesh/MATLAB/R2020b/toolbox/shared/coder/coder/lib/+coder/+internal/string.m"/* pathName */
-};
-
-static emlrtRSInfo c4_tk_emlrtRSI = { 38,/* lineNo */
-  "fprintf",                           /* fcnName */
-  "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/iofun/fprintf.m"/* pathName */
-};
-
-static emlrtRSInfo c4_uk_emlrtRSI = { 64,/* lineNo */
-  "fprintf",                           /* fcnName */
-  "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/iofun/fprintf.m"/* pathName */
 };
 
 static emlrtRTEInfo c4_emlrtRTEI = { 147,/* lineNo */
@@ -1600,19 +1575,19 @@ static emlrtRTEInfo c4_d_emlrtRTEI = { 157,/* lineNo */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/unaryMinOrMax.m"/* pName */
 };
 
-static emlrtRTEInfo c4_e_emlrtRTEI = { 29,/* lineNo */
+static emlrtRTEInfo c4_e_emlrtRTEI = { 31,/* lineNo */
   1,                                   /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687"          /* pName */
 };
 
-static emlrtRTEInfo c4_f_emlrtRTEI = { 33,/* lineNo */
+static emlrtRTEInfo c4_f_emlrtRTEI = { 35,/* lineNo */
   1,                                   /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687"          /* pName */
 };
 
-static emlrtRTEInfo c4_g_emlrtRTEI = { 34,/* lineNo */
+static emlrtRTEInfo c4_g_emlrtRTEI = { 36,/* lineNo */
   1,                                   /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687"          /* pName */
@@ -2896,13 +2871,13 @@ static emlrtRTEInfo c4_ti_emlrtRTEI = { 38,/* lineNo */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sortrows.m"/* pName */
 };
 
-static emlrtRTEInfo c4_ui_emlrtRTEI = { 39,/* lineNo */
+static emlrtRTEInfo c4_ui_emlrtRTEI = { 41,/* lineNo */
   9,                                   /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687"          /* pName */
 };
 
-static emlrtRTEInfo c4_vi_emlrtRTEI = { 46,/* lineNo */
+static emlrtRTEInfo c4_vi_emlrtRTEI = { 48,/* lineNo */
   13,                                  /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687"          /* pName */
@@ -2910,7 +2885,7 @@ static emlrtRTEInfo c4_vi_emlrtRTEI = { 46,/* lineNo */
 
 static emlrtBCInfo c4_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  50,                                  /* lineNo */
+  52,                                  /* lineNo */
   32,                                  /* colNo */
   "lines",                             /* aName */
   "Image Processing System/Image Processing Function",/* fName */
@@ -2918,7 +2893,7 @@ static emlrtBCInfo c4_emlrtBCI = { -1, /* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c4_emlrtDCI = { 50, /* lineNo */
+static emlrtDCInfo c4_emlrtDCI = { 52, /* lineNo */
   32,                                  /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687",         /* pName */
@@ -2927,7 +2902,7 @@ static emlrtDCInfo c4_emlrtDCI = { 50, /* lineNo */
 
 static emlrtBCInfo c4_b_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  40,                                  /* lineNo */
+  42,                                  /* lineNo */
   32,                                  /* colNo */
   "lines",                             /* aName */
   "Image Processing System/Image Processing Function",/* fName */
@@ -2935,7 +2910,7 @@ static emlrtBCInfo c4_b_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c4_b_emlrtDCI = { 40,/* lineNo */
+static emlrtDCInfo c4_b_emlrtDCI = { 42,/* lineNo */
   32,                                  /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687",         /* pName */
@@ -2944,7 +2919,7 @@ static emlrtDCInfo c4_b_emlrtDCI = { 40,/* lineNo */
 
 static emlrtBCInfo c4_c_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  47,                                  /* lineNo */
+  49,                                  /* lineNo */
   23,                                  /* colNo */
   "lines",                             /* aName */
   "Image Processing System/Image Processing Function",/* fName */
@@ -2952,7 +2927,7 @@ static emlrtBCInfo c4_c_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c4_c_emlrtDCI = { 47,/* lineNo */
+static emlrtDCInfo c4_c_emlrtDCI = { 49,/* lineNo */
   23,                                  /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687",         /* pName */
@@ -2961,7 +2936,7 @@ static emlrtDCInfo c4_c_emlrtDCI = { 47,/* lineNo */
 
 static emlrtBCInfo c4_d_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  49,                                  /* lineNo */
+  51,                                  /* lineNo */
   21,                                  /* colNo */
   "lines",                             /* aName */
   "Image Processing System/Image Processing Function",/* fName */
@@ -2969,7 +2944,7 @@ static emlrtBCInfo c4_d_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c4_d_emlrtDCI = { 49,/* lineNo */
+static emlrtDCInfo c4_d_emlrtDCI = { 51,/* lineNo */
   21,                                  /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687",         /* pName */
@@ -2978,7 +2953,7 @@ static emlrtDCInfo c4_d_emlrtDCI = { 49,/* lineNo */
 
 static emlrtBCInfo c4_e_emlrtBCI = { -1,/* iFirst */
   -1,                                  /* iLast */
-  41,                                  /* lineNo */
+  43,                                  /* lineNo */
   33,                                  /* colNo */
   "lines",                             /* aName */
   "Image Processing System/Image Processing Function",/* fName */
@@ -2986,7 +2961,7 @@ static emlrtBCInfo c4_e_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo c4_e_emlrtDCI = { 41,/* lineNo */
+static emlrtDCInfo c4_e_emlrtDCI = { 43,/* lineNo */
   33,                                  /* colNo */
   "Image Processing System/Image Processing Function",/* fName */
   "#flightControlSystem:2687",         /* pName */
@@ -4862,162 +4837,162 @@ static emlrtBCInfo c4_hh_emlrtBCI = { -1,/* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtRSInfo c4_vk_emlrtRSI = { 153,/* lineNo */
+static emlrtRSInfo c4_qk_emlrtRSI = { 153,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wk_emlrtRSI = { 152,/* lineNo */
+static emlrtRSInfo c4_rk_emlrtRSI = { 152,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xk_emlrtRSI = { 170,/* lineNo */
+static emlrtRSInfo c4_sk_emlrtRSI = { 170,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yk_emlrtRSI = { 159,/* lineNo */
+static emlrtRSInfo c4_tk_emlrtRSI = { 159,/* lineNo */
   "unique",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/ops/unique.m"/* pathName */
 };
 
-static emlrtRSInfo c4_al_emlrtRSI = { 122,/* lineNo */
+static emlrtRSInfo c4_uk_emlrtRSI = { 122,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bl_emlrtRSI = { 181,/* lineNo */
+static emlrtRSInfo c4_vk_emlrtRSI = { 181,/* lineNo */
   "houghpeaks",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghpeaks.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cl_emlrtRSI = { 56,/* lineNo */
+static emlrtRSInfo c4_wk_emlrtRSI = { 56,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_dl_emlrtRSI = { 40,/* lineNo */
+static emlrtRSInfo c4_xk_emlrtRSI = { 40,/* lineNo */
   "chcenters",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chcenters.m"/* pathName */
 };
 
-static emlrtRSInfo c4_el_emlrtRSI = { 94,/* lineNo */
+static emlrtRSInfo c4_yk_emlrtRSI = { 94,/* lineNo */
   "multithresh",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/multithresh.m"/* pathName */
 };
 
-static emlrtRSInfo c4_fl_emlrtRSI = { 47,/* lineNo */
+static emlrtRSInfo c4_al_emlrtRSI = { 47,/* lineNo */
   "imfindcircles",                     /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/imfindcircles.m"/* pathName */
 };
 
-static emlrtRSInfo c4_gl_emlrtRSI = { 31,/* lineNo */
+static emlrtRSInfo c4_bl_emlrtRSI = { 31,/* lineNo */
   "repmat",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/repmat.m"/* pathName */
 };
 
-static emlrtRSInfo c4_hl_emlrtRSI = { 95,/* lineNo */
+static emlrtRSInfo c4_cl_emlrtRSI = { 95,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_il_emlrtRSI = { 38,/* lineNo */
+static emlrtRSInfo c4_dl_emlrtRSI = { 38,/* lineNo */
   "sortrows",                          /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/datafun/sortrows.m"/* pathName */
 };
 
-static emlrtRSInfo c4_jl_emlrtRSI = { 52,/* lineNo */
+static emlrtRSInfo c4_el_emlrtRSI = { 52,/* lineNo */
   "mergesort",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/mergesort.m"/* pathName */
 };
 
-static emlrtRSInfo c4_kl_emlrtRSI = { 55,/* lineNo */
+static emlrtRSInfo c4_fl_emlrtRSI = { 55,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ll_emlrtRSI = { 39,/* lineNo */
+static emlrtRSInfo c4_gl_emlrtRSI = { 39,/* lineNo */
   "bwconncomp",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/bwconncomp.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ml_emlrtRSI = { 48,/* lineNo */
+static emlrtRSInfo c4_hl_emlrtRSI = { 48,/* lineNo */
   "sub2ind",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/sub2ind.m"/* pathName */
 };
 
-static emlrtRSInfo c4_nl_emlrtRSI = { 46,/* lineNo */
+static emlrtRSInfo c4_il_emlrtRSI = { 46,/* lineNo */
   "sub2ind",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/sub2ind.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ol_emlrtRSI = { 121,/* lineNo */
+static emlrtRSInfo c4_jl_emlrtRSI = { 121,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_pl_emlrtRSI = { 120,/* lineNo */
+static emlrtRSInfo c4_kl_emlrtRSI = { 120,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ql_emlrtRSI = { 1142,/* lineNo */
+static emlrtRSInfo c4_ll_emlrtRSI = { 1142,/* lineNo */
   "regionprops",                       /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/regionprops.m"/* pathName */
 };
 
-static emlrtRSInfo c4_rl_emlrtRSI = { 41,/* lineNo */
+static emlrtRSInfo c4_ml_emlrtRSI = { 41,/* lineNo */
   "sub2ind",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/sub2ind.m"/* pathName */
 };
 
-static emlrtRSInfo c4_sl_emlrtRSI = { 79,/* lineNo */
+static emlrtRSInfo c4_nl_emlrtRSI = { 79,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_tl_emlrtRSI = { 78,/* lineNo */
+static emlrtRSInfo c4_ol_emlrtRSI = { 78,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_ul_emlrtRSI = { 77,/* lineNo */
+static emlrtRSInfo c4_pl_emlrtRSI = { 77,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_vl_emlrtRSI = { 92,/* lineNo */
+static emlrtRSInfo c4_ql_emlrtRSI = { 92,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_wl_emlrtRSI = { 91,/* lineNo */
+static emlrtRSInfo c4_rl_emlrtRSI = { 91,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_xl_emlrtRSI = { 94,/* lineNo */
+static emlrtRSInfo c4_sl_emlrtRSI = { 94,/* lineNo */
   "chaccum",                           /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/private/chaccum.m"/* pathName */
 };
 
-static emlrtRSInfo c4_yl_emlrtRSI = { 1,/* lineNo */
+static emlrtRSInfo c4_tl_emlrtRSI = { 1,/* lineNo */
   "mergesort",                         /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/eml/+coder/+internal/mergesort.m"/* pathName */
 };
 
-static emlrtRSInfo c4_am_emlrtRSI = { 151,/* lineNo */
+static emlrtRSInfo c4_ul_emlrtRSI = { 151,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_bm_emlrtRSI = { 150,/* lineNo */
+static emlrtRSInfo c4_vl_emlrtRSI = { 150,/* lineNo */
   "houghlines",                        /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/images/images/eml/houghlines.m"/* pathName */
 };
 
-static emlrtRSInfo c4_cm_emlrtRSI = { 53,/* lineNo */
+static emlrtRSInfo c4_wl_emlrtRSI = { 53,/* lineNo */
   "repmat",                            /* fcnName */
   "/home/yogesh/MATLAB/R2020b/toolbox/eml/lib/matlab/elmat/repmat.m"/* pathName */
 };
@@ -5336,15 +5311,10 @@ static int32_T c4_b_power(SFc4_flightControlSystemInstanceStruct *chartInstance,
 static void c4_b_repmat(SFc4_flightControlSystemInstanceStruct *chartInstance,
   const emlrtStack *c4_sp, int32_T c4_b_varargin_2,
   c4_emxArray_skoeQIuVNKJRHNtBIlOCZh *c4_b);
-static void c4_string_disp(SFc4_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c4_sp);
-static void c4_b_string_disp(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c4_sp);
 static const mxArray *c4_emlrt_marshallOut
   (SFc4_flightControlSystemInstanceStruct *chartInstance, const char_T c4_b_u[30]);
 static real_T c4_emlrt_marshallIn(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c4_a__output_of_feval_, const char_T
-  *c4_identifier);
+  *chartInstance, const mxArray *c4_b_mode, const char_T *c4_identifier);
 static real_T c4_b_emlrt_marshallIn(SFc4_flightControlSystemInstanceStruct
   *chartInstance, const mxArray *c4_b_u, const emlrtMsgIdentifier *c4_parentId);
 static uint8_T c4_c_emlrt_marshallIn(SFc4_flightControlSystemInstanceStruct
@@ -5369,12 +5339,6 @@ static const mxArray *c4_e_feval(SFc4_flightControlSystemInstanceStruct
   mxArray *c4_input1);
 static void c4_f_feval(SFc4_flightControlSystemInstanceStruct *chartInstance,
   const emlrtStack *c4_sp, const mxArray *c4_input0, const mxArray *c4_input1);
-static const mxArray *c4_g_feval(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c4_sp, const mxArray *c4_input0, const
-  mxArray *c4_input1, const mxArray *c4_input2, const mxArray *c4_input3);
-static const mxArray *c4_h_feval(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c4_sp, const mxArray *c4_input0, const
-  mxArray *c4_input1, const mxArray *c4_input2, const mxArray *c4_input3);
 static void c4_b_bwmorphApplyOnce(SFc4_flightControlSystemInstanceStruct
   *chartInstance, boolean_T c4_bw[19200]);
 static void c4_c_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance,
@@ -5713,6 +5677,7 @@ static void sf_gateway_c4_flightControlSystem
     NULL                               /* prev */
   };
 
+  const mxArray *c4_y = NULL;
   real_T c4_b_dv[256];
   real_T c4_b_x_data[180];
   real_T c4_c_x_data[180];
@@ -5748,10 +5713,7 @@ static void sf_gateway_c4_flightControlSystem
   real_T c4_o_x;
   real_T c4_p_x;
   real_T c4_q_x;
-  real_T c4_r_x;
-  real_T c4_s_x;
   real_T c4_t;
-  real_T c4_t_x;
   real_T c4_temp_;
   int32_T c4_x_size[2];
   int32_T c4_b_first;
@@ -5856,16 +5818,16 @@ static void sf_gateway_c4_flightControlSystem
   c4_temp = false;
   c4_temp_ = 0.0;
   c4_b_st.site = &c4_emlrtRSI;
-  c4_c_st.site = &c4_l_emlrtRSI;
-  c4_d_st.site = &c4_m_emlrtRSI;
-  c4_e_st.site = &c4_n_emlrtRSI;
-  c4_f_st.site = &c4_o_emlrtRSI;
-  c4_g_st.site = &c4_p_emlrtRSI;
+  c4_c_st.site = &c4_j_emlrtRSI;
+  c4_d_st.site = &c4_k_emlrtRSI;
+  c4_e_st.site = &c4_l_emlrtRSI;
+  c4_f_st.site = &c4_m_emlrtRSI;
+  c4_g_st.site = &c4_n_emlrtRSI;
   grayto8_real64(&(*chartInstance->c4_image)[0], &chartInstance->c4_u[0],
                  19200.0);
-  c4_d_st.site = &c4_m_emlrtRSI;
+  c4_d_st.site = &c4_k_emlrtRSI;
   c4_imhist(chartInstance, &c4_d_st, chartInstance->c4_u, c4_b_dv);
-  c4_d_st.site = &c4_m_emlrtRSI;
+  c4_d_st.site = &c4_k_emlrtRSI;
   c4_t = c4_otsuthresh(chartInstance, &c4_d_st, c4_b_dv);
   c4_T = c4_t;
   for (c4_i1 = 0; c4_i1 < 19200; c4_i1++) {
@@ -5903,8 +5865,8 @@ static void sf_gateway_c4_flightControlSystem
   c4_emxInit_real_T(chartInstance, &c4_b_st, &c4_P, 2, &c4_f_emlrtRTEI);
   c4_emxInit_skoeQIuVNKJRHNtBIlOCZhD(chartInstance, &c4_b_st, &c4_lines, 2,
     &c4_g_emlrtRTEI);
-  c4_c_st.site = &c4_ub_emlrtRSI;
-  c4_d_st.site = &c4_vb_emlrtRSI;
+  c4_c_st.site = &c4_sb_emlrtRSI;
+  c4_d_st.site = &c4_tb_emlrtRSI;
   c4_maxval = c4_c_maximum(chartInstance, &c4_d_st, chartInstance->c4_varargin_1);
   c4_c_x = 0.3 * c4_maxval;
   c4_d_x = c4_c_x;
@@ -5931,17 +5893,17 @@ static void sf_gateway_c4_flightControlSystem
     c4_i8 = (int32_T)emlrtIntegerCheckR2012b(c4_c_i, &c4_b_emlrtDCI, &c4_b_st);
     c4_d_varargin_1[1] = c4_lines->data[emlrtDynamicBoundsCheckR2012b(c4_i8, 1,
       c4_i7, &c4_b_emlrtBCI, &c4_b_st) - 1].theta;
-    c4_c_st.site = &c4_ub_emlrtRSI;
-    c4_d_st.site = &c4_vb_emlrtRSI;
-    c4_e_st.site = &c4_wb_emlrtRSI;
-    c4_f_st.site = &c4_xb_emlrtRSI;
+    c4_c_st.site = &c4_sb_emlrtRSI;
+    c4_d_st.site = &c4_tb_emlrtRSI;
+    c4_e_st.site = &c4_ub_emlrtRSI;
+    c4_f_st.site = &c4_vb_emlrtRSI;
     c4_x_size[0] = 1;
     c4_x_size[1] = 2;
     for (c4_i11 = 0; c4_i11 < 2; c4_i11++) {
       c4_b_x_data[c4_i11] = c4_d_varargin_1[c4_i11];
     }
 
-    c4_g_st.site = &c4_kb_emlrtRSI;
+    c4_g_st.site = &c4_ib_emlrtRSI;
     c4_c_n = c4_x_size[1];
     if (c4_c_n <= 2) {
       if (c4_b_x_data[0] < c4_b_x_data[1]) {
@@ -5962,27 +5924,27 @@ static void sf_gateway_c4_flightControlSystem
         }
       }
     } else {
-      c4_h_st.site = &c4_mb_emlrtRSI;
+      c4_h_st.site = &c4_kb_emlrtRSI;
       c4_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
       for (c4_i15 = 0; c4_i15 <= c4_loop_ub; c4_i15++) {
         c4_c_x_data[c4_i15] = c4_b_x_data[c4_i15];
       }
 
       c4_f_x = c4_c_x_data[0];
-      c4_j_x = c4_f_x;
-      c4_c_b = muDoubleScalarIsNaN(c4_j_x);
+      c4_i_x = c4_f_x;
+      c4_c_b = muDoubleScalarIsNaN(c4_i_x);
       c4_p = !c4_c_b;
       if (c4_p) {
         c4_b_idx = 1;
       } else {
         c4_b_idx = 0;
-        c4_i_st.site = &c4_nb_emlrtRSI;
+        c4_i_st.site = &c4_lb_emlrtRSI;
         c4_k = 2;
         c4_exitg1 = false;
         while ((!c4_exitg1) && (c4_k < 181)) {
-          c4_m_x = c4_c_x_data[c4_k - 1];
-          c4_n_x = c4_m_x;
-          c4_d_b = muDoubleScalarIsNaN(c4_n_x);
+          c4_j_x = c4_c_x_data[c4_k - 1];
+          c4_k_x = c4_j_x;
+          c4_d_b = muDoubleScalarIsNaN(c4_k_x);
           c4_b_p = !c4_d_b;
           if (c4_b_p) {
             c4_b_idx = c4_k;
@@ -5996,7 +5958,7 @@ static void sf_gateway_c4_flightControlSystem
       if (c4_b_idx == 0) {
         c4_max_angle = c4_b_x_data[0];
       } else {
-        c4_h_st.site = &c4_lb_emlrtRSI;
+        c4_h_st.site = &c4_jb_emlrtRSI;
         c4_b_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
         for (c4_i20 = 0; c4_i20 <= c4_b_loop_ub; c4_i20++) {
           c4_c_x_data[c4_i20] = c4_b_x_data[c4_i20];
@@ -6005,10 +5967,10 @@ static void sf_gateway_c4_flightControlSystem
         c4_first = c4_b_idx - 1;
         c4_ex = c4_c_x_data[c4_first];
         c4_i22 = c4_first;
-        c4_i_st.site = &c4_pb_emlrtRSI;
+        c4_i_st.site = &c4_nb_emlrtRSI;
         c4_overflow = false;
         if (c4_overflow) {
-          c4_j_st.site = &c4_ob_emlrtRSI;
+          c4_j_st.site = &c4_mb_emlrtRSI;
           c4_check_forloop_overflow_error(chartInstance, &c4_j_st);
         }
 
@@ -6028,27 +5990,27 @@ static void sf_gateway_c4_flightControlSystem
     c4_i19 = (int32_T)emlrtIntegerCheckR2012b(c4_c_i, &c4_e_emlrtDCI, &c4_b_st);
     c4_d_varargin_1[1] = c4_lines->data[emlrtDynamicBoundsCheckR2012b(c4_i19, 1,
       c4_i18, &c4_e_emlrtBCI, &c4_b_st) - 1].theta;
-    c4_c_st.site = &c4_pd_emlrtRSI;
-    c4_d_st.site = &c4_qd_emlrtRSI;
-    c4_e_st.site = &c4_rd_emlrtRSI;
-    c4_f_st.site = &c4_sd_emlrtRSI;
+    c4_c_st.site = &c4_nd_emlrtRSI;
+    c4_d_st.site = &c4_od_emlrtRSI;
+    c4_e_st.site = &c4_pd_emlrtRSI;
+    c4_f_st.site = &c4_qd_emlrtRSI;
     c4_x_size[0] = 1;
     c4_x_size[1] = 2;
     for (c4_i21 = 0; c4_i21 < 2; c4_i21++) {
       c4_b_x_data[c4_i21] = c4_d_varargin_1[c4_i21];
     }
 
-    c4_g_st.site = &c4_td_emlrtRSI;
+    c4_g_st.site = &c4_rd_emlrtRSI;
     c4_f_n = c4_x_size[1];
     if (c4_f_n <= 2) {
       if (c4_b_x_data[0] > c4_b_x_data[1]) {
         c4_min_angle = c4_b_x_data[1];
       } else {
-        c4_o_x = c4_b_x_data[0];
-        c4_e_b = muDoubleScalarIsNaN(c4_o_x);
+        c4_l_x = c4_b_x_data[0];
+        c4_e_b = muDoubleScalarIsNaN(c4_l_x);
         if (c4_e_b) {
-          c4_q_x = c4_b_x_data[1];
-          c4_f_b = muDoubleScalarIsNaN(c4_q_x);
+          c4_n_x = c4_b_x_data[1];
+          c4_f_b = muDoubleScalarIsNaN(c4_n_x);
           if (!c4_f_b) {
             c4_min_angle = c4_b_x_data[1];
           } else {
@@ -6059,27 +6021,27 @@ static void sf_gateway_c4_flightControlSystem
         }
       }
     } else {
-      c4_h_st.site = &c4_mb_emlrtRSI;
+      c4_h_st.site = &c4_kb_emlrtRSI;
       c4_c_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
       for (c4_i23 = 0; c4_i23 <= c4_c_loop_ub; c4_i23++) {
         c4_c_x_data[c4_i23] = c4_b_x_data[c4_i23];
       }
 
-      c4_p_x = c4_c_x_data[0];
-      c4_r_x = c4_p_x;
-      c4_g_b = muDoubleScalarIsNaN(c4_r_x);
+      c4_m_x = c4_c_x_data[0];
+      c4_o_x = c4_m_x;
+      c4_g_b = muDoubleScalarIsNaN(c4_o_x);
       c4_c_p = !c4_g_b;
       if (c4_c_p) {
         c4_c_idx = 1;
       } else {
         c4_c_idx = 0;
-        c4_i_st.site = &c4_nb_emlrtRSI;
+        c4_i_st.site = &c4_lb_emlrtRSI;
         c4_c_k = 2;
         c4_exitg1 = false;
         while ((!c4_exitg1) && (c4_c_k < 181)) {
-          c4_s_x = c4_c_x_data[c4_c_k - 1];
-          c4_t_x = c4_s_x;
-          c4_h_b = muDoubleScalarIsNaN(c4_t_x);
+          c4_p_x = c4_c_x_data[c4_c_k - 1];
+          c4_q_x = c4_p_x;
+          c4_h_b = muDoubleScalarIsNaN(c4_q_x);
           c4_d_p = !c4_h_b;
           if (c4_d_p) {
             c4_c_idx = c4_c_k;
@@ -6093,7 +6055,7 @@ static void sf_gateway_c4_flightControlSystem
       if (c4_c_idx == 0) {
         c4_min_angle = c4_b_x_data[0];
       } else {
-        c4_h_st.site = &c4_lb_emlrtRSI;
+        c4_h_st.site = &c4_jb_emlrtRSI;
         c4_d_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
         for (c4_i24 = 0; c4_i24 <= c4_d_loop_ub; c4_i24++) {
           c4_c_x_data[c4_i24] = c4_b_x_data[c4_i24];
@@ -6102,10 +6064,10 @@ static void sf_gateway_c4_flightControlSystem
         c4_b_first = c4_c_idx - 1;
         c4_b_ex = c4_c_x_data[c4_b_first];
         c4_i25 = c4_b_first;
-        c4_i_st.site = &c4_pb_emlrtRSI;
+        c4_i_st.site = &c4_nb_emlrtRSI;
         c4_b_overflow = false;
         if (c4_b_overflow) {
-          c4_j_st.site = &c4_ob_emlrtRSI;
+          c4_j_st.site = &c4_mb_emlrtRSI;
           c4_check_forloop_overflow_error(chartInstance, &c4_j_st);
         }
 
@@ -6144,13 +6106,13 @@ static void sf_gateway_c4_flightControlSystem
       if (covrtEmlCondEval(chartInstance->c4_covrtInstance, 4U, 0, 0,
                            covrtRelationalopUpdateFcn
                            (chartInstance->c4_covrtInstance, 4U, 0U, 1U,
-                            c4_hough_angle, c4_angle_temp - 10.0, -1, 4U,
-                            c4_hough_angle > c4_angle_temp - 10.0)) ||
+                            c4_hough_angle, c4_angle_temp - 5.0, -1, 4U,
+                            c4_hough_angle > c4_angle_temp - 5.0)) ||
           covrtEmlCondEval(chartInstance->c4_covrtInstance, 4U, 0, 1,
                            covrtRelationalopUpdateFcn
                            (chartInstance->c4_covrtInstance, 4U, 0U, 2U,
-                            c4_hough_angle, c4_angle_temp + 10.0, -1, 2U,
-                            c4_hough_angle < c4_angle_temp + 10.0))) {
+                            c4_hough_angle, c4_angle_temp + 5.0, -1, 2U,
+                            c4_hough_angle < c4_angle_temp + 5.0))) {
         covrtEmlMcdcEval(chartInstance->c4_covrtInstance, 4U, 0, 0, true);
         covrtEmlIfEval(chartInstance->c4_covrtInstance, 4U, 0, 1, true);
         c4_i12 = c4_lines->size[1];
@@ -6161,8 +6123,8 @@ static void sf_gateway_c4_flightControlSystem
         c4_i16 = (int32_T)emlrtIntegerCheckR2012b(c4_c_i, &c4_emlrtDCI, &c4_st);
         c4_i17 = emlrtDynamicBoundsCheckR2012b(c4_i16, 1, c4_i14, &c4_emlrtBCI,
           &c4_st) - 1;
-        c4_i_x = c4_lines->data[c4_i17].point1[0] + c4_angle;
-        c4_temp_ = c4_i_x;
+        c4_h_x = c4_lines->data[c4_i17].point1[0] + c4_angle;
+        c4_temp_ = c4_h_x;
         c4_temp_ = muDoubleScalarSign(c4_temp_);
       } else {
         covrtEmlMcdcEval(chartInstance->c4_covrtInstance, 4U, 0, 0, false);
@@ -6188,8 +6150,6 @@ static void sf_gateway_c4_flightControlSystem
           c4_temp_ == 1.0))) {
       covrtEmlMcdcEval(chartInstance->c4_covrtInstance, 4U, 0, 1, true);
       covrtEmlIfEval(chartInstance->c4_covrtInstance, 4U, 0, 3, true);
-      c4_b_st.site = &c4_j_emlrtRSI;
-      c4_string_disp(chartInstance, &c4_b_st);
       c4_angle += 180.0;
     } else {
       covrtEmlMcdcEval(chartInstance->c4_covrtInstance, 4U, 0, 1, false);
@@ -6204,14 +6164,16 @@ static void sf_gateway_c4_flightControlSystem
                             c4_temp_, -1.0, -1, 0U, c4_temp_ == -1.0))) {
         covrtEmlMcdcEval(chartInstance->c4_covrtInstance, 4U, 0, 2, true);
         covrtEmlIfEval(chartInstance->c4_covrtInstance, 4U, 0, 4, true);
-        c4_b_st.site = &c4_k_emlrtRSI;
-        c4_b_string_disp(chartInstance, &c4_b_st);
         c4_angle -= 180.0;
       } else {
         covrtEmlMcdcEval(chartInstance->c4_covrtInstance, 4U, 0, 2, false);
         covrtEmlIfEval(chartInstance->c4_covrtInstance, 4U, 0, 4, false);
       }
     }
+
+    c4_y = NULL;
+    sf_mex_assign(&c4_y, sf_mex_create("y", &c4_angle, 0, 0U, 0U, 0U, 0), false);
+    sf_mex_call(&c4_st, NULL, "disp", 0U, 1U, 14, c4_y);
   }
 
   c4_emxFree_skoeQIuVNKJRHNtBIlOCZhD(chartInstance, &c4_lines);
@@ -6248,10 +6210,7 @@ static void sf_gateway_c4_flightControlSystem
     c4_b_mode = 2.0;
   }
 
-  c4_h_x = c4_angle;
-  c4_k_x = c4_h_x;
-  c4_l_x = c4_k_x;
-  c4_b_output_angle = muDoubleScalarAbs(c4_l_x);
+  c4_b_output_angle = c4_angle;
   *chartInstance->c4_output_angle = c4_b_output_angle;
   *chartInstance->c4_mode = c4_b_mode;
   c4_do_animation_call_c4_flightControlSystem(chartInstance);
@@ -6281,17 +6240,17 @@ static void mdl_setup_runtime_resources_c4_flightControlSystem
 
   static const int32_T c4_postfixPredicateTree[3] = { 0, 1, -2 };
 
-  static const int32_T c4_b_condTxtEndIdx[2] = { 1560, 1574 };
+  static const int32_T c4_b_condTxtEndIdx[2] = { 1613, 1627 };
 
-  static const int32_T c4_b_condTxtStartIdx[2] = { 1551, 1564 };
+  static const int32_T c4_b_condTxtStartIdx[2] = { 1604, 1617 };
 
-  static const int32_T c4_c_condTxtEndIdx[2] = { 1651, 1666 };
+  static const int32_T c4_c_condTxtEndIdx[2] = { 1677, 1692 };
 
-  static const int32_T c4_c_condTxtStartIdx[2] = { 1642, 1655 };
+  static const int32_T c4_c_condTxtStartIdx[2] = { 1668, 1681 };
 
-  static const int32_T c4_condTxtEndIdx[2] = { 1294, 1329 };
+  static const int32_T c4_condTxtEndIdx[2] = { 1348, 1382 };
 
-  static const int32_T c4_condTxtStartIdx[2] = { 1265, 1300 };
+  static const int32_T c4_condTxtStartIdx[2] = { 1320, 1354 };
 
   static const uint32_T c4_decisionTxtEndIdx = 0U;
   static const uint32_T c4_decisionTxtStartIdx = 0U;
@@ -6305,7 +6264,7 @@ static void mdl_setup_runtime_resources_c4_flightControlSystem
     &chartInstance->c4_mlFcnLineNumber, &chartInstance->c4_IsHeatMapPresent, 0);
   sim_mode_is_external(chartInstance->S);
   covrtCreateStateflowInstanceData(chartInstance->c4_covrtInstance, 1U, 0U, 1U,
-    88U);
+    82U);
   covrtChartInitFcn(chartInstance->c4_covrtInstance, 0U, false, false, false);
   covrtStateInitFcn(chartInstance->c4_covrtInstance, 0U, 0U, false, false, false,
                     0U, &c4_decisionTxtStartIdx, &c4_decisionTxtEndIdx);
@@ -6313,48 +6272,48 @@ static void mdl_setup_runtime_resources_c4_flightControlSystem
   covrtEmlInitFcn(chartInstance->c4_covrtInstance, "", 4U, 0U, 1U, 0U, 6U, 0U,
                   0U, 0U, 2U, 0U, 6U, 3U);
   covrtEmlFcnInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U,
-                     "eML_blk_kernel", 430, -1, 1805);
-  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1151, 1172, -1,
-                    1734);
-  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1261, 1330, -1,
-                    1436);
-  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 2U, 1445, 1461, -1,
-                    1530);
-  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 3U, 1548, 1574,
-                    1635, 1666);
-  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 4U, 1635, 1666, -1,
-                    1666);
-  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 5U, 1736, 1759, -1,
-                    1777);
-  covrtEmlForInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1023, 1047,
-                     1149);
-  covrtEmlForInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1191, 1215,
-                     1538);
-  covrtEmlMCDCInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1264, 1330,
+                     "eML_blk_kernel", 485, -1, 1821);
+  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1206, 1227, -1,
+                    1755);
+  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1316, 1383, -1,
+                    1489);
+  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 2U, 1498, 1514, -1,
+                    1583);
+  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 3U, 1601, 1627,
+                    1661, 1692);
+  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 4U, 1661, 1692, -1,
+                    1692);
+  covrtEmlIfInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 5U, 1757, 1780, -1,
+                    1798);
+  covrtEmlForInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1078, 1102,
+                     1204);
+  covrtEmlForInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1246, 1270,
+                     1591);
+  covrtEmlMCDCInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1319, 1383,
                       2U, 0U, c4_condTxtStartIdx, c4_condTxtEndIdx, 3U,
                       c4_postfixPredicateTree);
-  covrtEmlMCDCInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1551, 1574,
+  covrtEmlMCDCInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1604, 1627,
                       2U, 2U, c4_b_condTxtStartIdx, c4_b_condTxtEndIdx, 3U,
                       c4_b_postfixPredicateTree);
-  covrtEmlMCDCInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 2U, 1642, 1666,
+  covrtEmlMCDCInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 2U, 1668, 1692,
                       2U, 4U, c4_c_condTxtStartIdx, c4_c_condTxtEndIdx, 3U,
                       c4_c_postfixPredicateTree);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1154,
-    1172, -1, 0U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1265,
-    1294, -1, 4U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 2U, 1300,
-    1329, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 4U, 1551,
-    1560, -1, 2U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 5U, 1564,
-    1574, -1, 0U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 6U, 1642,
-    1651, -1, 4U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 7U, 1655,
-    1666, -1, 0U);
-  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 8U, 1739,
-    1759, -1, 0U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 0U, 1209,
+    1227, -1, 0U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 1U, 1320,
+    1348, -1, 4U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 2U, 1354,
+    1382, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 4U, 1604,
+    1613, -1, 2U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 5U, 1617,
+    1627, -1, 0U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 6U, 1668,
+    1677, -1, 4U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 7U, 1681,
+    1692, -1, 0U);
+  covrtEmlRelationalInitFcn(chartInstance->c4_covrtInstance, 4U, 0U, 8U, 1760,
+    1780, -1, 0U);
 }
 
 static void mdl_cleanup_runtime_resources_c4_flightControlSystem
@@ -6429,11 +6388,11 @@ static void c4_imhist(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_st.tls = c4_sp->tls;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
-  c4_st.site = &c4_q_emlrtRSI;
-  c4_b_st.site = &c4_s_emlrtRSI;
+  c4_st.site = &c4_o_emlrtRSI;
+  c4_b_st.site = &c4_q_emlrtRSI;
   c4_b_out = 1.0;
   getnumcores(&c4_b_out);
-  c4_b_st.site = &c4_r_emlrtRSI;
+  c4_b_st.site = &c4_p_emlrtRSI;
   for (c4_i = 0; c4_i < 256; c4_i++) {
     c4_yout[c4_i] = 0.0;
   }
@@ -6577,8 +6536,8 @@ static real_T c4_otsuthresh(SFc4_flightControlSystemInstanceStruct
   c4_st.tls = c4_sp->tls;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
-  c4_st.site = &c4_u_emlrtRSI;
-  c4_b_st.site = &c4_w_emlrtRSI;
+  c4_st.site = &c4_s_emlrtRSI;
+  c4_b_st.site = &c4_u_emlrtRSI;
   c4_p = true;
   c4_k = 0;
   c4_exitg1 = false;
@@ -6621,7 +6580,7 @@ static real_T c4_otsuthresh(SFc4_flightControlSystemInstanceStruct
       (&c4_b_st, NULL, "message", 1U, 2U, 14, c4_b_y, 14, c4_c_y)));
   }
 
-  c4_b_st.site = &c4_w_emlrtRSI;
+  c4_b_st.site = &c4_u_emlrtRSI;
   c4_num_elems = 0.0;
   for (c4_c_k = 0; c4_c_k < 256; c4_c_k++) {
     c4_d_k = (real_T)c4_c_k + 1.0;
@@ -6643,9 +6602,9 @@ static real_T c4_otsuthresh(SFc4_flightControlSystemInstanceStruct
   c4_maxval = rtMinusInf;
   for (c4_f_k = 0; c4_f_k < 256; c4_f_k++) {
     c4_d_k = (real_T)c4_f_k + 1.0;
-    c4_st.site = &c4_v_emlrtRSI;
+    c4_st.site = &c4_t_emlrtRSI;
     c4_g_a = c4_mu_t * c4_omega[(int32_T)c4_d_k - 1] - c4_mu[(int32_T)c4_d_k - 1];
-    c4_b_st.site = &c4_x_emlrtRSI;
+    c4_b_st.site = &c4_v_emlrtRSI;
     c4_h_a = c4_g_a;
     c4_i_a = c4_h_a;
     c4_i_x = c4_i_a;
@@ -6784,25 +6743,25 @@ static void c4_edge(SFc4_flightControlSystemInstanceStruct *chartInstance, const
     chartInstance->c4_c_a[c4_i] = (real32_T)c4_d_varargin_1[c4_i];
   }
 
-  c4_st.site = &c4_ab_emlrtRSI;
-  c4_b_st.site = &c4_db_emlrtRSI;
+  c4_st.site = &c4_x_emlrtRSI;
+  c4_b_st.site = &c4_bb_emlrtRSI;
   for (c4_i1 = 0; c4_i1 < 19200; c4_i1++) {
     chartInstance->c4_d_a[c4_i1] = chartInstance->c4_c_a[c4_i1];
   }
 
   c4_imfilter(chartInstance, &c4_b_st, chartInstance->c4_d_a,
               chartInstance->c4_dx);
-  c4_b_st.site = &c4_eb_emlrtRSI;
+  c4_b_st.site = &c4_cb_emlrtRSI;
   for (c4_i2 = 0; c4_i2 < 19200; c4_i2++) {
     chartInstance->c4_b_dx[c4_i2] = chartInstance->c4_dx[c4_i2];
   }
 
   c4_b_imfilter(chartInstance, &c4_b_st, chartInstance->c4_b_dx,
                 chartInstance->c4_dx);
-  c4_b_st.site = &c4_fb_emlrtRSI;
+  c4_b_st.site = &c4_db_emlrtRSI;
   c4_c_imfilter(chartInstance, &c4_b_st, chartInstance->c4_c_a,
                 chartInstance->c4_dy);
-  c4_b_st.site = &c4_gb_emlrtRSI;
+  c4_b_st.site = &c4_eb_emlrtRSI;
   for (c4_i3 = 0; c4_i3 < 19200; c4_i3++) {
     chartInstance->c4_b_dy[c4_i3] = chartInstance->c4_dy[c4_i3];
   }
@@ -6861,8 +6820,8 @@ static void c4_edge(SFc4_flightControlSystemInstanceStruct *chartInstance, const
     }
   }
 
-  c4_st.site = &c4_bb_emlrtRSI;
-  c4_b_st.site = &c4_yb_emlrtRSI;
+  c4_st.site = &c4_y_emlrtRSI;
+  c4_b_st.site = &c4_wb_emlrtRSI;
   for (c4_i5 = 0; c4_i5 < 19200; c4_i5++) {
     chartInstance->c4_f_a[c4_i5] = chartInstance->c4_c_a[c4_i5];
   }
@@ -6930,7 +6889,7 @@ static void c4_edge(SFc4_flightControlSystemInstanceStruct *chartInstance, const
     c4_b_highThresh_data[c4_i11] = c4_highThresh_data[c4_i11];
   }
 
-  c4_st.site = &c4_cb_emlrtRSI;
+  c4_st.site = &c4_ab_emlrtRSI;
   c4_thinAndThreshold(chartInstance, &c4_st, c4_b_bv, chartInstance->c4_dx,
                       chartInstance->c4_dy, chartInstance->c4_c_a,
                       c4_b_lowThresh_data, c4_b_lowThresh_size,
@@ -6969,7 +6928,7 @@ static void c4_imfilter(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_tooBig;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_hb_emlrtRSI;
+  c4_st.site = &c4_fb_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -7066,7 +7025,7 @@ static void c4_padImage(SFc4_flightControlSystemInstanceStruct *chartInstance,
   (void)chartInstance;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_jb_emlrtRSI;
+  c4_st.site = &c4_hb_emlrtRSI;
   for (c4_j = 0; c4_j < 160; c4_j++) {
     c4_b_j = (real_T)c4_j + 1.0;
     for (c4_i = 0; c4_i < 132; c4_i++) {
@@ -7133,7 +7092,7 @@ static void c4_b_imfilter(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_tooBig;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_hb_emlrtRSI;
+  c4_st.site = &c4_fb_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -7227,7 +7186,7 @@ static void c4_b_padImage(SFc4_flightControlSystemInstanceStruct *chartInstance,
   (void)chartInstance;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_jb_emlrtRSI;
+  c4_st.site = &c4_hb_emlrtRSI;
   for (c4_j = 0; c4_j < 172; c4_j++) {
     c4_b_j = (real_T)c4_j + 1.0;
     for (c4_i = 0; c4_i < 120; c4_i++) {
@@ -7268,7 +7227,7 @@ static void c4_c_imfilter(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_tooBig;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_hb_emlrtRSI;
+  c4_st.site = &c4_fb_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -7358,7 +7317,7 @@ static void c4_d_imfilter(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_tooBig;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_hb_emlrtRSI;
+  c4_st.site = &c4_fb_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -7443,8 +7402,8 @@ static void c4_b_imhist(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_st.tls = c4_sp->tls;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
-  c4_st.site = &c4_q_emlrtRSI;
-  c4_b_st.site = &c4_s_emlrtRSI;
+  c4_st.site = &c4_o_emlrtRSI;
+  c4_b_st.site = &c4_q_emlrtRSI;
   c4_b_out = 1.0;
   getnumcores(&c4_b_out);
   for (c4_i = 0; c4_i < 64; c4_i++) {
@@ -7481,7 +7440,7 @@ static void c4_b_imhist(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   if (c4_nanFlag) {
-    c4_b_st.site = &c4_ac_emlrtRSI;
+    c4_b_st.site = &c4_xb_emlrtRSI;
     c4_warning(chartInstance, &c4_b_st);
   }
 }
@@ -7512,7 +7471,7 @@ static void c4_warning(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_c_y = NULL;
   sf_mex_assign(&c4_c_y, sf_mex_create("y", c4_msgID, 10, 0U, 1U, 0U, 2, 1, 27),
                 false);
-  c4_st.site = &c4_t_emlrtRSI;
+  c4_st.site = &c4_r_emlrtRSI;
   c4_b_feval(chartInstance, &c4_st, c4_y, c4_feval(chartInstance, &c4_st, c4_b_y,
               c4_c_y));
 }
@@ -7805,7 +7764,7 @@ static void c4_e_imfilter(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_tooBig;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_hb_emlrtRSI;
+  c4_st.site = &c4_fb_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -7903,7 +7862,7 @@ static void c4_c_padImage(SFc4_flightControlSystemInstanceStruct *chartInstance,
   (void)chartInstance;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_jb_emlrtRSI;
+  c4_st.site = &c4_hb_emlrtRSI;
   for (c4_j = 0; c4_j < 164; c4_j++) {
     c4_b_j = (real_T)c4_j + 1.0;
     for (c4_i = 0; c4_i < 124; c4_i++) {
@@ -7950,7 +7909,7 @@ static void c4_f_imfilter(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_tooBig;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_hb_emlrtRSI;
+  c4_st.site = &c4_fb_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -8043,7 +8002,7 @@ static void c4_d_padImage(SFc4_flightControlSystemInstanceStruct *chartInstance,
   (void)chartInstance;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_jb_emlrtRSI;
+  c4_st.site = &c4_hb_emlrtRSI;
   for (c4_j = 0; c4_j < 162; c4_j++) {
     c4_b_j = (real_T)c4_j + 1.0;
     for (c4_i = 0; c4_i < 122; c4_i++) {
@@ -8090,7 +8049,7 @@ static void c4_g_imfilter(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_tooBig;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_hb_emlrtRSI;
+  c4_st.site = &c4_fb_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -8221,8 +8180,8 @@ static real32_T c4_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_f_st.prev = &c4_e_st;
   c4_f_st.tls = c4_e_st.tls;
   c4_emxInit_real32_T(chartInstance, c4_sp, &c4_d_x, 1, &c4_emlrtRTEI);
-  c4_st.site = &c4_wb_emlrtRSI;
-  c4_b_st.site = &c4_xb_emlrtRSI;
+  c4_st.site = &c4_ub_emlrtRSI;
+  c4_b_st.site = &c4_vb_emlrtRSI;
   c4_i = c4_d_x->size[0];
   c4_d_x->size[0] = 19200;
   c4_emxEnsureCapacity_real32_T(chartInstance, &c4_b_st, c4_d_x, c4_i,
@@ -8231,8 +8190,8 @@ static real32_T c4_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_d_x->data[c4_i1] = c4_c_x[c4_i1];
   }
 
-  c4_c_st.site = &c4_kb_emlrtRSI;
-  c4_d_st.site = &c4_mb_emlrtRSI;
+  c4_c_st.site = &c4_ib_emlrtRSI;
+  c4_d_st.site = &c4_kb_emlrtRSI;
   c4_e_x = c4_d_x->data[0];
   c4_f_x = c4_e_x;
   c4_b = muSingleScalarIsNaN(c4_f_x);
@@ -8241,7 +8200,7 @@ static real32_T c4_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_b_idx = 1;
   } else {
     c4_b_idx = 0;
-    c4_e_st.site = &c4_nb_emlrtRSI;
+    c4_e_st.site = &c4_lb_emlrtRSI;
     c4_k = 2;
     c4_exitg1 = false;
     while ((!c4_exitg1) && (c4_k < 19201)) {
@@ -8261,14 +8220,14 @@ static real32_T c4_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   if (c4_b_idx == 0) {
     c4_ex = c4_d_x->data[0];
   } else {
-    c4_d_st.site = &c4_lb_emlrtRSI;
+    c4_d_st.site = &c4_jb_emlrtRSI;
     c4_first = c4_b_idx - 1;
     c4_b_ex = c4_d_x->data[c4_first];
     c4_i2 = c4_first;
-    c4_e_st.site = &c4_pb_emlrtRSI;
+    c4_e_st.site = &c4_nb_emlrtRSI;
     c4_overflow = false;
     if (c4_overflow) {
-      c4_f_st.site = &c4_ob_emlrtRSI;
+      c4_f_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
     }
 
@@ -8371,7 +8330,7 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
   c4_e_st.tls = c4_d_st.tls;
   c4_centers->size[0] = 0;
   c4_centers->size[1] = 0;
-  c4_st.site = &c4_nc_emlrtRSI;
+  c4_st.site = &c4_lc_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     chartInstance->c4_c_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -8424,13 +8383,13 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
   if (c4_y) {
     c4_emxInit_real_T(chartInstance, c4_sp, &c4_b_centers, 2, &c4_u_emlrtRTEI);
     c4_emxInit_real_T(chartInstance, c4_sp, &c4_metric, 2, &c4_u_emlrtRTEI);
-    c4_st.site = &c4_oc_emlrtRSI;
+    c4_st.site = &c4_mc_emlrtRSI;
     c4_chcenters(chartInstance, &c4_st, chartInstance->c4_accumMatrix,
                  c4_b_centers, c4_metric);
     c4_i4 = c4_centers->size[0] * c4_centers->size[1];
     c4_centers->size[0] = c4_b_centers->size[0];
     c4_centers->size[1] = c4_b_centers->size[1];
-    c4_st.site = &c4_oc_emlrtRSI;
+    c4_st.site = &c4_mc_emlrtRSI;
     c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_centers, c4_i4,
       &c4_o_emlrtRTEI);
     c4_loop_ub = c4_b_centers->size[0] * c4_b_centers->size[1] - 1;
@@ -8442,11 +8401,11 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
     c4_b4 = (c4_b_centers->size[1] == 0);
     if (!(c4_b3 || c4_b4)) {
       c4_emxInit_boolean_T(chartInstance, c4_sp, &c4_f_x, 2, &c4_p_emlrtRTEI);
-      c4_st.site = &c4_pc_emlrtRSI;
+      c4_st.site = &c4_nc_emlrtRSI;
       c4_i6 = c4_f_x->size[0] * c4_f_x->size[1];
       c4_f_x->size[0] = c4_metric->size[0];
       c4_f_x->size[1] = c4_metric->size[1];
-      c4_b_st.site = &c4_pc_emlrtRSI;
+      c4_b_st.site = &c4_nc_emlrtRSI;
       c4_emxEnsureCapacity_boolean_T(chartInstance, &c4_b_st, c4_f_x, c4_i6,
         &c4_p_emlrtRTEI);
       c4_b_loop_ub = c4_metric->size[0] * c4_metric->size[1] - 1;
@@ -8455,9 +8414,9 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
       }
 
       c4_emxInit_int32_T(chartInstance, &c4_st, &c4_ii, 1, &c4_v_emlrtRTEI);
-      c4_b_st.site = &c4_bj_emlrtRSI;
+      c4_b_st.site = &c4_yi_emlrtRSI;
       c4_nx = c4_f_x->size[0] * c4_f_x->size[1];
-      c4_c_st.site = &c4_cj_emlrtRSI;
+      c4_c_st.site = &c4_aj_emlrtRSI;
       c4_c_k = c4_nx;
       c4_b_nx = c4_nx;
       c4_b_idx = 0;
@@ -8465,7 +8424,7 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
       c4_ii->size[0] = c4_c_k;
       c4_emxEnsureCapacity_int32_T(chartInstance, &c4_c_st, c4_ii, c4_i8,
         &c4_q_emlrtRTEI);
-      c4_d_st.site = &c4_dj_emlrtRSI;
+      c4_d_st.site = &c4_bj_emlrtRSI;
       c4_c_b = c4_b_nx;
       c4_d_b = c4_c_b;
       if (1 > c4_d_b) {
@@ -8475,7 +8434,7 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
       }
 
       if (c4_overflow) {
-        c4_e_st.site = &c4_ob_emlrtRSI;
+        c4_e_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
       }
 
@@ -8523,7 +8482,7 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
 
         c4_iv[0] = 1;
         c4_iv[1] = c4_i9;
-        c4_d_st.site = &c4_ej_emlrtRSI;
+        c4_d_st.site = &c4_cj_emlrtRSI;
         c4_indexShapeCheck(chartInstance, &c4_d_st, c4_ii->size[0], c4_iv);
         c4_i11 = c4_ii->size[0];
         c4_ii->size[0] = c4_i9;
@@ -8548,7 +8507,7 @@ static void c4_imfindcircles(SFc4_flightControlSystemInstanceStruct
       c4_i14 = c4_centers->size[0] * c4_centers->size[1];
       c4_centers->size[0] = c4_idx2Keep->size[0];
       c4_centers->size[1] = c4_i13 + 1;
-      c4_st.site = &c4_fl_emlrtRSI;
+      c4_st.site = &c4_al_emlrtRSI;
       c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_centers, c4_i14,
         &c4_t_emlrtRTEI);
       c4_d_loop_ub = c4_i13;
@@ -9050,23 +9009,23 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_b_gradientImg[c4_i4] = 0.0F;
     }
   } else {
-    c4_st.site = &c4_qc_emlrtRSI;
+    c4_st.site = &c4_oc_emlrtRSI;
     for (c4_i3 = 0; c4_i3 < 19200; c4_i3++) {
       chartInstance->c4_s[c4_i3] = (real32_T)c4_d_varargin_1[c4_i3];
     }
 
-    c4_b_st.site = &c4_kc_emlrtRSI;
+    c4_b_st.site = &c4_ic_emlrtRSI;
     c4_e_imfilter(chartInstance, &c4_b_st, chartInstance->c4_s,
                   chartInstance->c4_A);
-    c4_st.site = &c4_rc_emlrtRSI;
-    c4_b_st.site = &c4_lc_emlrtRSI;
+    c4_st.site = &c4_pc_emlrtRSI;
+    c4_b_st.site = &c4_jc_emlrtRSI;
     for (c4_i5 = 0; c4_i5 < 19200; c4_i5++) {
       chartInstance->c4_b_A[c4_i5] = chartInstance->c4_A[c4_i5];
     }
 
     c4_f_imfilter(chartInstance, &c4_b_st, chartInstance->c4_b_A,
                   chartInstance->c4_Gx);
-    c4_b_st.site = &c4_mc_emlrtRSI;
+    c4_b_st.site = &c4_kc_emlrtRSI;
     c4_g_imfilter(chartInstance, &c4_b_st, chartInstance->c4_A,
                   chartInstance->c4_Gy);
     for (c4_i6 = 0; c4_i6 < 19200; c4_i6++) {
@@ -9079,14 +9038,14 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
     c4_hypot(chartInstance, chartInstance->c4_b_Gx, chartInstance->c4_b_Gy,
              c4_b_gradientImg);
-    c4_st.site = &c4_sc_emlrtRSI;
-    c4_b_st.site = &c4_wc_emlrtRSI;
+    c4_st.site = &c4_qc_emlrtRSI;
+    c4_b_st.site = &c4_uc_emlrtRSI;
     for (c4_i8 = 0; c4_i8 < 19200; c4_i8++) {
       chartInstance->c4_s[c4_i8] = c4_b_gradientImg[c4_i8];
     }
 
-    c4_c_st.site = &c4_ub_emlrtRSI;
-    c4_d_st.site = &c4_vb_emlrtRSI;
+    c4_c_st.site = &c4_sb_emlrtRSI;
+    c4_d_st.site = &c4_tb_emlrtRSI;
     c4_Gmax = c4_maximum(chartInstance, &c4_d_st, chartInstance->c4_s);
     c4_y = c4_Gmax;
     c4_b_y = c4_y;
@@ -9094,10 +9053,10 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
       chartInstance->c4_s[c4_i9] = c4_b_gradientImg[c4_i9] / c4_b_y;
     }
 
-    c4_b_st.site = &c4_xc_emlrtRSI;
+    c4_b_st.site = &c4_vc_emlrtRSI;
     c4_edgeThresh = c4_multithresh(chartInstance, &c4_b_st, chartInstance->c4_s);
     c4_t = c4_Gmax * c4_edgeThresh;
-    c4_b_st.site = &c4_yc_emlrtRSI;
+    c4_b_st.site = &c4_wc_emlrtRSI;
     for (c4_i10 = 0; c4_i10 < 19200; c4_i10++) {
       chartInstance->c4_b_x[c4_i10] = (c4_b_gradientImg[c4_i10] > c4_t);
     }
@@ -9105,7 +9064,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_emxInit_real_T1(chartInstance, &c4_b_st, &c4_Ey, 1, &c4_bc_emlrtRTEI);
     c4_emxInit_int32_T(chartInstance, &c4_b_st, &c4_ii, 1, &c4_bc_emlrtRTEI);
     c4_emxInit_int32_T(chartInstance, &c4_b_st, &c4_jj, 1, &c4_bc_emlrtRTEI);
-    c4_c_st.site = &c4_uf_emlrtRSI;
+    c4_c_st.site = &c4_sf_emlrtRSI;
     c4_eml_find(chartInstance, &c4_c_st, chartInstance->c4_b_x, c4_ii, c4_jj);
     c4_i11 = c4_Ey->size[0];
     c4_Ey->size[0] = c4_ii->size[0];
@@ -9129,10 +9088,10 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
     c4_emxFree_int32_T(chartInstance, &c4_jj);
     c4_emxInit_real_T1(chartInstance, &c4_b_st, &c4_ndx, 1, &c4_cc_emlrtRTEI);
-    c4_st.site = &c4_tc_emlrtRSI;
+    c4_st.site = &c4_rc_emlrtRSI;
     c4_i15 = c4_ndx->size[0];
     c4_ndx->size[0] = c4_Ey->size[0];
-    c4_b_st.site = &c4_tc_emlrtRSI;
+    c4_b_st.site = &c4_rc_emlrtRSI;
     c4_emxEnsureCapacity_real_T1(chartInstance, &c4_b_st, c4_ndx, c4_i15,
       &c4_y_emlrtRTEI);
     c4_c_loop_ub = c4_Ey->size[0] - 1;
@@ -9144,7 +9103,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
                        &c4_ab_emlrtRTEI);
     c4_i17 = c4_b_varargin_2->size[0];
     c4_b_varargin_2->size[0] = c4_Ex->size[0];
-    c4_b_st.site = &c4_tc_emlrtRSI;
+    c4_b_st.site = &c4_rc_emlrtRSI;
     c4_emxEnsureCapacity_real_T1(chartInstance, &c4_b_st, c4_b_varargin_2,
       c4_i17, &c4_ab_emlrtRTEI);
     c4_d_loop_ub = c4_Ex->size[0] - 1;
@@ -9153,7 +9112,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     c4_emxInit_int32_T(chartInstance, &c4_st, &c4_r, 1, &c4_dc_emlrtRTEI);
-    c4_b_st.site = &c4_ag_emlrtRSI;
+    c4_b_st.site = &c4_xf_emlrtRSI;
     c4_eml_sub2ind(chartInstance, &c4_b_st, c4_ndx, c4_b_varargin_2, c4_r);
     c4_i19 = c4_ndx->size[0];
     c4_ndx->size[0] = c4_r->size[0];
@@ -9169,7 +9128,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_emxInit_real_T1(chartInstance, &c4_st, &c4_idxE, 1, &c4_cb_emlrtRTEI);
     c4_i21 = c4_idxE->size[0];
     c4_idxE->size[0] = c4_ndx->size[0];
-    c4_st.site = &c4_tc_emlrtRSI;
+    c4_st.site = &c4_rc_emlrtRSI;
     c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_idxE, c4_i21,
       &c4_cb_emlrtRTEI);
     c4_f_loop_ub = c4_ndx->size[0] - 1;
@@ -9281,10 +9240,10 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_h_x = c4_g_x;
       c4_h_y = c4_g_y;
       c4_minval = muDoubleScalarMin(c4_h_x, c4_h_y);
-      c4_st.site = &c4_uc_emlrtRSI;
+      c4_st.site = &c4_sc_emlrtRSI;
       c4_g_a = c4_c_i;
       c4_b_d = c4_minval;
-      c4_b_st.site = &c4_bg_emlrtRSI;
+      c4_b_st.site = &c4_yf_emlrtRSI;
       c4_h_a = c4_g_a;
       c4_b = c4_b_d;
       c4_i_x = c4_h_a;
@@ -9356,7 +9315,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
             c4_r1->data[c4_i31] = c4_h_a + (real_T)c4_i31;
           }
         } else {
-          c4_c_st.site = &c4_cg_emlrtRSI;
+          c4_c_st.site = &c4_ag_emlrtRSI;
           c4_i_a = c4_h_a;
           c4_f_b = c4_b;
           c4_j_a = c4_i_a;
@@ -9417,7 +9376,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
               c4_l_a = c4_nm1;
               c4_nm1d2 = c4_div_nzp_s32(chartInstance, c4_l_a, 2, 0, 1U, 0, 0);
               c4_i52 = c4_nm1d2 - 2;
-              c4_d_st.site = &c4_dg_emlrtRSI;
+              c4_d_st.site = &c4_bg_emlrtRSI;
               c4_i_b = c4_i52 + 1;
               c4_j_b = c4_i_b;
               if (1 > c4_j_b) {
@@ -9427,7 +9386,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
               }
 
               if (c4_overflow) {
-                c4_e_st.site = &c4_ob_emlrtRSI;
+                c4_e_st.site = &c4_mb_emlrtRSI;
                 c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
               }
 
@@ -9455,17 +9414,17 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_sizeChunk = (real_T)c4_r1->size[1];
       c4_i28 = c4_Ex_chunk->size[0];
       c4_Ex_chunk->size[0] = (int32_T)c4_sizeChunk;
-      c4_st.site = &c4_ul_emlrtRSI;
+      c4_st.site = &c4_pl_emlrtRSI;
       c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_Ex_chunk, c4_i28,
         &c4_eb_emlrtRTEI);
       c4_i30 = c4_Ey_chunk->size[0];
       c4_Ey_chunk->size[0] = (int32_T)c4_sizeChunk;
-      c4_st.site = &c4_tl_emlrtRSI;
+      c4_st.site = &c4_ol_emlrtRSI;
       c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_Ey_chunk, c4_i30,
         &c4_fb_emlrtRTEI);
       c4_i32 = c4_idxE_chunk->size[0];
       c4_idxE_chunk->size[0] = (int32_T)c4_sizeChunk;
-      c4_st.site = &c4_sl_emlrtRSI;
+      c4_st.site = &c4_nl_emlrtRSI;
       c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_idxE_chunk, c4_i32,
         &c4_gb_emlrtRTEI);
       c4_idxEdge = (int32_T)c4_c_i;
@@ -9500,25 +9459,25 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_i34 = c4_xc->size[0] * c4_xc->size[1];
       c4_xc->size[0] = (int32_T)c4_dim1;
       c4_xc->size[1] = 51;
-      c4_st.site = &c4_wl_emlrtRSI;
+      c4_st.site = &c4_rl_emlrtRSI;
       c4_emxEnsureCapacity_real32_T1(chartInstance, &c4_st, c4_xc, c4_i34,
         &c4_hb_emlrtRTEI);
       c4_i39 = c4_yc->size[0] * c4_yc->size[1];
       c4_yc->size[0] = (int32_T)c4_dim1;
       c4_yc->size[1] = 51;
-      c4_st.site = &c4_vl_emlrtRSI;
+      c4_st.site = &c4_ql_emlrtRSI;
       c4_emxEnsureCapacity_real32_T1(chartInstance, &c4_st, c4_yc, c4_i39,
         &c4_ib_emlrtRTEI);
       c4_i44 = c4_w->size[0] * c4_w->size[1];
       c4_w->size[0] = (int32_T)c4_dim1;
       c4_w->size[1] = 51;
-      c4_st.site = &c4_xl_emlrtRSI;
+      c4_st.site = &c4_sl_emlrtRSI;
       c4_emxEnsureCapacity_creal_T1(chartInstance, &c4_st, c4_w, c4_i44,
         &c4_jb_emlrtRTEI);
       c4_i46 = c4_inside->size[0] * c4_inside->size[1];
       c4_inside->size[0] = (int32_T)c4_dim1;
       c4_inside->size[1] = 51;
-      c4_st.site = &c4_hl_emlrtRSI;
+      c4_st.site = &c4_cl_emlrtRSI;
       c4_emxEnsureCapacity_boolean_T(chartInstance, &c4_st, c4_inside, c4_i46,
         &c4_kb_emlrtRTEI);
       c4_rows_to_keep_size[0] = (int32_T)c4_dim1;
@@ -9650,17 +9609,17 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
       c4_i49 = c4_xckeep->size[0];
       c4_xckeep->size[0] = c4_xc->size[0] * 51;
-      c4_st.site = &c4_pl_emlrtRSI;
+      c4_st.site = &c4_kl_emlrtRSI;
       c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_xckeep, c4_i49,
         &c4_mb_emlrtRTEI);
       c4_i51 = c4_yckeep->size[0];
       c4_yckeep->size[0] = c4_yc->size[0] * 51;
-      c4_st.site = &c4_ol_emlrtRSI;
+      c4_st.site = &c4_jl_emlrtRSI;
       c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_yckeep, c4_i51,
         &c4_nb_emlrtRTEI);
       c4_i55 = c4_wkeep->size[0];
       c4_wkeep->size[0] = c4_w->size[0] * 51;
-      c4_st.site = &c4_al_emlrtRSI;
+      c4_st.site = &c4_uk_emlrtRSI;
       c4_emxEnsureCapacity_creal_T(chartInstance, &c4_st, c4_wkeep, c4_i55,
         &c4_ob_emlrtRTEI);
       c4_idxkeep = 0;
@@ -9716,14 +9675,14 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
       }
 
-      c4_st.site = &c4_vc_emlrtRSI;
+      c4_st.site = &c4_tc_emlrtRSI;
       c4_szxc = c4_idxkeep;
       for (c4_i59 = 0; c4_i59 < 19200; c4_i59++) {
         chartInstance->c4_out[c4_i59].re = 0.0;
         chartInstance->c4_out[c4_i59].im = 0.0;
       }
 
-      c4_b_st.site = &c4_eg_emlrtRSI;
+      c4_b_st.site = &c4_cg_emlrtRSI;
       c4_m_b = c4_szxc;
       c4_n_b = c4_m_b;
       if (1 > c4_n_b) {
@@ -9733,7 +9692,7 @@ static void c4_chaccum(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_b_overflow) {
-        c4_c_st.site = &c4_ob_emlrtRSI;
+        c4_c_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
       }
 
@@ -10144,7 +10103,7 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
   c4_c_st.tls = c4_b_st.tls;
   c4_d_st.prev = &c4_c_st;
   c4_d_st.tls = c4_c_st.tls;
-  c4_st.site = &c4_ad_emlrtRSI;
+  c4_st.site = &c4_xc_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     chartInstance->c4_c_A[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -10242,7 +10201,7 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
         c4_emxInit_int32_T(chartInstance, &c4_st, &c4_r, 1, &c4_ed_emlrtRTEI);
         c4_i10 = c4_r->size[0];
         c4_r->size[0] = c4_b_trueCount;
-        c4_b_st.site = &c4_ad_emlrtRSI;
+        c4_b_st.site = &c4_xc_emlrtRSI;
         c4_emxEnsureCapacity_int32_T(chartInstance, &c4_b_st, c4_r, c4_i10,
           &c4_ec_emlrtRTEI);
         c4_partialTrueCount = 0;
@@ -10253,7 +10212,7 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
           }
         }
 
-        c4_b_st.site = &c4_nd_emlrtRSI;
+        c4_b_st.site = &c4_ld_emlrtRSI;
         c4_i13 = c4_img->size[0];
         c4_img->size[0] = c4_r->size[0];
         c4_emxEnsureCapacity_real32_T(chartInstance, &c4_b_st, c4_img, c4_i13,
@@ -10264,12 +10223,12 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
         }
 
         c4_emxFree_int32_T(chartInstance, &c4_r);
-        c4_c_st.site = &c4_n_emlrtRSI;
+        c4_c_st.site = &c4_l_emlrtRSI;
         c4_Auint8_size[0] = c4_img->size[0];
         c4_numElems = (real_T)c4_img->size[0];
         c4_b_numElems = c4_numElems;
         grayto8_real32(&c4_img->data[0], &c4_Auint8_data[0], c4_b_numElems);
-        c4_b_st.site = &c4_od_emlrtRSI;
+        c4_b_st.site = &c4_md_emlrtRSI;
         c4_c_imhist(chartInstance, &c4_b_st, c4_Auint8_data, c4_Auint8_size,
                     c4_counts);
         for (c4_i15 = 0; c4_i15 < 256; c4_i15++) {
@@ -10285,22 +10244,22 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
       }
     }
   } else {
-    c4_b_st.site = &c4_ld_emlrtRSI;
+    c4_b_st.site = &c4_jd_emlrtRSI;
     for (c4_i1 = 0; c4_i1 < 19200; c4_i1++) {
       chartInstance->c4_b_varargin_1[c4_i1] = chartInstance->c4_c_A[c4_i1];
     }
 
-    c4_c_st.site = &c4_pd_emlrtRSI;
-    c4_d_st.site = &c4_qd_emlrtRSI;
+    c4_c_st.site = &c4_nd_emlrtRSI;
+    c4_d_st.site = &c4_od_emlrtRSI;
     c4_minA = c4_minimum(chartInstance, &c4_d_st, chartInstance->c4_b_varargin_1);
-    c4_b_st.site = &c4_md_emlrtRSI;
-    c4_c_st.site = &c4_ub_emlrtRSI;
-    c4_d_st.site = &c4_vb_emlrtRSI;
+    c4_b_st.site = &c4_kd_emlrtRSI;
+    c4_c_st.site = &c4_sb_emlrtRSI;
+    c4_d_st.site = &c4_tb_emlrtRSI;
     c4_maxA = c4_maximum(chartInstance, &c4_d_st, chartInstance->c4_c_A);
   }
 
   if (c4_emptyp) {
-    c4_st.site = &c4_bd_emlrtRSI;
+    c4_st.site = &c4_yc_emlrtRSI;
     c4_b_warning(chartInstance, &c4_st);
     c4_b_minA = c4_minA;
     c4_h_x = c4_b_minA;
@@ -10346,9 +10305,9 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
       c4_counts[c4_i11] /= c4_omega[c4_i11] * (1.0 - c4_omega[c4_i11]);
     }
 
-    c4_st.site = &c4_cd_emlrtRSI;
-    c4_b_st.site = &c4_ub_emlrtRSI;
-    c4_c_st.site = &c4_vb_emlrtRSI;
+    c4_st.site = &c4_ad_emlrtRSI;
+    c4_b_st.site = &c4_sb_emlrtRSI;
+    c4_c_st.site = &c4_tb_emlrtRSI;
     for (c4_i12 = 0; c4_i12 < 256; c4_i12++) {
       c4_c_counts[c4_i12] = c4_counts[c4_i12];
     }
@@ -10385,18 +10344,18 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
       c4_i18 = c4_threshRaw->size[0] * c4_threshRaw->size[1];
       c4_threshRaw->size[0] = 1;
       c4_threshRaw->size[1] = 1;
-      c4_st.site = &c4_el_emlrtRSI;
+      c4_st.site = &c4_yk_emlrtRSI;
       c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_threshRaw, c4_i18,
         &c4_hc_emlrtRTEI);
       c4_threshRaw->data[0] = c4_idxSum / c4_idxNum - 1.0;
     } else {
-      c4_st.site = &c4_dd_emlrtRSI;
-      c4_b_st.site = &c4_be_emlrtRSI;
+      c4_st.site = &c4_bd_emlrtRSI;
+      c4_b_st.site = &c4_yd_emlrtRSI;
       for (c4_i16 = 0; c4_i16 < 19200; c4_i16++) {
         chartInstance->c4_b_varargin_1[c4_i16] = c4_d_varargin_1[c4_i16];
       }
 
-      c4_c_st.site = &c4_de_emlrtRSI;
+      c4_c_st.site = &c4_be_emlrtRSI;
       c4_unique_vector(chartInstance, &c4_c_st, chartInstance->c4_b_varargin_1,
                        c4_img);
       c4_i19 = c4_uniqueVals->size[0] * c4_uniqueVals->size[1];
@@ -10431,19 +10390,19 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
         c4_c_tmp_data[c4_i32] = (c4_tmp_data[c4_i32] || c4_b_tmp_data[c4_i32]);
       }
 
-      c4_b_st.site = &c4_ce_emlrtRSI;
+      c4_b_st.site = &c4_ae_emlrtRSI;
       c4_b_nullAssignment(chartInstance, &c4_b_st, c4_uniqueVals, c4_c_tmp_data,
                           c4_c_tmp_size);
       c4_isDegenerate = ((real_T)c4_uniqueVals->size[1] <= 1.0);
       if (c4_isDegenerate) {
-        c4_st.site = &c4_ed_emlrtRSI;
+        c4_st.site = &c4_cd_emlrtRSI;
         c4_b_warning(chartInstance, &c4_st);
       } else {
-        c4_st.site = &c4_fd_emlrtRSI;
+        c4_st.site = &c4_dd_emlrtRSI;
         c4_c_warning(chartInstance, &c4_st);
       }
 
-      c4_st.site = &c4_gd_emlrtRSI;
+      c4_st.site = &c4_ed_emlrtRSI;
       c4_b8 = (c4_uniqueVals->size[1] == 0);
       if (c4_b8) {
         c4_i41 = c4_b_threshout->size[0] * c4_b_threshout->size[1];
@@ -10571,9 +10530,9 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
                   - c4_threshCandidate_d;
               }
 
-              c4_b_st.site = &c4_se_emlrtRSI;
+              c4_b_st.site = &c4_qe_emlrtRSI;
               c4_abs(chartInstance, &c4_b_st, c4_b_uniqueVals_d, c4_r1);
-              c4_b_st.site = &c4_te_emlrtRSI;
+              c4_b_st.site = &c4_re_emlrtRSI;
               c4_d1 = c4_eps(chartInstance, c4_threshCandidate_d);
               c4_e_tmp_size[0] = c4_r1->size[0];
               c4_ib_loop_ub = c4_r1->size[0] - 1;
@@ -10581,7 +10540,7 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
                 c4_e_tmp_data[c4_i105] = (c4_r1->data[c4_i105] < c4_d1);
               }
 
-              c4_b_st.site = &c4_se_emlrtRSI;
+              c4_b_st.site = &c4_qe_emlrtRSI;
               c4_f_tmp_size[0] = c4_e_tmp_size[0];
               if (!c4_any(chartInstance, &c4_b_st, c4_e_tmp_data, c4_f_tmp_size))
               {
@@ -10594,8 +10553,8 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
             }
 
             c4_emxFree_real_T(chartInstance, &c4_b_uniqueVals_d);
-            c4_b_st.site = &c4_ue_emlrtRSI;
-            c4_c_st.site = &c4_af_emlrtRSI;
+            c4_b_st.site = &c4_se_emlrtRSI;
+            c4_c_st.site = &c4_xe_emlrtRSI;
             c4_c_sort(chartInstance, &c4_c_st, c4_b_threshout);
           } else {
             c4_i64 = c4_b_threshout->size[0] * c4_b_threshout->size[1];
@@ -10624,7 +10583,7 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
       c4_i50 = c4_threshRaw->size[0] * c4_threshRaw->size[1];
       c4_threshRaw->size[0] = 1;
       c4_threshRaw->size[1] = c4_b_threshout->size[1];
-      c4_st.site = &c4_gd_emlrtRSI;
+      c4_st.site = &c4_ed_emlrtRSI;
       c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_threshRaw, c4_i50,
         &c4_rc_emlrtRTEI);
       c4_p_loop_ub = c4_b_threshout->size[0] * c4_b_threshout->size[1] - 1;
@@ -10680,13 +10639,13 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
         c4_b_threshout->data[c4_i47] = (real32_T)c4_threshRaw->data[c4_i47];
       }
     } else {
-      c4_st.site = &c4_hd_emlrtRSI;
-      c4_b_st.site = &c4_be_emlrtRSI;
+      c4_st.site = &c4_fd_emlrtRSI;
+      c4_b_st.site = &c4_yd_emlrtRSI;
       for (c4_i21 = 0; c4_i21 < 19200; c4_i21++) {
         chartInstance->c4_b_varargin_1[c4_i21] = c4_d_varargin_1[c4_i21];
       }
 
-      c4_c_st.site = &c4_de_emlrtRSI;
+      c4_c_st.site = &c4_be_emlrtRSI;
       c4_unique_vector(chartInstance, &c4_c_st, chartInstance->c4_b_varargin_1,
                        c4_img);
       c4_i25 = c4_uniqueVals->size[0] * c4_uniqueVals->size[1];
@@ -10721,14 +10680,14 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
         c4_d_tmp_data[c4_i42] = (c4_tmp_data[c4_i42] || c4_b_tmp_data[c4_i42]);
       }
 
-      c4_b_st.site = &c4_ce_emlrtRSI;
+      c4_b_st.site = &c4_ae_emlrtRSI;
       c4_b_nullAssignment(chartInstance, &c4_b_st, c4_uniqueVals, c4_d_tmp_data,
                           c4_d_tmp_size);
       c4_b_isDegenerate = ((real_T)c4_uniqueVals->size[1] <= 1.0);
       if (c4_b_isDegenerate) {
-        c4_st.site = &c4_id_emlrtRSI;
+        c4_st.site = &c4_gd_emlrtRSI;
         c4_b_warning(chartInstance, &c4_st);
-        c4_st.site = &c4_jd_emlrtRSI;
+        c4_st.site = &c4_hd_emlrtRSI;
         c4_b9 = (c4_uniqueVals->size[1] == 0);
         if (c4_b9) {
           c4_i56 = c4_b_threshout->size[0] * c4_b_threshout->size[1];
@@ -10857,9 +10816,9 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
                     data[c4_i106] - c4_b_threshCandidate_d;
                 }
 
-                c4_b_st.site = &c4_se_emlrtRSI;
+                c4_b_st.site = &c4_qe_emlrtRSI;
                 c4_abs(chartInstance, &c4_b_st, c4_d_uniqueVals_d, c4_r1);
-                c4_b_st.site = &c4_te_emlrtRSI;
+                c4_b_st.site = &c4_re_emlrtRSI;
                 c4_d2 = c4_eps(chartInstance, c4_b_threshCandidate_d);
                 c4_g_tmp_size[0] = c4_r1->size[0];
                 c4_kb_loop_ub = c4_r1->size[0] - 1;
@@ -10867,7 +10826,7 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
                   c4_f_tmp_data[c4_i109] = (c4_r1->data[c4_i109] < c4_d2);
                 }
 
-                c4_b_st.site = &c4_se_emlrtRSI;
+                c4_b_st.site = &c4_qe_emlrtRSI;
                 c4_h_tmp_size[0] = c4_g_tmp_size[0];
                 if (!c4_any(chartInstance, &c4_b_st, c4_f_tmp_data,
                             c4_h_tmp_size)) {
@@ -10881,8 +10840,8 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
               }
 
               c4_emxFree_real_T(chartInstance, &c4_d_uniqueVals_d);
-              c4_b_st.site = &c4_ue_emlrtRSI;
-              c4_c_st.site = &c4_af_emlrtRSI;
+              c4_b_st.site = &c4_se_emlrtRSI;
+              c4_c_st.site = &c4_xe_emlrtRSI;
               c4_c_sort(chartInstance, &c4_c_st, c4_b_threshout);
             } else {
               c4_i80 = c4_b_threshout->size[0] * c4_b_threshout->size[1];
@@ -10908,7 +10867,7 @@ static real32_T c4_multithresh(SFc4_flightControlSystemInstanceStruct
           }
         }
       } else {
-        c4_st.site = &c4_kd_emlrtRSI;
+        c4_st.site = &c4_id_emlrtRSI;
         c4_c_warning(chartInstance, &c4_st);
         c4_d_minA = c4_minA;
         c4_c_maxA = c4_maxA;
@@ -11016,8 +10975,8 @@ static real32_T c4_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_f_st.prev = &c4_e_st;
   c4_f_st.tls = c4_e_st.tls;
   c4_emxInit_real32_T(chartInstance, c4_sp, &c4_d_x, 1, &c4_d_emlrtRTEI);
-  c4_st.site = &c4_rd_emlrtRSI;
-  c4_b_st.site = &c4_sd_emlrtRSI;
+  c4_st.site = &c4_pd_emlrtRSI;
+  c4_b_st.site = &c4_qd_emlrtRSI;
   c4_i = c4_d_x->size[0];
   c4_d_x->size[0] = 19200;
   c4_emxEnsureCapacity_real32_T(chartInstance, &c4_b_st, c4_d_x, c4_i,
@@ -11026,8 +10985,8 @@ static real32_T c4_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_d_x->data[c4_i1] = c4_c_x[c4_i1];
   }
 
-  c4_c_st.site = &c4_td_emlrtRSI;
-  c4_d_st.site = &c4_mb_emlrtRSI;
+  c4_c_st.site = &c4_rd_emlrtRSI;
+  c4_d_st.site = &c4_kb_emlrtRSI;
   c4_e_x = c4_d_x->data[0];
   c4_f_x = c4_e_x;
   c4_b = muSingleScalarIsNaN(c4_f_x);
@@ -11036,7 +10995,7 @@ static real32_T c4_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_b_idx = 1;
   } else {
     c4_b_idx = 0;
-    c4_e_st.site = &c4_nb_emlrtRSI;
+    c4_e_st.site = &c4_lb_emlrtRSI;
     c4_k = 2;
     c4_exitg1 = false;
     while ((!c4_exitg1) && (c4_k < 19201)) {
@@ -11056,14 +11015,14 @@ static real32_T c4_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
   if (c4_b_idx == 0) {
     c4_ex = c4_d_x->data[0];
   } else {
-    c4_d_st.site = &c4_lb_emlrtRSI;
+    c4_d_st.site = &c4_jb_emlrtRSI;
     c4_first = c4_b_idx - 1;
     c4_b_ex = c4_d_x->data[c4_first];
     c4_i2 = c4_first;
-    c4_e_st.site = &c4_pb_emlrtRSI;
+    c4_e_st.site = &c4_nb_emlrtRSI;
     c4_overflow = false;
     if (c4_overflow) {
-      c4_f_st.site = &c4_ob_emlrtRSI;
+      c4_f_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
     }
 
@@ -11130,11 +11089,11 @@ static void c4_c_imhist(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_st.tls = c4_sp->tls;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
-  c4_st.site = &c4_q_emlrtRSI;
-  c4_b_st.site = &c4_s_emlrtRSI;
+  c4_st.site = &c4_o_emlrtRSI;
+  c4_b_st.site = &c4_q_emlrtRSI;
   c4_b_out = 1.0;
   getnumcores(&c4_b_out);
-  c4_b_st.site = &c4_r_emlrtRSI;
+  c4_b_st.site = &c4_p_emlrtRSI;
   for (c4_i = 0; c4_i < 256; c4_i++) {
     c4_yout[c4_i] = 0.0;
   }
@@ -11253,7 +11212,7 @@ static void c4_b_warning(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_b_u = 1.0;
   c4_d_y = NULL;
   sf_mex_assign(&c4_d_y, sf_mex_create("y", &c4_b_u, 0, 0U, 0U, 0U, 0), false);
-  c4_st.site = &c4_t_emlrtRSI;
+  c4_st.site = &c4_r_emlrtRSI;
   c4_d_feval(chartInstance, &c4_st, c4_y, c4_c_feval(chartInstance, &c4_st,
               c4_b_y, c4_c_y, c4_d_y));
 }
@@ -11326,8 +11285,8 @@ static real_T c4_b_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_f_st.prev = &c4_e_st;
   c4_f_st.tls = c4_e_st.tls;
   c4_emxInit_real_T1(chartInstance, c4_sp, &c4_d_x, 1, &c4_emlrtRTEI);
-  c4_st.site = &c4_wb_emlrtRSI;
-  c4_b_st.site = &c4_xb_emlrtRSI;
+  c4_st.site = &c4_ub_emlrtRSI;
+  c4_b_st.site = &c4_vb_emlrtRSI;
   c4_i = c4_d_x->size[0];
   c4_d_x->size[0] = 256;
   c4_emxEnsureCapacity_real_T1(chartInstance, &c4_b_st, c4_d_x, c4_i,
@@ -11336,9 +11295,9 @@ static real_T c4_b_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_d_x->data[c4_i1] = c4_c_x[c4_i1];
   }
 
-  c4_c_st.site = &c4_kb_emlrtRSI;
+  c4_c_st.site = &c4_ib_emlrtRSI;
   c4_n = c4_d_x->size[0];
-  c4_d_st.site = &c4_mb_emlrtRSI;
+  c4_d_st.site = &c4_kb_emlrtRSI;
   c4_b_n = c4_d_x->size[0];
   c4_e_x = c4_d_x->data[0];
   c4_f_x = c4_e_x;
@@ -11348,7 +11307,7 @@ static real_T c4_b_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_b_idx = 1;
   } else {
     c4_b_idx = 0;
-    c4_e_st.site = &c4_nb_emlrtRSI;
+    c4_e_st.site = &c4_lb_emlrtRSI;
     c4_b_b = c4_b_n;
     c4_c_b = c4_b_b;
     if (2 > c4_c_b) {
@@ -11358,7 +11317,7 @@ static real_T c4_b_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     }
 
     if (c4_overflow) {
-      c4_f_st.site = &c4_ob_emlrtRSI;
+      c4_f_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
     }
 
@@ -11381,12 +11340,12 @@ static real_T c4_b_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   if (c4_b_idx == 0) {
     c4_ex = c4_d_x->data[0];
   } else {
-    c4_d_st.site = &c4_lb_emlrtRSI;
+    c4_d_st.site = &c4_jb_emlrtRSI;
     c4_first = c4_b_idx - 1;
     c4_last = c4_n;
     c4_b_ex = c4_d_x->data[c4_first];
     c4_i2 = c4_first + 2;
-    c4_e_st.site = &c4_pb_emlrtRSI;
+    c4_e_st.site = &c4_nb_emlrtRSI;
     c4_g_a = c4_i2;
     c4_d_b = c4_last;
     c4_h_a = c4_g_a;
@@ -11398,7 +11357,7 @@ static real_T c4_b_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     }
 
     if (c4_b_overflow) {
-      c4_f_st.site = &c4_ob_emlrtRSI;
+      c4_f_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
     }
 
@@ -11538,14 +11497,14 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
   boolean_T c4_y_b;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_le_emlrtRSI;
+  c4_st.site = &c4_je_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     chartInstance->c4_idx[c4_i] = 0;
   }
 
-  c4_b_st.site = &c4_wd_emlrtRSI;
+  c4_b_st.site = &c4_ud_emlrtRSI;
   for (c4_i1 = 0; c4_i1 < 19200; c4_i1++) {
     chartInstance->c4_a[c4_i1] = c4_g_a[c4_i1];
   }
@@ -11554,7 +11513,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
                  chartInstance->c4_a);
   c4_i2 = c4_b->size[0];
   c4_b->size[0] = 19200;
-  c4_st.site = &c4_yk_emlrtRSI;
+  c4_st.site = &c4_tk_emlrtRSI;
   c4_emxEnsureCapacity_real32_T(chartInstance, &c4_st, c4_b, c4_i2,
     &c4_fd_emlrtRTEI);
   for (c4_k = 0; c4_k < 19200; c4_k++) {
@@ -11565,7 +11524,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
   c4_emxInit_real32_T(chartInstance, c4_sp, &c4_b_b, 1, &c4_gd_emlrtRTEI);
   c4_i3 = c4_b_b->size[0];
   c4_b_b->size[0] = c4_b->size[0];
-  c4_st.site = &c4_xk_emlrtRSI;
+  c4_st.site = &c4_sk_emlrtRSI;
   c4_emxEnsureCapacity_real32_T(chartInstance, &c4_st, c4_b_b, c4_i3,
     &c4_gd_emlrtRTEI);
   c4_loop_ub = c4_b->size[0] - 1;
@@ -11622,7 +11581,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
       if (c4_b_k > c4_khi) {
         c4_exitg2 = 1;
       } else {
-        c4_st.site = &c4_je_emlrtRSI;
+        c4_st.site = &c4_he_emlrtRSI;
         c4_p_a = c4_b->data[c4_b_k - 1];
         c4_n_b = c4_e_x;
         c4_f_x = c4_n_b;
@@ -11632,7 +11591,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
         c4_i_x = c4_h_x;
         c4_j_x = c4_i_x;
         c4_y = muSingleScalarAbs(c4_j_x);
-        c4_b_st.site = &c4_yd_emlrtRSI;
+        c4_b_st.site = &c4_wd_emlrtRSI;
         c4_k_x = c4_z;
         c4_l_x = c4_k_x;
         c4_m_x = c4_l_x;
@@ -11689,7 +11648,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
     c4_b->data[c4_nb] = c4_e_x;
     c4_r_a = c4_b_k - 1;
     c4_i5 = c4_r_a;
-    c4_st.site = &c4_ie_emlrtRSI;
+    c4_st.site = &c4_ge_emlrtRSI;
     c4_s_a = c4_k0;
     c4_p_b = c4_i5;
     c4_u_a = c4_s_a;
@@ -11701,7 +11660,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_c_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
   }
@@ -11712,7 +11671,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
     c4_n_a = c4_khi + 1;
     c4_b_c = c4_n_a - 1;
     c4_b->data[c4_nb] = c4_b->data[c4_b_c];
-    c4_st.site = &c4_he_emlrtRSI;
+    c4_st.site = &c4_fe_emlrtRSI;
     c4_l_b = c4_nInf;
     c4_m_b = c4_l_b;
     if (1 > c4_m_b) {
@@ -11722,7 +11681,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_b_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
   }
@@ -11730,7 +11689,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
   c4_m_a = c4_khi;
   c4_i_b = c4_nInf;
   c4_b_k = c4_m_a + c4_i_b;
-  c4_st.site = &c4_ge_emlrtRSI;
+  c4_st.site = &c4_ee_emlrtRSI;
   c4_j_b = c4_nNaN;
   c4_k_b = c4_j_b;
   if (1 > c4_k_b) {
@@ -11740,7 +11699,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
   }
 
   if (c4_overflow) {
-    c4_b_st.site = &c4_ob_emlrtRSI;
+    c4_b_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
   }
 
@@ -11763,14 +11722,14 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
 
   c4_iv[0] = 1;
   c4_iv[1] = c4_i6;
-  c4_st.site = &c4_fe_emlrtRSI;
+  c4_st.site = &c4_de_emlrtRSI;
   c4_indexShapeCheck(chartInstance, &c4_st, 19200, c4_iv);
   c4_i7 = c4_b->size[0];
   c4_b->size[0] = c4_i6;
-  c4_st.site = &c4_fe_emlrtRSI;
+  c4_st.site = &c4_de_emlrtRSI;
   c4_emxEnsureCapacity_real32_T(chartInstance, &c4_st, c4_b, c4_i7,
     &c4_hd_emlrtRTEI);
-  c4_st.site = &c4_ee_emlrtRSI;
+  c4_st.site = &c4_ce_emlrtRSI;
   c4_t_b = c4_nb + 1;
   c4_v_b = c4_t_b;
   if (1 > c4_v_b) {
@@ -11780,7 +11739,7 @@ static void c4_unique_vector(SFc4_flightControlSystemInstanceStruct
   }
 
   if (c4_d_overflow) {
-    c4_b_st.site = &c4_ob_emlrtRSI;
+    c4_b_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
   }
 }
@@ -11828,7 +11787,7 @@ static void c4_indexShapeCheck(SFc4_flightControlSystemInstanceStruct
     c4_c = false;
   }
 
-  c4_st.site = &c4_me_emlrtRSI;
+  c4_st.site = &c4_ke_emlrtRSI;
   c4_b_c = c4_c;
   if (c4_b_c) {
     c4_y = NULL;
@@ -11900,7 +11859,7 @@ static void c4_c_warning(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_c_y = NULL;
   sf_mex_assign(&c4_c_y, sf_mex_create("y", c4_msgID, 10, 0U, 1U, 0U, 2, 1, 32),
                 false);
-  c4_st.site = &c4_t_emlrtRSI;
+  c4_st.site = &c4_r_emlrtRSI;
   c4_f_feval(chartInstance, &c4_st, c4_y, c4_e_feval(chartInstance, &c4_st,
               c4_b_y, c4_c_y));
 }
@@ -11924,7 +11883,7 @@ static void c4_abs(SFc4_flightControlSystemInstanceStruct *chartInstance, const
   boolean_T c4_overflow;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_ve_emlrtRSI;
+  c4_st.site = &c4_te_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
@@ -11935,7 +11894,7 @@ static void c4_abs(SFc4_flightControlSystemInstanceStruct *chartInstance, const
   c4_y->size[0] = (int32_T)c4_b_dv[0];
   c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_y, c4_i,
     &c4_jd_emlrtRTEI);
-  c4_b_st.site = &c4_we_emlrtRSI;
+  c4_b_st.site = &c4_ue_emlrtRSI;
   c4_b = c4_nx;
   c4_b_b = c4_b;
   if (1 > c4_b_b) {
@@ -11945,7 +11904,7 @@ static void c4_abs(SFc4_flightControlSystemInstanceStruct *chartInstance, const
   }
 
   if (c4_overflow) {
-    c4_c_st.site = &c4_ob_emlrtRSI;
+    c4_c_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
   }
 
@@ -12040,7 +11999,7 @@ static boolean_T c4_any(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
   c4_c_st.tls = c4_b_st.tls;
-  c4_st.site = &c4_xe_emlrtRSI;
+  c4_st.site = &c4_ve_emlrtRSI;
   if ((c4_x_size[0] == 1) || ((real_T)c4_x_size[0] != 1.0)) {
     c4_b = true;
   } else {
@@ -12069,7 +12028,7 @@ static boolean_T c4_any(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_i2 = c4_b_b;
   c4_i_a = c4_i2 + 1;
   c4_i2 = c4_i_a;
-  c4_b_st.site = &c4_ye_emlrtRSI;
+  c4_b_st.site = &c4_we_emlrtRSI;
   c4_c_b = c4_i2;
   c4_d_b = c4_c_b;
   if (1 > c4_d_b) {
@@ -12079,7 +12038,7 @@ static boolean_T c4_any(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   if (c4_overflow) {
-    c4_c_st.site = &c4_ob_emlrtRSI;
+    c4_c_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
   }
 
@@ -12307,7 +12266,7 @@ static void c4_eml_find(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_guard1 = false;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_vf_emlrtRSI;
+  c4_st.site = &c4_tf_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_b_idx = 0;
@@ -12355,7 +12314,7 @@ static void c4_eml_find(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
   c4_iv[0] = 1;
   c4_iv[1] = c4_i2;
-  c4_b_st.site = &c4_yf_emlrtRSI;
+  c4_b_st.site = &c4_wf_emlrtRSI;
   c4_indexShapeCheck(chartInstance, &c4_b_st, 19200, c4_iv);
   c4_i3 = c4_i->size[0];
   c4_i->size[0] = c4_i2;
@@ -12370,7 +12329,7 @@ static void c4_eml_find(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
   c4_iv1[0] = 1;
   c4_iv1[1] = c4_i4;
-  c4_b_st.site = &c4_xf_emlrtRSI;
+  c4_b_st.site = &c4_vf_emlrtRSI;
   c4_indexShapeCheck(chartInstance, &c4_b_st, 19200, c4_iv1);
   c4_i5 = c4_j->size[0];
   c4_j->size[0] = c4_i4;
@@ -12385,7 +12344,7 @@ static void c4_eml_find(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
   c4_iv2[0] = 1;
   c4_iv2[1] = c4_i6;
-  c4_b_st.site = &c4_wf_emlrtRSI;
+  c4_b_st.site = &c4_uf_emlrtRSI;
   c4_indexShapeCheck(chartInstance, &c4_b_st, 19200, c4_iv2);
 }
 
@@ -12484,7 +12443,7 @@ static void c4_eml_sub2ind(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_emxInit_real_T1(chartInstance, c4_sp, &c4_e_varargin_1, 1, &c4_sd_emlrtRTEI);
   c4_i = c4_e_varargin_1->size[0];
   c4_e_varargin_1->size[0] = c4_d_varargin_1->size[0];
-  c4_st.site = &c4_rl_emlrtRSI;
+  c4_st.site = &c4_ml_emlrtRSI;
   c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_e_varargin_1, c4_i,
     &c4_sd_emlrtRTEI);
   c4_loop_ub = c4_d_varargin_1->size[0] - 1;
@@ -12545,7 +12504,7 @@ static void c4_eml_sub2ind(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_emxInit_real_T1(chartInstance, c4_sp, &c4_d_varargin_2, 1, &c4_sd_emlrtRTEI);
   c4_i2 = c4_d_varargin_2->size[0];
   c4_d_varargin_2->size[0] = c4_b_varargin_2->size[0];
-  c4_st.site = &c4_rl_emlrtRSI;
+  c4_st.site = &c4_ml_emlrtRSI;
   c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_d_varargin_2, c4_i2,
     &c4_sd_emlrtRTEI);
   c4_b_loop_ub = c4_b_varargin_2->size[0] - 1;
@@ -12568,7 +12527,7 @@ static void c4_eml_sub2ind(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_emxFree_real_T(chartInstance, &c4_d_varargin_2);
   c4_i4 = c4_b_idx->size[0];
   c4_b_idx->size[0] = c4_d_varargin_1->size[0];
-  c4_st.site = &c4_nl_emlrtRSI;
+  c4_st.site = &c4_il_emlrtRSI;
   c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_b_idx, c4_i4,
     &c4_td_emlrtRTEI);
   c4_c_loop_ub = c4_d_varargin_1->size[0] - 1;
@@ -12579,7 +12538,7 @@ static void c4_eml_sub2ind(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_emxInit_int32_T(chartInstance, c4_sp, &c4_b, 1, &c4_ud_emlrtRTEI);
   c4_i6 = c4_b->size[0];
   c4_b->size[0] = c4_b_varargin_2->size[0];
-  c4_st.site = &c4_ml_emlrtRSI;
+  c4_st.site = &c4_hl_emlrtRSI;
   c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_b, c4_i6,
     &c4_ud_emlrtRTEI);
   c4_d_loop_ub = c4_b_varargin_2->size[0] - 1;
@@ -12596,7 +12555,7 @@ static void c4_eml_sub2ind(SFc4_flightControlSystemInstanceStruct *chartInstance
   }
 
   c4_i10 = c4_b_idx->size[0];
-  c4_st.site = &c4_ml_emlrtRSI;
+  c4_st.site = &c4_hl_emlrtRSI;
   c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_b_idx, c4_i10,
     &c4_wd_emlrtRTEI);
   c4_f_loop_ub = c4_b_idx->size[0] - 1;
@@ -12897,7 +12856,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
   if (!c4_flat) {
     c4_emxInit_sBO2RC5RVZVTbundPSRqHnH(chartInstance, c4_sp, &c4_b_s, 1,
       &c4_me_emlrtRTEI);
-    c4_st.site = &c4_jg_emlrtRSI;
+    c4_st.site = &c4_hg_emlrtRSI;
     for (c4_i2 = 0; c4_i2 < 19200; c4_i2++) {
       chartInstance->c4_b_accumMatrixRe[c4_i2] = chartInstance->
         c4_accumMatrixRe[c4_i2];
@@ -12905,27 +12864,27 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
     c4_medfilt2(chartInstance, chartInstance->c4_b_accumMatrixRe,
                 chartInstance->c4_Hd);
-    c4_st.site = &c4_kg_emlrtRSI;
+    c4_st.site = &c4_ig_emlrtRSI;
     for (c4_i3 = 0; c4_i3 < 19200; c4_i3++) {
       chartInstance->c4_b_Hd[c4_i3] = chartInstance->c4_Hd[c4_i3];
     }
 
     c4_imhmax(chartInstance, &c4_st, chartInstance->c4_b_Hd,
               chartInstance->c4_Hd);
-    c4_st.site = &c4_lg_emlrtRSI;
+    c4_st.site = &c4_jg_emlrtRSI;
     for (c4_i4 = 0; c4_i4 < 19200; c4_i4++) {
       chartInstance->c4_c_Hd[c4_i4] = chartInstance->c4_Hd[c4_i4];
     }
 
     c4_imregionalmax(chartInstance, &c4_st, chartInstance->c4_c_Hd, c4_bw);
-    c4_st.site = &c4_mg_emlrtRSI;
+    c4_st.site = &c4_kg_emlrtRSI;
     c4_regionprops(chartInstance, &c4_st, c4_bw, chartInstance->c4_accumMatrixRe,
                    c4_b_s);
     if (c4_b_s->size[0] != 0) {
       c4_i5 = c4_centers->size[0] * c4_centers->size[1];
       c4_centers->size[0] = c4_b_s->size[0];
       c4_centers->size[1] = 2;
-      c4_st.site = &c4_dl_emlrtRSI;
+      c4_st.site = &c4_xk_emlrtRSI;
       c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_centers, c4_i5,
         &c4_xd_emlrtRTEI);
       c4_d = (real_T)c4_b_s->size[0];
@@ -12988,11 +12947,11 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
 
         if (c4_guard1) {
-          c4_st.site = &c4_ng_emlrtRSI;
+          c4_st.site = &c4_lg_emlrtRSI;
           c4_i24 = c4_d_x->size[0] * c4_d_x->size[1];
           c4_d_x->size[0] = c4_centers->size[0];
           c4_d_x->size[1] = c4_centers->size[1];
-          c4_b_st.site = &c4_ng_emlrtRSI;
+          c4_b_st.site = &c4_lg_emlrtRSI;
           c4_emxEnsureCapacity_real_T(chartInstance, &c4_b_st, c4_d_x, c4_i24,
             &c4_be_emlrtRTEI);
           c4_b_loop_ub = c4_centers->size[0] * c4_centers->size[1] - 1;
@@ -13001,7 +12960,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
           }
 
           c4_e_idx = (int32_T)c4_c_idx;
-          c4_b_st.site = &c4_pi_emlrtRSI;
+          c4_b_st.site = &c4_ni_emlrtRSI;
           c4_f_idx = c4_e_idx;
           c4_g_idx = c4_f_idx;
           c4_d2 = (real_T)c4_d_x->size[0];
@@ -13029,14 +12988,14 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
               sf_mex_call(&c4_b_st, NULL, "message", 1U, 1U, 14, c4_c_y)));
           }
 
-          c4_b_st.site = &c4_qi_emlrtRSI;
+          c4_b_st.site = &c4_oi_emlrtRSI;
           c4_h_idx = c4_e_idx;
           c4_nrowx = c4_d_x->size[0];
           c4_nrows = c4_nrowx - 1;
-          c4_c_st.site = &c4_ri_emlrtRSI;
+          c4_c_st.site = &c4_pi_emlrtRSI;
           for (c4_j = 0; c4_j < 2; c4_j++) {
             c4_b_j = c4_j;
-            c4_c_st.site = &c4_si_emlrtRSI;
+            c4_c_st.site = &c4_qi_emlrtRSI;
             c4_h_a = c4_h_idx;
             c4_e_b = c4_nrows;
             c4_i_a = c4_h_a;
@@ -13048,7 +13007,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
             }
 
             if (c4_overflow) {
-              c4_d_st.site = &c4_ob_emlrtRSI;
+              c4_d_st.site = &c4_mb_emlrtRSI;
               c4_check_forloop_overflow_error(chartInstance, &c4_d_st);
             }
 
@@ -13103,7 +13062,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_i44 = c4_centers->size[0] * c4_centers->size[1];
           c4_centers->size[0] = c4_d_x->size[0];
           c4_centers->size[1] = 2;
-          c4_st.site = &c4_ng_emlrtRSI;
+          c4_st.site = &c4_lg_emlrtRSI;
           c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_centers, c4_i44,
             &c4_be_emlrtRTEI);
           c4_j_loop_ub = c4_d_x->size[0] * c4_d_x->size[1] - 1;
@@ -13120,11 +13079,11 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_b_b = (c4_centers->size[0] == 0);
       if (!c4_b_b) {
         c4_emxInit_real_T1(chartInstance, c4_sp, &c4_ndx, 1, &c4_oe_emlrtRTEI);
-        c4_st.site = &c4_og_emlrtRSI;
+        c4_st.site = &c4_mg_emlrtRSI;
         c4_i18 = c4_centers->size[0] - 1;
         c4_i20 = c4_ndx->size[0];
         c4_ndx->size[0] = c4_i18 + 1;
-        c4_b_st.site = &c4_og_emlrtRSI;
+        c4_b_st.site = &c4_mg_emlrtRSI;
         c4_emxEnsureCapacity_real_T1(chartInstance, &c4_b_st, c4_ndx, c4_i20,
           &c4_ae_emlrtRTEI);
         c4_loop_ub = c4_i18;
@@ -13134,12 +13093,12 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
         c4_emxInit_real_T1(chartInstance, &c4_st, &c4_b_varargin_2, 1,
                            &c4_ce_emlrtRTEI);
-        c4_b_st.site = &c4_og_emlrtRSI;
+        c4_b_st.site = &c4_mg_emlrtRSI;
         c4_b_round(chartInstance, &c4_b_st, c4_ndx);
         c4_i26 = c4_centers->size[0] - 1;
         c4_i28 = c4_b_varargin_2->size[0];
         c4_b_varargin_2->size[0] = c4_i26 + 1;
-        c4_b_st.site = &c4_og_emlrtRSI;
+        c4_b_st.site = &c4_mg_emlrtRSI;
         c4_emxEnsureCapacity_real_T1(chartInstance, &c4_b_st, c4_b_varargin_2,
           c4_i28, &c4_ce_emlrtRTEI);
         c4_c_loop_ub = c4_i26;
@@ -13148,9 +13107,9 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
 
         c4_emxInit_int32_T(chartInstance, &c4_st, &c4_r, 1, &c4_dc_emlrtRTEI);
-        c4_b_st.site = &c4_og_emlrtRSI;
+        c4_b_st.site = &c4_mg_emlrtRSI;
         c4_b_round(chartInstance, &c4_b_st, c4_b_varargin_2);
-        c4_b_st.site = &c4_ag_emlrtRSI;
+        c4_b_st.site = &c4_xf_emlrtRSI;
         c4_eml_sub2ind(chartInstance, &c4_b_st, c4_ndx, c4_b_varargin_2, c4_r);
         c4_i30 = c4_ndx->size[0];
         c4_ndx->size[0] = c4_r->size[0];
@@ -13164,7 +13123,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_emxFree_int32_T(chartInstance, &c4_r);
         c4_i32 = c4_b_varargin_2->size[0];
         c4_b_varargin_2->size[0] = c4_ndx->size[0];
-        c4_st.site = &c4_og_emlrtRSI;
+        c4_st.site = &c4_mg_emlrtRSI;
         c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_b_varargin_2,
           c4_i32, &c4_de_emlrtRTEI);
         c4_e_loop_ub = c4_ndx->size[0] - 1;
@@ -13179,7 +13138,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_i37 = c4_metric->size[0] * c4_metric->size[1];
         c4_metric->size[0] = c4_b_varargin_2->size[0];
         c4_metric->size[1] = 1;
-        c4_st.site = &c4_og_emlrtRSI;
+        c4_st.site = &c4_mg_emlrtRSI;
         c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_metric, c4_i37,
           &c4_ee_emlrtRTEI);
         c4_f_loop_ub = c4_b_varargin_2->size[0] - 1;
@@ -13189,11 +13148,11 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
         c4_emxFree_real_T(chartInstance, &c4_b_varargin_2);
         c4_emxInit_real_T(chartInstance, c4_sp, &c4_j_x, 2, &c4_fe_emlrtRTEI);
-        c4_st.site = &c4_pg_emlrtRSI;
+        c4_st.site = &c4_ng_emlrtRSI;
         c4_i43 = c4_j_x->size[0] * c4_j_x->size[1];
         c4_j_x->size[0] = c4_metric->size[0];
         c4_j_x->size[1] = c4_metric->size[1];
-        c4_b_st.site = &c4_pg_emlrtRSI;
+        c4_b_st.site = &c4_ng_emlrtRSI;
         c4_emxEnsureCapacity_real_T(chartInstance, &c4_b_st, c4_j_x, c4_i43,
           &c4_fe_emlrtRTEI);
         c4_i_loop_ub = c4_metric->size[0] * c4_metric->size[1] - 1;
@@ -13204,7 +13163,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_emxInit_real_T(chartInstance, &c4_st, &c4_sortIdx, 2,
                           &c4_ne_emlrtRTEI);
         c4_emxInit_int32_T1(chartInstance, &c4_st, &c4_iidx, 2, &c4_ne_emlrtRTEI);
-        c4_b_st.site = &c4_vi_emlrtRSI;
+        c4_b_st.site = &c4_ti_emlrtRSI;
         c4_d_sort(chartInstance, &c4_b_st, c4_j_x, c4_iidx);
         c4_i47 = c4_sortIdx->size[0] * c4_sortIdx->size[1];
         c4_sortIdx->size[0] = c4_iidx->size[0];
@@ -13220,7 +13179,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_i49 = c4_metric->size[0] * c4_metric->size[1];
         c4_metric->size[0] = c4_j_x->size[0];
         c4_metric->size[1] = 1;
-        c4_st.site = &c4_pg_emlrtRSI;
+        c4_st.site = &c4_ng_emlrtRSI;
         c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_metric, c4_i49,
           &c4_je_emlrtRTEI);
         c4_l_loop_ub = c4_j_x->size[0] * c4_j_x->size[1] - 1;
@@ -13236,7 +13195,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_i51 = c4_b_centers->size[0] * c4_b_centers->size[1];
         c4_b_centers->size[0] = c4_b_sortIdx[0];
         c4_b_centers->size[1] = 2;
-        c4_st.site = &c4_cl_emlrtRSI;
+        c4_st.site = &c4_wk_emlrtRSI;
         c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_b_centers, c4_i51,
           &c4_ke_emlrtRTEI);
         for (c4_i52 = 0; c4_i52 < 2; c4_i52++) {
@@ -13254,7 +13213,7 @@ static void c4_chcenters(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_i53 = c4_centers->size[0] * c4_centers->size[1];
         c4_centers->size[0] = c4_b_centers->size[0];
         c4_centers->size[1] = c4_b_centers->size[1];
-        c4_st.site = &c4_cl_emlrtRSI;
+        c4_st.site = &c4_wk_emlrtRSI;
         c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_centers, c4_i53,
           &c4_le_emlrtRTEI);
         c4_n_loop_ub = c4_b_centers->size[0] * c4_b_centers->size[1] - 1;
@@ -13284,20 +13243,20 @@ static void c4_imhmax(SFc4_flightControlSystemInstanceStruct *chartInstance,
   int32_T c4_i3;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_qg_emlrtRSI;
+  c4_st.site = &c4_og_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_b_J[c4_i] = c4_I[c4_i] - 0.15;
   }
 
-  c4_b_st.site = &c4_rg_emlrtRSI;
+  c4_b_st.site = &c4_pg_emlrtRSI;
   for (c4_i1 = 0; c4_i1 < 19200; c4_i1++) {
     chartInstance->c4_J[c4_i1] = c4_b_J[c4_i1];
   }
 
   c4_validateattributes(chartInstance, &c4_b_st, chartInstance->c4_J);
-  c4_b_st.site = &c4_sg_emlrtRSI;
+  c4_b_st.site = &c4_qg_emlrtRSI;
   for (c4_i2 = 0; c4_i2 < 19200; c4_i2++) {
     c4_b_I[c4_i2] = c4_I[c4_i2];
   }
@@ -13335,7 +13294,7 @@ static void c4_validateattributes(SFc4_flightControlSystemInstanceStruct
   (void)chartInstance;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_w_emlrtRSI;
+  c4_st.site = &c4_u_emlrtRSI;
   c4_p = true;
   c4_k = 0;
   c4_exitg1 = false;
@@ -13420,8 +13379,8 @@ static void c4_imregionalmax(SFc4_flightControlSystemInstanceStruct
   c4_st.tls = c4_sp->tls;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
-  c4_st.site = &c4_tg_emlrtRSI;
-  c4_b_st.site = &c4_w_emlrtRSI;
+  c4_st.site = &c4_rg_emlrtRSI;
+  c4_b_st.site = &c4_u_emlrtRSI;
   c4_p = true;
   c4_k = 0;
   c4_exitg1 = false;
@@ -13460,7 +13419,7 @@ static void c4_imregionalmax(SFc4_flightControlSystemInstanceStruct
       (&c4_b_st, NULL, "message", 1U, 2U, 14, c4_b_y, 14, c4_c_y)));
   }
 
-  c4_st.site = &c4_ug_emlrtRSI;
+  c4_st.site = &c4_sg_emlrtRSI;
   for (c4_c_k = 0; c4_c_k < 19200; c4_c_k++) {
     c4_d_k = (real_T)c4_c_k + 1.0;
     c4_e_x = c4_d_varargin_1[(int32_T)c4_d_k - 1];
@@ -13478,7 +13437,7 @@ static void c4_imregionalmax(SFc4_flightControlSystemInstanceStruct
     }
   }
 
-  c4_st.site = &c4_vg_emlrtRSI;
+  c4_st.site = &c4_tg_emlrtRSI;
   for (c4_i = 0; c4_i < 9; c4_i++) {
     c4_conn[c4_i] = true;
   }
@@ -13594,7 +13553,7 @@ static void c4_regionprops(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_d_st.tls = c4_c_st.tls;
   c4_emxInitStruct_s_VSLwMee4Kv1oTF0(chartInstance, c4_sp, &c4_CC,
     &c4_ue_emlrtRTEI);
-  c4_st.site = &c4_wg_emlrtRSI;
+  c4_st.site = &c4_ug_emlrtRSI;
   for (c4_i = 0; c4_i < 19200; c4_i++) {
     c4_e_varargin_1[c4_i] = c4_d_varargin_1[c4_i];
   }
@@ -13605,7 +13564,7 @@ static void c4_regionprops(SFc4_flightControlSystemInstanceStruct *chartInstance
   }
 
   c4_numObjs = c4_CC.NumObjects;
-  c4_st.site = &c4_xg_emlrtRSI;
+  c4_st.site = &c4_vg_emlrtRSI;
   c4_b_numObjs = c4_numObjs;
   c4_p = false;
   c4_b_p = true;
@@ -13642,14 +13601,14 @@ static void c4_regionprops(SFc4_flightControlSystemInstanceStruct *chartInstance
 
   c4_emxInit_s_nrlUwWofUDGxo1t78e6dw(chartInstance, &c4_st, &c4_stats, 1,
     &c4_ve_emlrtRTEI);
-  c4_b_st.site = &c4_ai_emlrtRSI;
+  c4_b_st.site = &c4_xh_emlrtRSI;
   c4_c_numObjs = c4_b_numObjs;
-  c4_c_st.site = &c4_bi_emlrtRSI;
+  c4_c_st.site = &c4_yh_emlrtRSI;
   c4_repmat(chartInstance, &c4_c_st, c4_c_numObjs, c4_outstats);
-  c4_st.site = &c4_yg_emlrtRSI;
+  c4_st.site = &c4_wg_emlrtRSI;
   c4_initializeStatsStruct(chartInstance, &c4_st, c4_numObjs, c4_stats,
     &c4_statsAlreadyComputed);
-  c4_st.site = &c4_ah_emlrtRSI;
+  c4_st.site = &c4_xg_emlrtRSI;
   c4_d_numObjs = c4_numObjs;
   c4_statsAlreadyComputed.PixelIdxList = true;
   if (c4_d_numObjs != 0.0) {
@@ -13675,8 +13634,8 @@ static void c4_regionprops(SFc4_flightControlSystemInstanceStruct *chartInstance
       c4_regionLengths->data[c4_i7] = c4_CC.RegionLengths->data[c4_i7];
     }
 
-    c4_b_st.site = &c4_ei_emlrtRSI;
-    c4_c_st.site = &c4_th_emlrtRSI;
+    c4_b_st.site = &c4_ci_emlrtRSI;
+    c4_c_st.site = &c4_rh_emlrtRSI;
     c4_dim = 2;
     if ((real_T)c4_regionLengths->size[0] != 1.0) {
       c4_dim = 1;
@@ -13695,7 +13654,7 @@ static void c4_regionprops(SFc4_flightControlSystemInstanceStruct *chartInstance
 
     c4_emxInit_int32_T(chartInstance, &c4_c_st, &c4_idxCount, 1,
                        &c4_ye_emlrtRTEI);
-    c4_d_st.site = &c4_uh_emlrtRSI;
+    c4_d_st.site = &c4_sh_emlrtRSI;
     c4_useConstantDim(chartInstance, &c4_d_st, c4_b_regionLengths, c4_dim,
                       c4_regionLengths);
     c4_i20 = c4_idxCount->size[0];
@@ -13757,14 +13716,14 @@ static void c4_regionprops(SFc4_flightControlSystemInstanceStruct *chartInstance
   }
 
   c4_emxFreeStruct_s_VSLwMee4Kv1oTF0(chartInstance, &c4_CC);
-  c4_st.site = &c4_bh_emlrtRSI;
+  c4_st.site = &c4_yg_emlrtRSI;
   for (c4_i3 = 0; c4_i3 < 19200; c4_i3++) {
     chartInstance->c4_varargin_2[c4_i3] = c4_b_varargin_2[c4_i3];
   }
 
   c4_b_ComputeWeightedCentroid(chartInstance, &c4_st,
     chartInstance->c4_varargin_2, c4_stats, &c4_statsAlreadyComputed);
-  c4_st.site = &c4_ch_emlrtRSI;
+  c4_st.site = &c4_ah_emlrtRSI;
   c4_d = (real_T)c4_stats->size[0];
   c4_i5 = (int32_T)c4_d - 1;
   for (c4_c_k = 0; c4_c_k <= c4_i5; c4_c_k++) {
@@ -13966,7 +13925,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_overflow;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_jh_emlrtRSI;
+  c4_st.site = &c4_hh_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
@@ -14020,7 +13979,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_startCol->size[0] = c4_numRuns;
     c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_startCol, c4_i2,
       &c4_cf_emlrtRTEI);
-    c4_b_st.site = &c4_kh_emlrtRSI;
+    c4_b_st.site = &c4_ih_emlrtRSI;
     c4_runCounter = 1;
     for (c4_c_col = 0; c4_c_col < 160; c4_c_col++) {
       c4_d_col = (real_T)c4_c_col + 1.0;
@@ -14122,10 +14081,10 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
                      1, c4_i32, &c4_ud_emlrtBCI, &c4_st) - 1] !=
                     c4_regionLengths->data[emlrtDynamicBoundsCheckR2012b(c4_p, 1,
                      c4_i35, &c4_vd_emlrtBCI, &c4_st) - 1]) {
-                  c4_b_st.site = &c4_lh_emlrtRSI;
+                  c4_b_st.site = &c4_jh_emlrtRSI;
                   c4_g_k = c4_c_k;
                   c4_b_p = c4_p;
-                  c4_c_st.site = &c4_mh_emlrtRSI;
+                  c4_c_st.site = &c4_kh_emlrtRSI;
                   c4_node = c4_g_k;
                   c4_root_k = c4_node;
                   do {
@@ -14153,7 +14112,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
                     }
                   } while (c4_exitg1 == 0);
 
-                  c4_c_st.site = &c4_nh_emlrtRSI;
+                  c4_c_st.site = &c4_lh_emlrtRSI;
                   c4_b_node = c4_b_p;
                   c4_root_p = c4_b_node;
                   do {
@@ -14182,7 +14141,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
                   } while (c4_exitg1 == 0);
 
                   if (c4_root_k != c4_root_p) {
-                    c4_c_st.site = &c4_oh_emlrtRSI;
+                    c4_c_st.site = &c4_mh_emlrtRSI;
                     c4_b_root_k = c4_root_k;
                     c4_b_root_p = c4_root_p;
                     c4_i_k = c4_g_k;
@@ -14245,11 +14204,11 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
                        &c4_of_emlrtRTEI);
     c4_i3 = c4_labelsRenumbered->size[0];
     c4_labelsRenumbered->size[0] = c4_regionLengths->size[0];
-    c4_st.site = &c4_ll_emlrtRSI;
+    c4_st.site = &c4_gl_emlrtRSI;
     c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_labelsRenumbered,
       c4_i3, &c4_ef_emlrtRTEI);
     c4_numComponents = 0.0;
-    c4_st.site = &c4_ih_emlrtRSI;
+    c4_st.site = &c4_gh_emlrtRSI;
     c4_b = c4_numRuns;
     c4_b_b = c4_b;
     if (1 > c4_b_b) {
@@ -14259,7 +14218,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
@@ -14288,7 +14247,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_i10 = c4_regionLengths->size[0];
     c4_regionLengths->size[0] = (int32_T)emlrtIntegerCheckR2012b
       (c4_numComponents, &c4_g_emlrtDCI, c4_sp);
-    c4_st.site = &c4_kl_emlrtRSI;
+    c4_st.site = &c4_fl_emlrtRSI;
     c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_regionLengths, c4_i10,
       &c4_gf_emlrtRTEI);
     c4_b_loop_ub = (int32_T)emlrtIntegerCheckR2012b(c4_numComponents,
@@ -14297,7 +14256,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_regionLengths->data[c4_i16] = 0;
     }
 
-    c4_st.site = &c4_hh_emlrtRSI;
+    c4_st.site = &c4_fh_emlrtRSI;
     c4_c_b = c4_numRuns;
     c4_d_b = c4_c_b;
     if (1 > c4_d_b) {
@@ -14307,7 +14266,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_b_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
@@ -14329,17 +14288,17 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_sp) - 1]) + 1;
     }
 
-    c4_st.site = &c4_gh_emlrtRSI;
-    c4_b_st.site = &c4_ph_emlrtRSI;
-    c4_c_st.site = &c4_qh_emlrtRSI;
+    c4_st.site = &c4_eh_emlrtRSI;
+    c4_b_st.site = &c4_nh_emlrtRSI;
+    c4_c_st.site = &c4_oh_emlrtRSI;
     c4_vlen = c4_regionLengths->size[0];
     if ((c4_regionLengths->size[0] == 0) || (c4_vlen == 0)) {
       c4_y = 0.0;
     } else {
-      c4_d_st.site = &c4_rh_emlrtRSI;
+      c4_d_st.site = &c4_ph_emlrtRSI;
       c4_b_vlen = c4_vlen;
       c4_y = (real_T)c4_regionLengths->data[0];
-      c4_e_st.site = &c4_sh_emlrtRSI;
+      c4_e_st.site = &c4_qh_emlrtRSI;
       c4_e_b = c4_b_vlen;
       c4_f_b = c4_e_b;
       if (2 > c4_f_b) {
@@ -14349,7 +14308,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_c_overflow) {
-        c4_f_st.site = &c4_ob_emlrtRSI;
+        c4_f_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
       }
 
@@ -14367,13 +14326,13 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_iv[0] = (int32_T)emlrtIntegerCheckR2012b(c4_d1, &c4_h_emlrtDCI, c4_sp);
     c4_i39 = c4_pixelIdxList->size[0];
     c4_pixelIdxList->size[0] = c4_iv[0];
-    c4_st.site = &c4_gh_emlrtRSI;
+    c4_st.site = &c4_eh_emlrtRSI;
     c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_pixelIdxList, c4_i39,
       &c4_hf_emlrtRTEI);
-    c4_st.site = &c4_fh_emlrtRSI;
+    c4_st.site = &c4_dh_emlrtRSI;
     c4_i41 = c4_c_x->size[0];
     c4_c_x->size[0] = c4_regionLengths->size[0];
-    c4_b_st.site = &c4_fh_emlrtRSI;
+    c4_b_st.site = &c4_dh_emlrtRSI;
     c4_emxEnsureCapacity_int32_T(chartInstance, &c4_b_st, c4_c_x, c4_i41,
       &c4_if_emlrtRTEI);
     c4_c_loop_ub = c4_regionLengths->size[0] - 1;
@@ -14381,7 +14340,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_c_x->data[c4_i46] = c4_regionLengths->data[c4_i46];
     }
 
-    c4_b_st.site = &c4_th_emlrtRSI;
+    c4_b_st.site = &c4_rh_emlrtRSI;
     c4_dim = 2;
     if ((real_T)c4_c_x->size[0] != 1.0) {
       c4_dim = 1;
@@ -14399,11 +14358,11 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
     c4_emxInit_int32_T(chartInstance, &c4_b_st, &c4_idxCount, 1,
                        &c4_jf_emlrtRTEI);
-    c4_c_st.site = &c4_uh_emlrtRSI;
+    c4_c_st.site = &c4_sh_emlrtRSI;
     c4_useConstantDim(chartInstance, &c4_c_st, c4_d_x, c4_dim, c4_c_x);
     c4_i58 = c4_idxCount->size[0];
     c4_idxCount->size[0] = 1 + c4_c_x->size[0];
-    c4_st.site = &c4_fh_emlrtRSI;
+    c4_st.site = &c4_dh_emlrtRSI;
     c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_idxCount, c4_i58,
       &c4_jf_emlrtRTEI);
     c4_idxCount->data[0] = 0;
@@ -14414,7 +14373,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     c4_emxFree_int32_T(chartInstance, &c4_c_x);
-    c4_st.site = &c4_eh_emlrtRSI;
+    c4_st.site = &c4_ch_emlrtRSI;
     c4_g_b = c4_numRuns;
     c4_h_b = c4_g_b;
     if (1 > c4_h_b) {
@@ -14424,7 +14383,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_d_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
@@ -14445,7 +14404,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_i69 = c4_endRow->size[0];
       c4_i70 = c4_endRow->data[emlrtDynamicBoundsCheckR2012b(c4_e_k, 1, c4_i69,
         &c4_pe_emlrtBCI, c4_sp) - 1];
-      c4_st.site = &c4_dh_emlrtRSI;
+      c4_st.site = &c4_bh_emlrtRSI;
       c4_i_a = c4_i67;
       c4_i_b = c4_i70;
       c4_j_a = c4_i_a;
@@ -14457,7 +14416,7 @@ static void c4_bwconncomp(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_e_overflow) {
-        c4_b_st.site = &c4_ob_emlrtRSI;
+        c4_b_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
       }
 
@@ -14545,7 +14504,7 @@ static void c4_useConstantDim(SFc4_flightControlSystemInstanceStruct
   c4_e_st.prev = &c4_d_st;
   c4_e_st.tls = c4_d_st.tls;
   if (1 == c4_varargin_3) {
-    c4_st.site = &c4_vh_emlrtRSI;
+    c4_st.site = &c4_th_emlrtRSI;
     c4_i1 = c4_varargout_1->size[0];
     c4_varargout_1->size[0] = c4_b_varargin_2->size[0];
     c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_varargout_1, c4_i1,
@@ -14555,13 +14514,13 @@ static void c4_useConstantDim(SFc4_flightControlSystemInstanceStruct
       c4_varargout_1->data[c4_i3] = c4_b_varargin_2->data[c4_i3];
     }
 
-    c4_b_st.site = &c4_wh_emlrtRSI;
+    c4_b_st.site = &c4_uh_emlrtRSI;
     if (c4_varargout_1->size[0] != 0) {
-      c4_c_st.site = &c4_xh_emlrtRSI;
+      c4_c_st.site = &c4_vh_emlrtRSI;
       c4_nx = c4_varargout_1->size[0] - 1;
       if (!((real_T)c4_varargout_1->size[0] == 1.0)) {
         c4_i4 = c4_nx;
-        c4_d_st.site = &c4_yh_emlrtRSI;
+        c4_d_st.site = &c4_wh_emlrtRSI;
         c4_b = c4_i4;
         c4_b_b = c4_b;
         if (1 > c4_b_b) {
@@ -14571,7 +14530,7 @@ static void c4_useConstantDim(SFc4_flightControlSystemInstanceStruct
         }
 
         if (c4_overflow) {
-          c4_e_st.site = &c4_ob_emlrtRSI;
+          c4_e_st.site = &c4_mb_emlrtRSI;
           c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
         }
 
@@ -14612,11 +14571,11 @@ static void c4_repmat(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
   c4_emxInit_boolean_T1(chartInstance, c4_sp, &c4_tile, 1, &c4_tf_emlrtRTEI);
-  c4_st.site = &c4_ci_emlrtRSI;
+  c4_st.site = &c4_ai_emlrtRSI;
   c4_assertValidSizeArg(chartInstance, &c4_st, c4_d_varargin_1);
   c4_i = c4_tile->size[0];
   c4_tile->size[0] = (int32_T)c4_d_varargin_1;
-  c4_st.site = &c4_gl_emlrtRSI;
+  c4_st.site = &c4_bl_emlrtRSI;
   c4_emxEnsureCapacity_boolean_T1(chartInstance, &c4_st, c4_tile, c4_i,
     &c4_tf_emlrtRTEI);
   c4_loop_ub = (int32_T)c4_d_varargin_1 - 1;
@@ -14639,7 +14598,7 @@ static void c4_repmat(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
   c4_i3 = c4_b->size[0];
   c4_b->size[0] = c4_outsize[0];
-  c4_st.site = &c4_cm_emlrtRSI;
+  c4_st.site = &c4_wl_emlrtRSI;
   c4_emxEnsureCapacity_sBO2RC5RVZVTb(chartInstance, &c4_st, c4_b, c4_i3,
     &c4_uf_emlrtRTEI);
   c4_b_loop_ub = c4_outsize[0] - 1;
@@ -14842,9 +14801,9 @@ static void c4_initializeStatsStruct(SFc4_flightControlSystemInstanceStruct
   }
 
   c4_emxInit_boolean_T1(chartInstance, c4_sp, &c4_tile, 1, &c4_tf_emlrtRTEI);
-  c4_st.site = &c4_di_emlrtRSI;
+  c4_st.site = &c4_bi_emlrtRSI;
   c4_d_varargin_1 = c4_numObjs;
-  c4_b_st.site = &c4_ci_emlrtRSI;
+  c4_b_st.site = &c4_ai_emlrtRSI;
   c4_assertValidSizeArg(chartInstance, &c4_b_st, c4_d_varargin_1);
   c4_i5 = c4_tile->size[0];
   c4_tile->size[0] = (int32_T)c4_d_varargin_1;
@@ -14941,7 +14900,7 @@ static real_T c4_b_sum(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_d_st.tls = c4_c_st.tls;
   c4_e_st.prev = &c4_d_st;
   c4_e_st.tls = c4_d_st.tls;
-  c4_st.site = &c4_ph_emlrtRSI;
+  c4_st.site = &c4_nh_emlrtRSI;
   if ((c4_c_x->size[0] == 1) || ((real_T)c4_c_x->size[0] != 1.0)) {
     c4_b = true;
   } else {
@@ -14960,15 +14919,15 @@ static real_T c4_b_sum(SFc4_flightControlSystemInstanceStruct *chartInstance,
       (&c4_st, NULL, "message", 1U, 1U, 14, c4_c_y)));
   }
 
-  c4_b_st.site = &c4_qh_emlrtRSI;
+  c4_b_st.site = &c4_oh_emlrtRSI;
   c4_vlen = c4_c_x->size[0];
   if ((c4_c_x->size[0] == 0) || (c4_vlen == 0)) {
     c4_y = 0.0;
   } else {
-    c4_c_st.site = &c4_rh_emlrtRSI;
+    c4_c_st.site = &c4_ph_emlrtRSI;
     c4_b_vlen = c4_vlen;
     c4_y = c4_c_x->data[0];
-    c4_d_st.site = &c4_sh_emlrtRSI;
+    c4_d_st.site = &c4_qh_emlrtRSI;
     c4_b_b = c4_b_vlen;
     c4_c_b = c4_b_b;
     if (2 > c4_c_b) {
@@ -14978,7 +14937,7 @@ static real_T c4_b_sum(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_overflow) {
-      c4_e_st.site = &c4_ob_emlrtRSI;
+      c4_e_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
     }
 
@@ -15235,7 +15194,7 @@ static void c4_hough(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_overflow;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_fj_emlrtRSI;
+  c4_st.site = &c4_dj_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
@@ -15252,7 +15211,7 @@ static void c4_hough(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_sint[c4_b_i] = c4_f_x;
   }
 
-  c4_b_st.site = &c4_gj_emlrtRSI;
+  c4_b_st.site = &c4_ej_emlrtRSI;
   for (c4_j = 0; c4_j < 160; c4_j++) {
     c4_b_j = (real_T)c4_j + 1.0;
     c4_tempNum = 0.0;
@@ -15291,7 +15250,7 @@ static void c4_hough(SFc4_flightControlSystemInstanceStruct *chartInstance,
     for (c4_c_j = 0; c4_c_j < 160; c4_c_j++) {
       c4_d_j = (real_T)c4_c_j + 1.0;
       c4_i3 = c4_numNonZeros[(int32_T)c4_d_j - 1];
-      c4_b_st.site = &c4_hj_emlrtRSI;
+      c4_b_st.site = &c4_fj_emlrtRSI;
       c4_b = c4_i3;
       c4_b_b = c4_b;
       if (1 > c4_b_b) {
@@ -15301,7 +15260,7 @@ static void c4_hough(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_overflow) {
-        c4_c_st.site = &c4_ob_emlrtRSI;
+        c4_c_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
       }
 
@@ -15379,8 +15338,8 @@ static real_T c4_c_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_f_st.prev = &c4_e_st;
   c4_f_st.tls = c4_e_st.tls;
   c4_emxInit_real_T1(chartInstance, c4_sp, &c4_d_x, 1, &c4_emlrtRTEI);
-  c4_st.site = &c4_wb_emlrtRSI;
-  c4_b_st.site = &c4_xb_emlrtRSI;
+  c4_st.site = &c4_ub_emlrtRSI;
+  c4_b_st.site = &c4_vb_emlrtRSI;
   c4_i = c4_d_x->size[0];
   c4_d_x->size[0] = 71820;
   c4_emxEnsureCapacity_real_T1(chartInstance, &c4_b_st, c4_d_x, c4_i,
@@ -15389,9 +15348,9 @@ static real_T c4_c_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_d_x->data[c4_i1] = c4_c_x[c4_i1];
   }
 
-  c4_c_st.site = &c4_kb_emlrtRSI;
+  c4_c_st.site = &c4_ib_emlrtRSI;
   c4_n = c4_d_x->size[0];
-  c4_d_st.site = &c4_mb_emlrtRSI;
+  c4_d_st.site = &c4_kb_emlrtRSI;
   c4_b_n = c4_d_x->size[0];
   c4_e_x = c4_d_x->data[0];
   c4_f_x = c4_e_x;
@@ -15401,7 +15360,7 @@ static real_T c4_c_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_b_idx = 1;
   } else {
     c4_b_idx = 0;
-    c4_e_st.site = &c4_nb_emlrtRSI;
+    c4_e_st.site = &c4_lb_emlrtRSI;
     c4_b_b = c4_b_n;
     c4_c_b = c4_b_b;
     if (2 > c4_c_b) {
@@ -15411,7 +15370,7 @@ static real_T c4_c_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     }
 
     if (c4_overflow) {
-      c4_f_st.site = &c4_ob_emlrtRSI;
+      c4_f_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
     }
 
@@ -15434,12 +15393,12 @@ static real_T c4_c_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   if (c4_b_idx == 0) {
     c4_ex = c4_d_x->data[0];
   } else {
-    c4_d_st.site = &c4_lb_emlrtRSI;
+    c4_d_st.site = &c4_jb_emlrtRSI;
     c4_first = c4_b_idx - 1;
     c4_last = c4_n;
     c4_b_ex = c4_d_x->data[c4_first];
     c4_i2 = c4_first + 2;
-    c4_e_st.site = &c4_pb_emlrtRSI;
+    c4_e_st.site = &c4_nb_emlrtRSI;
     c4_g_a = c4_i2;
     c4_d_b = c4_last;
     c4_h_a = c4_g_a;
@@ -15451,7 +15410,7 @@ static real_T c4_c_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     }
 
     if (c4_b_overflow) {
-      c4_f_st.site = &c4_ob_emlrtRSI;
+      c4_f_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
     }
 
@@ -15666,10 +15625,10 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_d_st.tls = c4_c_st.tls;
   c4_e_st.prev = &c4_d_st;
   c4_e_st.tls = c4_d_st.tls;
-  c4_st.site = &c4_mj_emlrtRSI;
+  c4_st.site = &c4_kj_emlrtRSI;
   c4_b_varargin_4 = c4_varargin_4;
-  c4_b_st.site = &c4_nj_emlrtRSI;
-  c4_c_st.site = &c4_w_emlrtRSI;
+  c4_b_st.site = &c4_lj_emlrtRSI;
+  c4_c_st.site = &c4_u_emlrtRSI;
   c4_p = true;
   c4_k = 0;
   c4_exitg1 = false;
@@ -15712,7 +15671,7 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
       (&c4_c_st, NULL, "message", 1U, 2U, 14, c4_b_y, 14, c4_c_y)));
   }
 
-  c4_c_st.site = &c4_w_emlrtRSI;
+  c4_c_st.site = &c4_u_emlrtRSI;
   c4_b_p = true;
   c4_c_k = 0;
   c4_exitg1 = false;
@@ -15775,11 +15734,11 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_d_varargin_2 = c4_c_varargin_2;
   c4_threshold = c4_d_varargin_2;
   c4_b_threshold = c4_threshold;
-  c4_b_st.site = &c4_oj_emlrtRSI;
+  c4_b_st.site = &c4_mj_emlrtRSI;
   c4_c_threshold = c4_threshold;
-  c4_c_st.site = &c4_rj_emlrtRSI;
+  c4_c_st.site = &c4_pj_emlrtRSI;
   c4_g_a = c4_c_threshold;
-  c4_d_st.site = &c4_w_emlrtRSI;
+  c4_d_st.site = &c4_u_emlrtRSI;
   c4_h_a = c4_g_a;
   c4_i_a = c4_h_a;
   c4_e_p = true;
@@ -15812,7 +15771,7 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
       (&c4_d_st, NULL, "message", 1U, 2U, 14, c4_h_y, 14, c4_i_y)));
   }
 
-  c4_d_st.site = &c4_w_emlrtRSI;
+  c4_d_st.site = &c4_u_emlrtRSI;
   c4_j_a = c4_g_a;
   c4_k_a = c4_j_a;
   c4_g_p = true;
@@ -15843,16 +15802,16 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
       (&c4_d_st, NULL, "message", 1U, 2U, 14, c4_k_y, 14, c4_l_y)));
   }
 
-  c4_b_st.site = &c4_pj_emlrtRSI;
+  c4_b_st.site = &c4_nj_emlrtRSI;
   for (c4_i = 0; c4_i < 2; c4_i++) {
     c4_b_dv[c4_i] = 9.0 + -4.0 * (real_T)c4_i;
   }
 
-  c4_c_st.site = &c4_sj_emlrtRSI;
+  c4_c_st.site = &c4_qj_emlrtRSI;
   c4_b_validateattributes(chartInstance, &c4_c_st, c4_b_dv);
-  c4_b_st.site = &c4_qj_emlrtRSI;
-  c4_c_st.site = &c4_wj_emlrtRSI;
-  c4_d_st.site = &c4_w_emlrtRSI;
+  c4_b_st.site = &c4_oj_emlrtRSI;
+  c4_c_st.site = &c4_uj_emlrtRSI;
+  c4_d_st.site = &c4_u_emlrtRSI;
   c4_i_p = true;
   c4_e_k = 0;
   c4_exitg1 = false;
@@ -15895,28 +15854,28 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
       (&c4_d_st, NULL, "message", 1U, 2U, 14, c4_n_y, 14, c4_o_y)));
   }
 
-  c4_c_st.site = &c4_vj_emlrtRSI;
-  c4_d_st.site = &c4_pd_emlrtRSI;
+  c4_c_st.site = &c4_tj_emlrtRSI;
+  c4_d_st.site = &c4_nd_emlrtRSI;
   for (c4_i1 = 0; c4_i1 < 180; c4_i1++) {
     c4_b_dv1[c4_i1] = -90.0 + (real_T)c4_i1;
   }
 
-  c4_e_st.site = &c4_qd_emlrtRSI;
+  c4_e_st.site = &c4_od_emlrtRSI;
   c4_b_minimum(chartInstance, &c4_e_st, c4_b_dv1);
-  c4_c_st.site = &c4_uj_emlrtRSI;
-  c4_d_st.site = &c4_ub_emlrtRSI;
+  c4_c_st.site = &c4_sj_emlrtRSI;
+  c4_d_st.site = &c4_sb_emlrtRSI;
   for (c4_i2 = 0; c4_i2 < 180; c4_i2++) {
     c4_b_dv2[c4_i2] = -90.0 + (real_T)c4_i2;
   }
 
-  c4_e_st.site = &c4_vb_emlrtRSI;
+  c4_e_st.site = &c4_tb_emlrtRSI;
   c4_d_maximum(chartInstance, &c4_e_st, c4_b_dv2);
   for (c4_i3 = 0; c4_i3 < 180; c4_i3++) {
     c4_dv3[c4_i3] = -90.0 + (real_T)c4_i3;
   }
 
   c4_diff(chartInstance, c4_dv3, c4_thetaInterval);
-  c4_c_st.site = &c4_tj_emlrtRSI;
+  c4_c_st.site = &c4_rj_emlrtRSI;
   c4_b_diff(chartInstance, c4_thetaInterval, c4_r_x);
   c4_p_y = c4_r_x[0];
   for (c4_g_k = 0; c4_g_k < 177; c4_g_k++) {
@@ -15947,21 +15906,21 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   c4_peakIdx = 0;
-  c4_st.site = &c4_lj_emlrtRSI;
-  c4_b_st.site = &c4_pd_emlrtRSI;
+  c4_st.site = &c4_jj_emlrtRSI;
+  c4_b_st.site = &c4_nd_emlrtRSI;
   for (c4_i5 = 0; c4_i5 < 180; c4_i5++) {
     c4_dv4[c4_i5] = -90.0 + (real_T)c4_i5;
   }
 
-  c4_c_st.site = &c4_qd_emlrtRSI;
+  c4_c_st.site = &c4_od_emlrtRSI;
   c4_minTheta = c4_b_minimum(chartInstance, &c4_c_st, c4_dv4);
-  c4_st.site = &c4_kj_emlrtRSI;
-  c4_b_st.site = &c4_ub_emlrtRSI;
+  c4_st.site = &c4_ij_emlrtRSI;
+  c4_b_st.site = &c4_sb_emlrtRSI;
   for (c4_i6 = 0; c4_i6 < 180; c4_i6++) {
     c4_dv5[c4_i6] = -90.0 + (real_T)c4_i6;
   }
 
-  c4_c_st.site = &c4_vb_emlrtRSI;
+  c4_c_st.site = &c4_tb_emlrtRSI;
   c4_maxTheta = c4_d_maximum(chartInstance, &c4_c_st, c4_dv5);
   c4_v_x = c4_maxTheta - c4_minTheta;
   c4_w_x = c4_v_x;
@@ -16010,7 +15969,7 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_rhoMax = 399;
       }
 
-      c4_st.site = &c4_jj_emlrtRSI;
+      c4_st.site = &c4_hj_emlrtRSI;
       c4_l_a = c4_thetaMin;
       c4_l_b = c4_thetaMax;
       c4_m_a = c4_l_a;
@@ -16022,12 +15981,12 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_overflow) {
-        c4_b_st.site = &c4_ob_emlrtRSI;
+        c4_b_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
       }
 
       for (c4_theta = c4_thetaMin; c4_theta <= c4_thetaMax; c4_theta++) {
-        c4_st.site = &c4_ij_emlrtRSI;
+        c4_st.site = &c4_gj_emlrtRSI;
         c4_n_a = c4_rhoMin;
         c4_n_b = c4_rhoMax;
         c4_o_a = c4_n_a;
@@ -16039,7 +15998,7 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
 
         if (c4_b_overflow) {
-          c4_b_st.site = &c4_ob_emlrtRSI;
+          c4_b_st.site = &c4_mb_emlrtRSI;
           c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
         }
 
@@ -16080,7 +16039,7 @@ static void c4_houghpeaks(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_i8 = c4_peaks->size[0] * c4_peaks->size[1];
     c4_peaks->size[0] = c4_i7 + 1;
     c4_peaks->size[1] = 2;
-    c4_st.site = &c4_bl_emlrtRSI;
+    c4_st.site = &c4_vk_emlrtRSI;
     c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_peaks, c4_i8,
       &c4_ag_emlrtRTEI);
     for (c4_i9 = 0; c4_i9 < 2; c4_i9++) {
@@ -16170,7 +16129,7 @@ static void c4_b_validateattributes(SFc4_flightControlSystemInstanceStruct
   (void)chartInstance;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_w_emlrtRSI;
+  c4_st.site = &c4_u_emlrtRSI;
   c4_p = true;
   c4_k = 0;
   c4_exitg1 = false;
@@ -16213,7 +16172,7 @@ static void c4_b_validateattributes(SFc4_flightControlSystemInstanceStruct
       "message", 1U, 2U, 14, c4_b_y, 14, c4_c_y)));
   }
 
-  c4_st.site = &c4_w_emlrtRSI;
+  c4_st.site = &c4_u_emlrtRSI;
   c4_b_p = true;
   c4_c_k = 0;
   c4_exitg1 = false;
@@ -16271,8 +16230,8 @@ static void c4_b_validateattributes(SFc4_flightControlSystemInstanceStruct
       (&c4_st, NULL, "message", 1U, 2U, 14, c4_e_y, 14, c4_f_y)));
   }
 
-  c4_st.site = &c4_w_emlrtRSI;
-  c4_st.site = &c4_w_emlrtRSI;
+  c4_st.site = &c4_u_emlrtRSI;
+  c4_st.site = &c4_u_emlrtRSI;
   c4_c_p = true;
   c4_e_k = 0;
   c4_exitg1 = false;
@@ -16373,7 +16332,7 @@ static real_T c4_b_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
   boolean_T c4_p;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_rd_emlrtRSI;
+  c4_st.site = &c4_pd_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
@@ -16384,14 +16343,14 @@ static real_T c4_b_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_e_st.tls = c4_d_st.tls;
   c4_f_st.prev = &c4_e_st;
   c4_f_st.tls = c4_e_st.tls;
-  c4_b_st.site = &c4_sd_emlrtRSI;
+  c4_b_st.site = &c4_qd_emlrtRSI;
   c4_x_size[0] = 1;
   c4_x_size[1] = 180;
   for (c4_i = 0; c4_i < 180; c4_i++) {
     c4_b_x_data[c4_i] = c4_c_x[c4_i];
   }
 
-  c4_c_st.site = &c4_td_emlrtRSI;
+  c4_c_st.site = &c4_rd_emlrtRSI;
   c4_n = c4_x_size[1];
   if (c4_n <= 2) {
     if (c4_b_x_data[0] > c4_b_x_data[1]) {
@@ -16412,7 +16371,7 @@ static real_T c4_b_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
       }
     }
   } else {
-    c4_d_st.site = &c4_mb_emlrtRSI;
+    c4_d_st.site = &c4_kb_emlrtRSI;
     c4_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
     for (c4_i1 = 0; c4_i1 <= c4_loop_ub; c4_i1++) {
       c4_c_x_data[c4_i1] = c4_b_x_data[c4_i1];
@@ -16426,7 +16385,7 @@ static real_T c4_b_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
       c4_b_idx = 1;
     } else {
       c4_b_idx = 0;
-      c4_e_st.site = &c4_nb_emlrtRSI;
+      c4_e_st.site = &c4_lb_emlrtRSI;
       c4_k = 2;
       c4_exitg1 = false;
       while ((!c4_exitg1) && (c4_k < 181)) {
@@ -16446,7 +16405,7 @@ static real_T c4_b_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
     if (c4_b_idx == 0) {
       c4_ex = c4_b_x_data[0];
     } else {
-      c4_d_st.site = &c4_lb_emlrtRSI;
+      c4_d_st.site = &c4_jb_emlrtRSI;
       c4_b_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
       for (c4_i2 = 0; c4_i2 <= c4_b_loop_ub; c4_i2++) {
         c4_c_x_data[c4_i2] = c4_b_x_data[c4_i2];
@@ -16455,10 +16414,10 @@ static real_T c4_b_minimum(SFc4_flightControlSystemInstanceStruct *chartInstance
       c4_first = c4_b_idx - 1;
       c4_b_ex = c4_c_x_data[c4_first];
       c4_i3 = c4_first;
-      c4_e_st.site = &c4_pb_emlrtRSI;
+      c4_e_st.site = &c4_nb_emlrtRSI;
       c4_overflow = false;
       if (c4_overflow) {
-        c4_f_st.site = &c4_ob_emlrtRSI;
+        c4_f_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
       }
 
@@ -16516,7 +16475,7 @@ static real_T c4_d_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   boolean_T c4_p;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_wb_emlrtRSI;
+  c4_st.site = &c4_ub_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
@@ -16527,14 +16486,14 @@ static real_T c4_d_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_e_st.tls = c4_d_st.tls;
   c4_f_st.prev = &c4_e_st;
   c4_f_st.tls = c4_e_st.tls;
-  c4_b_st.site = &c4_xb_emlrtRSI;
+  c4_b_st.site = &c4_vb_emlrtRSI;
   c4_x_size[0] = 1;
   c4_x_size[1] = 180;
   for (c4_i = 0; c4_i < 180; c4_i++) {
     c4_b_x_data[c4_i] = c4_c_x[c4_i];
   }
 
-  c4_c_st.site = &c4_kb_emlrtRSI;
+  c4_c_st.site = &c4_ib_emlrtRSI;
   c4_n = c4_x_size[1];
   if (c4_n <= 2) {
     if (c4_b_x_data[0] < c4_b_x_data[1]) {
@@ -16555,7 +16514,7 @@ static real_T c4_d_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
       }
     }
   } else {
-    c4_d_st.site = &c4_mb_emlrtRSI;
+    c4_d_st.site = &c4_kb_emlrtRSI;
     c4_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
     for (c4_i1 = 0; c4_i1 <= c4_loop_ub; c4_i1++) {
       c4_c_x_data[c4_i1] = c4_b_x_data[c4_i1];
@@ -16569,7 +16528,7 @@ static real_T c4_d_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
       c4_b_idx = 1;
     } else {
       c4_b_idx = 0;
-      c4_e_st.site = &c4_nb_emlrtRSI;
+      c4_e_st.site = &c4_lb_emlrtRSI;
       c4_k = 2;
       c4_exitg1 = false;
       while ((!c4_exitg1) && (c4_k < 181)) {
@@ -16589,7 +16548,7 @@ static real_T c4_d_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
     if (c4_b_idx == 0) {
       c4_ex = c4_b_x_data[0];
     } else {
-      c4_d_st.site = &c4_lb_emlrtRSI;
+      c4_d_st.site = &c4_jb_emlrtRSI;
       c4_b_loop_ub = c4_x_size[0] * c4_x_size[1] - 1;
       for (c4_i2 = 0; c4_i2 <= c4_b_loop_ub; c4_i2++) {
         c4_c_x_data[c4_i2] = c4_b_x_data[c4_i2];
@@ -16598,10 +16557,10 @@ static real_T c4_d_maximum(SFc4_flightControlSystemInstanceStruct *chartInstance
       c4_first = c4_b_idx - 1;
       c4_b_ex = c4_c_x_data[c4_first];
       c4_i3 = c4_first;
-      c4_e_st.site = &c4_pb_emlrtRSI;
+      c4_e_st.site = &c4_nb_emlrtRSI;
       c4_overflow = false;
       if (c4_overflow) {
-        c4_f_st.site = &c4_ob_emlrtRSI;
+        c4_f_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_f_st);
       }
 
@@ -17006,7 +16965,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_c_st.prev = &c4_b_st;
   c4_c_st.tls = c4_b_st.tls;
   c4_emxInit_real_T(chartInstance, c4_sp, &c4_b_varargin_4, 2, &c4_bg_emlrtRTEI);
-  c4_st.site = &c4_xj_emlrtRSI;
+  c4_st.site = &c4_vj_emlrtRSI;
   c4_i = c4_b_varargin_4->size[0] * c4_b_varargin_4->size[1];
   c4_b_varargin_4->size[0] = c4_varargin_4->size[0];
   c4_b_varargin_4->size[1] = c4_varargin_4->size[1];
@@ -17017,7 +16976,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_b_varargin_4->data[c4_i1] = c4_varargin_4->data[c4_i1];
   }
 
-  c4_b_st.site = &c4_ek_emlrtRSI;
+  c4_b_st.site = &c4_ck_emlrtRSI;
   c4_c_validateattributes(chartInstance, &c4_b_st, c4_b_varargin_4);
   c4_emxFree_real_T(chartInstance, &c4_b_varargin_4);
   if ((real_T)c4_varargin_4->size[1] != 2.0) {
@@ -17031,7 +16990,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_i2 = c4_peaks->size[0] * c4_peaks->size[1];
   c4_peaks->size[0] = c4_varargin_4->size[0];
   c4_peaks->size[1] = c4_varargin_4->size[1];
-  c4_st.site = &c4_xj_emlrtRSI;
+  c4_st.site = &c4_vj_emlrtRSI;
   c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_peaks, c4_i2,
     &c4_cg_emlrtRTEI);
   c4_b_loop_ub = c4_varargin_4->size[0] * c4_varargin_4->size[1] - 1;
@@ -17039,7 +16998,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_peaks->data[c4_i3] = c4_varargin_4->data[c4_i3];
   }
 
-  c4_st.site = &c4_yj_emlrtRSI;
+  c4_st.site = &c4_wj_emlrtRSI;
   for (c4_j = 0; c4_j < 160; c4_j++) {
     c4_b_j = (real_T)c4_j + 1.0;
     c4_tempNum = 0.0;
@@ -17105,7 +17064,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_i9 = (int32_T)c4_b_peakIdx;
     c4_peak2 = (int32_T)c4_peaks->data[(emlrtDynamicBoundsCheckR2012b(c4_i9, 1,
       c4_i8, &c4_uf_emlrtBCI, c4_sp) + c4_peaks->size[0]) - 1];
-    c4_st.site = &c4_ak_emlrtRSI;
+    c4_st.site = &c4_xj_emlrtRSI;
     c4_b_peak1 = c4_peak1;
     c4_b_peak2 = c4_peak2;
     c4_numHoughPix = 0;
@@ -17125,7 +17084,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_c_k = (real_T)c4_k + 1.0;
       c4_b_tempNum = 0;
       c4_i10 = c4_tempNumsVector[(int32_T)c4_c_k - 1];
-      c4_b_st.site = &c4_hk_emlrtRSI;
+      c4_b_st.site = &c4_fk_emlrtRSI;
       c4_c_b = c4_i10;
       c4_d_b = c4_c_b;
       if (1 > c4_d_b) {
@@ -17135,7 +17094,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_b_overflow) {
-        c4_c_st.site = &c4_ob_emlrtRSI;
+        c4_c_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
       }
 
@@ -17241,7 +17200,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
       for (c4_e_k = 0; c4_e_k < 160; c4_e_k++) {
         c4_g_k = (real_T)c4_e_k + 1.0;
         c4_i12 = c4_tempHoughPixNumsVector[(int32_T)c4_g_k - 1];
-        c4_b_st.site = &c4_gk_emlrtRSI;
+        c4_b_st.site = &c4_ek_emlrtRSI;
         c4_e_b = c4_i12;
         c4_f_b = c4_e_b;
         if (1 > c4_f_b) {
@@ -17251,7 +17210,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
 
         if (c4_c_overflow) {
-          c4_c_st.site = &c4_ob_emlrtRSI;
+          c4_c_st.site = &c4_mb_emlrtRSI;
           c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
         }
 
@@ -17293,7 +17252,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
       }
 
-      c4_b_st.site = &c4_fk_emlrtRSI;
+      c4_b_st.site = &c4_dk_emlrtRSI;
       c4_b_sortrows(chartInstance, &c4_b_st, c4_r, c4_sortingOrder);
       c4_i28 = c4_houghPix->size[0] * c4_houghPix->size[1];
       c4_houghPix->size[0] = c4_r->size[0];
@@ -17307,10 +17266,10 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (!(c4_numHoughPix < 1)) {
-      c4_st.site = &c4_bk_emlrtRSI;
+      c4_st.site = &c4_yj_emlrtRSI;
       c4_b_numHoughPix = (real_T)c4_houghPix->size[0];
-      c4_b_st.site = &c4_ok_emlrtRSI;
-      c4_c_st.site = &c4_x_emlrtRSI;
+      c4_b_st.site = &c4_mk_emlrtRSI;
+      c4_c_st.site = &c4_v_emlrtRSI;
       c4_i17 = c4_distances2->size[0];
       c4_d = c4_b_numHoughPix - 1.0;
       c4_distances2->size[0] = (int32_T)emlrtNonNegativeCheckR2012b(c4_d,
@@ -17426,7 +17385,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
             c4_houghPix->size[0] * c4_i71];
         }
 
-        c4_st.site = &c4_ck_emlrtRSI;
+        c4_st.site = &c4_ak_emlrtRSI;
         c4_i72 = 1;
         emlrtDynamicBoundsCheckR2012b(c4_i72, 1, c4_point2_size[1],
           &c4_pf_emlrtBCI, &c4_st);
@@ -17455,7 +17414,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_i78 = c4_b_point1Array->size[0] * c4_b_point1Array->size[1];
           c4_b_point1Array->size[0] = c4_point1Array->size[0] + 1;
           c4_b_point1Array->size[1] = 2;
-          c4_st.site = &c4_bm_emlrtRSI;
+          c4_st.site = &c4_vl_emlrtRSI;
           c4_emxEnsureCapacity_int32_T1(chartInstance, &c4_st, c4_b_point1Array,
             c4_i78, &c4_jg_emlrtRTEI);
           for (c4_i79 = 0; c4_i79 < 2; c4_i79++) {
@@ -17472,7 +17431,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_i81 = c4_point1Array->size[0] * c4_point1Array->size[1];
           c4_point1Array->size[0] = c4_b_point1Array->size[0];
           c4_point1Array->size[1] = 2;
-          c4_st.site = &c4_bm_emlrtRSI;
+          c4_st.site = &c4_vl_emlrtRSI;
           c4_emxEnsureCapacity_int32_T1(chartInstance, &c4_st, c4_point1Array,
             c4_i81, &c4_kg_emlrtRTEI);
           c4_h_loop_ub = c4_b_point1Array->size[0] * c4_b_point1Array->size[1] -
@@ -17490,7 +17449,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_i85 = c4_b_point2Array->size[0] * c4_b_point2Array->size[1];
           c4_b_point2Array->size[0] = c4_point2Array->size[0] + 1;
           c4_b_point2Array->size[1] = 2;
-          c4_st.site = &c4_am_emlrtRSI;
+          c4_st.site = &c4_ul_emlrtRSI;
           c4_emxEnsureCapacity_int32_T1(chartInstance, &c4_st, c4_b_point2Array,
             c4_i85, &c4_lg_emlrtRTEI);
           for (c4_i86 = 0; c4_i86 < 2; c4_i86++) {
@@ -17507,7 +17466,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_i88 = c4_point2Array->size[0] * c4_point2Array->size[1];
           c4_point2Array->size[0] = c4_b_point2Array->size[0];
           c4_point2Array->size[1] = 2;
-          c4_st.site = &c4_am_emlrtRSI;
+          c4_st.site = &c4_ul_emlrtRSI;
           c4_emxEnsureCapacity_int32_T1(chartInstance, &c4_st, c4_point2Array,
             c4_i88, &c4_mg_emlrtRTEI);
           c4_j_loop_ub = c4_b_point2Array->size[0] * c4_b_point2Array->size[1] -
@@ -17518,7 +17477,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
           c4_i90 = c4_b_thetaArray->size[0];
           c4_b_thetaArray->size[0] = c4_thetaArray->size[0] + 1;
-          c4_st.site = &c4_wk_emlrtRSI;
+          c4_st.site = &c4_rk_emlrtRSI;
           c4_emxEnsureCapacity_real32_T(chartInstance, &c4_st, c4_b_thetaArray,
             c4_i90, &c4_ng_emlrtRTEI);
           c4_k_loop_ub = c4_thetaArray->size[0] - 1;
@@ -17531,7 +17490,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
             &c4_ng_emlrtBCI, c4_sp) - 1));
           c4_i92 = c4_thetaArray->size[0];
           c4_thetaArray->size[0] = c4_b_thetaArray->size[0];
-          c4_st.site = &c4_wk_emlrtRSI;
+          c4_st.site = &c4_rk_emlrtRSI;
           c4_emxEnsureCapacity_real32_T(chartInstance, &c4_st, c4_thetaArray,
             c4_i92, &c4_og_emlrtRTEI);
           c4_l_loop_ub = c4_b_thetaArray->size[0] - 1;
@@ -17541,7 +17500,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
           c4_i94 = c4_b_rhoArray->size[0];
           c4_b_rhoArray->size[0] = c4_rhoArray->size[0] + 1;
-          c4_st.site = &c4_vk_emlrtRSI;
+          c4_st.site = &c4_qk_emlrtRSI;
           c4_emxEnsureCapacity_real32_T(chartInstance, &c4_st, c4_b_rhoArray,
             c4_i94, &c4_pg_emlrtRTEI);
           c4_m_loop_ub = c4_rhoArray->size[0] - 1;
@@ -17553,7 +17512,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
             - 1];
           c4_i96 = c4_rhoArray->size[0];
           c4_rhoArray->size[0] = c4_b_rhoArray->size[0];
-          c4_st.site = &c4_vk_emlrtRSI;
+          c4_st.site = &c4_qk_emlrtRSI;
           c4_emxEnsureCapacity_real32_T(chartInstance, &c4_st, c4_rhoArray,
             c4_i96, &c4_qg_emlrtRTEI);
           c4_n_loop_ub = c4_b_rhoArray->size[0] - 1;
@@ -17576,13 +17535,13 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_emxFree_int32_T(chartInstance, &c4_houghPix);
   c4_emxFree_real_T(chartInstance, &c4_peaks);
   c4_emxFree_real_T(chartInstance, &c4_indices);
-  c4_st.site = &c4_dk_emlrtRSI;
+  c4_st.site = &c4_bk_emlrtRSI;
   c4_b_numLines = c4_numLines;
-  c4_b_st.site = &c4_pk_emlrtRSI;
+  c4_b_st.site = &c4_nk_emlrtRSI;
   c4_c_numLines = c4_b_numLines;
-  c4_c_st.site = &c4_rk_emlrtRSI;
+  c4_c_st.site = &c4_pk_emlrtRSI;
   c4_b_repmat(chartInstance, &c4_c_st, c4_c_numLines, c4_lines);
-  c4_b_st.site = &c4_qk_emlrtRSI;
+  c4_b_st.site = &c4_ok_emlrtRSI;
   c4_b = c4_b_numLines;
   c4_b_b = c4_b;
   if (1 > c4_b_b) {
@@ -17592,7 +17551,7 @@ static void c4_houghlines(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   if (c4_overflow) {
-    c4_c_st.site = &c4_ob_emlrtRSI;
+    c4_c_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
   }
 
@@ -17675,8 +17634,8 @@ static void c4_c_validateattributes(SFc4_flightControlSystemInstanceStruct
   (void)chartInstance;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_w_emlrtRSI;
-  c4_st.site = &c4_w_emlrtRSI;
+  c4_st.site = &c4_u_emlrtRSI;
+  c4_st.site = &c4_u_emlrtRSI;
   c4_p = true;
   c4_d = (real_T)(c4_g_a->size[0] * c4_g_a->size[1]);
   c4_i = (int32_T)c4_d - 1;
@@ -17945,13 +17904,13 @@ static void c4_b_repmat(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
   c4_emxInit_boolean_T(chartInstance, c4_sp, &c4_tile, 2, &c4_tf_emlrtRTEI);
-  c4_st.site = &c4_ci_emlrtRSI;
+  c4_st.site = &c4_ai_emlrtRSI;
   c4_i = c4_tile->size[0] * c4_tile->size[1];
   c4_tile->size[0] = 1;
   c4_d = (real_T)c4_b_varargin_2;
   c4_tile->size[1] = (int32_T)emlrtNonNegativeCheckR2012b(c4_d, &c4_l_emlrtDCI,
     c4_sp);
-  c4_st.site = &c4_gl_emlrtRSI;
+  c4_st.site = &c4_bl_emlrtRSI;
   c4_emxEnsureCapacity_boolean_T(chartInstance, &c4_st, c4_tile, c4_i,
     &c4_tf_emlrtRTEI);
   c4_d1 = (real_T)c4_b_varargin_2;
@@ -17983,99 +17942,13 @@ static void c4_b_repmat(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_i4 = c4_b->size[0] * c4_b->size[1];
   c4_b->size[0] = 1;
   c4_b->size[1] = c4_outsize[1];
-  c4_st.site = &c4_cm_emlrtRSI;
+  c4_st.site = &c4_wl_emlrtRSI;
   c4_emxEnsureCapacity_skoeQIuVNKJRH(chartInstance, &c4_st, c4_b, c4_i4,
     &c4_uf_emlrtRTEI);
   c4_b_loop_ub = c4_outsize[1] - 1;
   for (c4_i5 = 0; c4_i5 <= c4_b_loop_ub; c4_i5++) {
     c4_b->data[c4_i5] = c4_b_s;
   }
-}
-
-static void c4_string_disp(SFc4_flightControlSystemInstanceStruct *chartInstance,
-  const emlrtStack *c4_sp)
-{
-  static char_T c4_d_varargin_1[9] = { 'a', 'n', 'g', 'l', 'e', ' ', '<', ' ',
-    '0' };
-
-  static char_T c4_b_cv[7] = { 'f', 'p', 'r', 'i', 'n', 't', 'f' };
-
-  static char_T c4_b_cv1[4] = { '%', 's', '\\', 'n' };
-
-  emlrtStack c4_b_st;
-  emlrtStack c4_c_st;
-  emlrtStack c4_st;
-  const mxArray *c4_b_y = NULL;
-  const mxArray *c4_c_y = NULL;
-  const mxArray *c4_d_y = NULL;
-  const mxArray *c4_y = NULL;
-  real_T c4_b_u;
-  c4_st.prev = c4_sp;
-  c4_st.tls = c4_sp->tls;
-  c4_b_st.prev = &c4_st;
-  c4_b_st.tls = c4_st.tls;
-  c4_c_st.prev = &c4_b_st;
-  c4_c_st.tls = c4_b_st.tls;
-  c4_st.site = &c4_sk_emlrtRSI;
-  c4_b_st.site = &c4_tk_emlrtRSI;
-  c4_y = NULL;
-  sf_mex_assign(&c4_y, sf_mex_create("y", c4_b_cv, 10, 0U, 1U, 0U, 2, 1, 7),
-                false);
-  c4_b_u = 1.0;
-  c4_b_y = NULL;
-  sf_mex_assign(&c4_b_y, sf_mex_create("y", &c4_b_u, 0, 0U, 0U, 0U, 0), false);
-  c4_c_y = NULL;
-  sf_mex_assign(&c4_c_y, sf_mex_create("y", c4_b_cv1, 10, 0U, 1U, 0U, 2, 1, 4),
-                false);
-  c4_d_y = NULL;
-  sf_mex_assign(&c4_d_y, sf_mex_create("y", c4_d_varargin_1, 10, 0U, 1U, 0U, 2,
-    1, 9), false);
-  c4_c_st.site = &c4_uk_emlrtRSI;
-  c4_emlrt_marshallIn(chartInstance, c4_g_feval(chartInstance, &c4_c_st, c4_y,
-    c4_b_y, c4_c_y, c4_d_y), "<output of feval>");
-}
-
-static void c4_b_string_disp(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c4_sp)
-{
-  static char_T c4_d_varargin_1[9] = { 'a', 'n', 'g', 'l', 'e', ' ', '>', ' ',
-    '0' };
-
-  static char_T c4_b_cv[7] = { 'f', 'p', 'r', 'i', 'n', 't', 'f' };
-
-  static char_T c4_b_cv1[4] = { '%', 's', '\\', 'n' };
-
-  emlrtStack c4_b_st;
-  emlrtStack c4_c_st;
-  emlrtStack c4_st;
-  const mxArray *c4_b_y = NULL;
-  const mxArray *c4_c_y = NULL;
-  const mxArray *c4_d_y = NULL;
-  const mxArray *c4_y = NULL;
-  real_T c4_b_u;
-  c4_st.prev = c4_sp;
-  c4_st.tls = c4_sp->tls;
-  c4_b_st.prev = &c4_st;
-  c4_b_st.tls = c4_st.tls;
-  c4_c_st.prev = &c4_b_st;
-  c4_c_st.tls = c4_b_st.tls;
-  c4_st.site = &c4_sk_emlrtRSI;
-  c4_b_st.site = &c4_tk_emlrtRSI;
-  c4_y = NULL;
-  sf_mex_assign(&c4_y, sf_mex_create("y", c4_b_cv, 10, 0U, 1U, 0U, 2, 1, 7),
-                false);
-  c4_b_u = 1.0;
-  c4_b_y = NULL;
-  sf_mex_assign(&c4_b_y, sf_mex_create("y", &c4_b_u, 0, 0U, 0U, 0U, 0), false);
-  c4_c_y = NULL;
-  sf_mex_assign(&c4_c_y, sf_mex_create("y", c4_b_cv1, 10, 0U, 1U, 0U, 2, 1, 4),
-                false);
-  c4_d_y = NULL;
-  sf_mex_assign(&c4_d_y, sf_mex_create("y", c4_d_varargin_1, 10, 0U, 1U, 0U, 2,
-    1, 9), false);
-  c4_c_st.site = &c4_uk_emlrtRSI;
-  c4_emlrt_marshallIn(chartInstance, c4_h_feval(chartInstance, &c4_c_st, c4_y,
-    c4_b_y, c4_c_y, c4_d_y), "<output of feval>");
 }
 
 static const mxArray *c4_emlrt_marshallOut
@@ -18090,17 +17963,15 @@ static const mxArray *c4_emlrt_marshallOut
 }
 
 static real_T c4_emlrt_marshallIn(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const mxArray *c4_a__output_of_feval_, const char_T
-  *c4_identifier)
+  *chartInstance, const mxArray *c4_b_mode, const char_T *c4_identifier)
 {
   emlrtMsgIdentifier c4_thisId;
   real_T c4_y;
   c4_thisId.fIdentifier = (const char_T *)c4_identifier;
   c4_thisId.fParent = NULL;
   c4_thisId.bParentIsCell = false;
-  c4_y = c4_b_emlrt_marshallIn(chartInstance, sf_mex_dup(c4_a__output_of_feval_),
-    &c4_thisId);
-  sf_mex_destroy(&c4_a__output_of_feval_);
+  c4_y = c4_b_emlrt_marshallIn(chartInstance, sf_mex_dup(c4_b_mode), &c4_thisId);
+  sf_mex_destroy(&c4_b_mode);
   return c4_y;
 }
 
@@ -18243,40 +18114,6 @@ static void c4_f_feval(SFc4_flightControlSystemInstanceStruct *chartInstance,
               sf_mex_dup(c4_input1));
   sf_mex_destroy(&c4_input0);
   sf_mex_destroy(&c4_input1);
-}
-
-static const mxArray *c4_g_feval(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c4_sp, const mxArray *c4_input0, const
-  mxArray *c4_input1, const mxArray *c4_input2, const mxArray *c4_input3)
-{
-  const mxArray *c4_ = NULL;
-  (void)chartInstance;
-  c4_ = NULL;
-  sf_mex_assign(&c4_, sf_mex_call(c4_sp, NULL, "feval", 1U, 4U, 14, sf_mex_dup
-    (c4_input0), 14, sf_mex_dup(c4_input1), 14, sf_mex_dup(c4_input2), 14,
-    sf_mex_dup(c4_input3)), false);
-  sf_mex_destroy(&c4_input0);
-  sf_mex_destroy(&c4_input1);
-  sf_mex_destroy(&c4_input2);
-  sf_mex_destroy(&c4_input3);
-  return c4_;
-}
-
-static const mxArray *c4_h_feval(SFc4_flightControlSystemInstanceStruct
-  *chartInstance, const emlrtStack *c4_sp, const mxArray *c4_input0, const
-  mxArray *c4_input1, const mxArray *c4_input2, const mxArray *c4_input3)
-{
-  const mxArray *c4_ = NULL;
-  (void)chartInstance;
-  c4_ = NULL;
-  sf_mex_assign(&c4_, sf_mex_call(c4_sp, NULL, "feval", 1U, 4U, 14, sf_mex_dup
-    (c4_input0), 14, sf_mex_dup(c4_input1), 14, sf_mex_dup(c4_input2), 14,
-    sf_mex_dup(c4_input3)), false);
-  sf_mex_destroy(&c4_input0);
-  sf_mex_destroy(&c4_input1);
-  sf_mex_destroy(&c4_input2);
-  sf_mex_destroy(&c4_input3);
-  return c4_;
 }
 
 static void c4_b_bwmorphApplyOnce(SFc4_flightControlSystemInstanceStruct
@@ -18439,7 +18276,7 @@ static void c4_c_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
       }
 
       c4_b_p = c4_j - 2;
-      c4_st.site = &c4_xd_emlrtRSI;
+      c4_st.site = &c4_vd_emlrtRSI;
       c4_e_b = c4_kEnd;
       c4_f_b = c4_e_b;
       if (1 > c4_f_b) {
@@ -18449,7 +18286,7 @@ static void c4_c_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
       }
 
       if (c4_overflow) {
-        c4_b_st.site = &c4_ob_emlrtRSI;
+        c4_b_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
       }
 
@@ -18512,11 +18349,11 @@ static void c4_b_nullAssignment(SFc4_flightControlSystemInstanceStruct
   c4_d_st.prev = &c4_c_st;
   c4_d_st.tls = c4_c_st.tls;
   c4_emxInit_real32_T1(chartInstance, c4_sp, &c4_d_x, 2, &c4_dh_emlrtRTEI);
-  c4_st.site = &c4_ne_emlrtRSI;
+  c4_st.site = &c4_le_emlrtRSI;
   c4_i = c4_d_x->size[0] * c4_d_x->size[1];
   c4_d_x->size[0] = 1;
   c4_d_x->size[1] = c4_c_x->size[1];
-  c4_b_st.site = &c4_ne_emlrtRSI;
+  c4_b_st.site = &c4_le_emlrtRSI;
   c4_emxEnsureCapacity_real32_T1(chartInstance, &c4_b_st, c4_d_x, c4_i,
     &c4_dh_emlrtRTEI);
   c4_loop_ub = c4_c_x->size[0] * c4_c_x->size[1] - 1;
@@ -18544,12 +18381,12 @@ static void c4_b_nullAssignment(SFc4_flightControlSystemInstanceStruct
       (&c4_st, NULL, "message", 1U, 1U, 14, c4_b_y)));
   }
 
-  c4_st.site = &c4_oe_emlrtRSI;
+  c4_st.site = &c4_me_emlrtRSI;
   c4_nxin = c4_c_x->size[1];
-  c4_b_st.site = &c4_pe_emlrtRSI;
+  c4_b_st.site = &c4_ne_emlrtRSI;
   c4_b_n = 0;
   c4_i2 = c4_idx_size[1];
-  c4_c_st.site = &c4_re_emlrtRSI;
+  c4_c_st.site = &c4_pe_emlrtRSI;
   c4_b = c4_i2;
   c4_b_b = c4_b;
   if (1 > c4_b_b) {
@@ -18559,7 +18396,7 @@ static void c4_b_nullAssignment(SFc4_flightControlSystemInstanceStruct
   }
 
   if (c4_overflow) {
-    c4_d_st.site = &c4_ob_emlrtRSI;
+    c4_d_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_d_st);
   }
 
@@ -18571,7 +18408,7 @@ static void c4_b_nullAssignment(SFc4_flightControlSystemInstanceStruct
   c4_nxout = c4_nxin - c4_b_n;
   c4_nb = c4_idx_size[1];
   c4_k0 = -1;
-  c4_b_st.site = &c4_qe_emlrtRSI;
+  c4_b_st.site = &c4_oe_emlrtRSI;
   c4_c_b = c4_nxin;
   c4_d_b = c4_c_b;
   if (1 > c4_d_b) {
@@ -18581,7 +18418,7 @@ static void c4_b_nullAssignment(SFc4_flightControlSystemInstanceStruct
   }
 
   if (c4_b_overflow) {
-    c4_c_st.site = &c4_ob_emlrtRSI;
+    c4_c_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
   }
 
@@ -18701,7 +18538,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_e_st.prev = &c4_d_st;
   c4_e_st.tls = c4_d_st.tls;
   c4_emxInit_int32_T1(chartInstance, c4_sp, &c4_b_idx, 2, &c4_mh_emlrtRTEI);
-  c4_st.site = &c4_bf_emlrtRSI;
+  c4_st.site = &c4_ye_emlrtRSI;
   c4_i = c4_b_idx->size[0] * c4_b_idx->size[1];
   c4_b_idx->size[0] = 1;
   c4_b_idx->size[1] = c4_c_x->size[1];
@@ -18712,9 +18549,9 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_b_idx->data[c4_i1] = 0;
   }
 
-  c4_b_st.site = &c4_cf_emlrtRSI;
+  c4_b_st.site = &c4_af_emlrtRSI;
   c4_n = c4_c_x->size[1];
-  c4_c_st.site = &c4_df_emlrtRSI;
+  c4_c_st.site = &c4_bf_emlrtRSI;
   c4_b_n = c4_c_x->size[1];
   for (c4_i2 = 0; c4_i2 < 4; c4_i2++) {
     c4_x4[c4_i2] = 0.0F;
@@ -18767,7 +18604,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
   c4_nNaNs = 0;
   c4_ib = 0;
-  c4_d_st.site = &c4_if_emlrtRSI;
+  c4_d_st.site = &c4_gf_emlrtRSI;
   c4_b = c4_b_n;
   c4_b_b = c4_b;
   if (1 > c4_b_b) {
@@ -18777,7 +18614,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   if (c4_overflow) {
-    c4_e_st.site = &c4_ob_emlrtRSI;
+    c4_e_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
   }
 
@@ -18905,7 +18742,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
       c4_perm[2] = 1;
     }
 
-    c4_d_st.site = &c4_jf_emlrtRSI;
+    c4_d_st.site = &c4_hf_emlrtRSI;
     c4_f_b = c4_ib;
     c4_g_b = c4_f_b;
     if (1 > c4_g_b) {
@@ -18915,7 +18752,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_c_overflow) {
-      c4_e_st.site = &c4_ob_emlrtRSI;
+      c4_e_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
     }
 
@@ -18929,7 +18766,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   c4_m = c4_nNaNs >> 1;
-  c4_d_st.site = &c4_kf_emlrtRSI;
+  c4_d_st.site = &c4_if_emlrtRSI;
   c4_d_b = c4_m;
   c4_e_b = c4_d_b;
   if (1 > c4_e_b) {
@@ -18939,7 +18776,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   if (c4_b_overflow) {
-    c4_e_st.site = &c4_ob_emlrtRSI;
+    c4_e_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
   }
 
@@ -18963,7 +18800,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
     if (c4_n >= 256) {
       c4_nBlocks = c4_nNonNaN >> 8;
       if (c4_nBlocks > 0) {
-        c4_c_st.site = &c4_ef_emlrtRSI;
+        c4_c_st.site = &c4_cf_emlrtRSI;
         c4_h_b = c4_nBlocks;
         c4_i_b = c4_h_b;
         if (1 > c4_i_b) {
@@ -18973,13 +18810,13 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
 
         if (c4_d_overflow) {
-          c4_d_st.site = &c4_ob_emlrtRSI;
+          c4_d_st.site = &c4_mb_emlrtRSI;
           c4_check_forloop_overflow_error(chartInstance, &c4_d_st);
         }
 
         for (c4_j_b = 1; c4_j_b - 1 < c4_nBlocks; c4_j_b++) {
           c4_k_b = c4_j_b - 1;
-          c4_c_st.site = &c4_ff_emlrtRSI;
+          c4_c_st.site = &c4_df_emlrtRSI;
           c4_c_merge_pow2_block(chartInstance, &c4_c_st, c4_b_idx, c4_c_x,
                                 c4_k_b << 8);
         }
@@ -18987,7 +18824,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_tailOffset = c4_nBlocks << 8;
         c4_nLastBlock = c4_nNonNaN - c4_tailOffset;
         if (c4_nLastBlock > 0) {
-          c4_c_st.site = &c4_gf_emlrtRSI;
+          c4_c_st.site = &c4_ef_emlrtRSI;
           c4_c_merge_block(chartInstance, &c4_c_st, c4_b_idx, c4_c_x,
                            c4_tailOffset, c4_nLastBlock, 2, c4_b_iwork, c4_xwork);
         }
@@ -18996,7 +18833,7 @@ static void c4_c_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
     }
 
-    c4_c_st.site = &c4_hf_emlrtRSI;
+    c4_c_st.site = &c4_ff_emlrtRSI;
     c4_c_merge_block(chartInstance, &c4_c_st, c4_b_idx, c4_c_x, 0, c4_nNonNaN,
                      c4_preSortLevel, c4_b_iwork, c4_xwork);
   }
@@ -19048,7 +18885,7 @@ static void c4_c_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
     c4_bLen = 1 << (c4_b + 2);
     c4_bLen2 = c4_bLen << 1;
     c4_nPairs = 256 >> (c4_b + 3);
-    c4_st.site = &c4_lf_emlrtRSI;
+    c4_st.site = &c4_jf_emlrtRSI;
     c4_b_b = c4_nPairs;
     c4_c_b = c4_b_b;
     if (1 > c4_c_b) {
@@ -19058,14 +18895,14 @@ static void c4_c_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
     for (c4_k = 1; c4_k - 1 < c4_nPairs; c4_k++) {
       c4_b_k = c4_k - 1;
       c4_blockOffset = (c4_offset + c4_b_k * c4_bLen2) - 1;
-      c4_st.site = &c4_mf_emlrtRSI;
+      c4_st.site = &c4_kf_emlrtRSI;
       c4_d_b = c4_bLen2;
       c4_e_b = c4_d_b;
       if (1 > c4_e_b) {
@@ -19075,7 +18912,7 @@ static void c4_c_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
       }
 
       if (c4_b_overflow) {
-        c4_b_st.site = &c4_ob_emlrtRSI;
+        c4_b_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
       }
 
@@ -19106,7 +18943,7 @@ static void c4_c_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
             c4_q++;
           } else {
             c4_offset1 = c4_iout - c4_p;
-            c4_st.site = &c4_nf_emlrtRSI;
+            c4_st.site = &c4_lf_emlrtRSI;
             c4_g_a = c4_p + 1;
             c4_f_b = c4_bLen;
             c4_h_a = c4_g_a;
@@ -19118,7 +18955,7 @@ static void c4_c_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
             }
 
             if (c4_c_overflow) {
-              c4_b_st.site = &c4_ob_emlrtRSI;
+              c4_b_st.site = &c4_mb_emlrtRSI;
               c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
             }
 
@@ -19166,7 +19003,7 @@ static void c4_c_merge_block(SFc4_flightControlSystemInstanceStruct
       c4_tailOffset = c4_bLen * c4_nBlocks;
       c4_nTail = c4_n - c4_tailOffset;
       if (c4_nTail > c4_bLen) {
-        c4_st.site = &c4_of_emlrtRSI;
+        c4_st.site = &c4_mf_emlrtRSI;
         c4_c_merge(chartInstance, &c4_st, c4_b_idx, c4_c_x, c4_offset +
                    c4_tailOffset, c4_bLen, c4_nTail - c4_bLen, c4_b_iwork,
                    c4_xwork);
@@ -19175,7 +19012,7 @@ static void c4_c_merge_block(SFc4_flightControlSystemInstanceStruct
 
     c4_bLen2 = c4_bLen << 1;
     c4_nPairs = c4_nBlocks >> 1;
-    c4_st.site = &c4_pf_emlrtRSI;
+    c4_st.site = &c4_nf_emlrtRSI;
     c4_b = c4_nPairs;
     c4_b_b = c4_b;
     if (1 > c4_b_b) {
@@ -19185,13 +19022,13 @@ static void c4_c_merge_block(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
     for (c4_k = 1; c4_k - 1 < c4_nPairs; c4_k++) {
       c4_b_k = c4_k - 1;
-      c4_st.site = &c4_qf_emlrtRSI;
+      c4_st.site = &c4_of_emlrtRSI;
       c4_c_merge(chartInstance, &c4_st, c4_b_idx, c4_c_x, c4_offset + c4_b_k *
                  c4_bLen2, c4_bLen, c4_bLen, c4_b_iwork, c4_xwork);
     }
@@ -19201,7 +19038,7 @@ static void c4_c_merge_block(SFc4_flightControlSystemInstanceStruct
   }
 
   if (c4_n > c4_bLen) {
-    c4_st.site = &c4_rf_emlrtRSI;
+    c4_st.site = &c4_pf_emlrtRSI;
     c4_c_merge(chartInstance, &c4_st, c4_b_idx, c4_c_x, c4_offset, c4_bLen, c4_n
                - c4_bLen, c4_b_iwork, c4_xwork);
   }
@@ -19238,7 +19075,7 @@ static void c4_c_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_b_st.tls = c4_st.tls;
   if (c4_nq != 0) {
     c4_n = c4_np + c4_nq;
-    c4_st.site = &c4_tf_emlrtRSI;
+    c4_st.site = &c4_rf_emlrtRSI;
     c4_b = c4_n;
     c4_b_b = c4_b;
     if (1 > c4_b_b) {
@@ -19248,7 +19085,7 @@ static void c4_c_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
@@ -19280,7 +19117,7 @@ static void c4_c_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_q++;
         } else {
           c4_offset1 = c4_iout - c4_p;
-          c4_st.site = &c4_sf_emlrtRSI;
+          c4_st.site = &c4_qf_emlrtRSI;
           c4_g_a = c4_p + 1;
           c4_c_b = c4_np;
           c4_h_a = c4_g_a;
@@ -19292,7 +19129,7 @@ static void c4_c_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
           }
 
           if (c4_b_overflow) {
-            c4_b_st.site = &c4_ob_emlrtRSI;
+            c4_b_st.site = &c4_mb_emlrtRSI;
             c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
           }
 
@@ -19560,7 +19397,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
   c4_d_st.prev = &c4_c_st;
   c4_d_st.tls = c4_c_st.tls;
   c4_statsAlreadyComputed->WeightedCentroid = true;
-  c4_st.site = &c4_ii_emlrtRSI;
+  c4_st.site = &c4_gi_emlrtRSI;
   c4_statsAlreadyComputed->PixelList = true;
   c4_d = (real_T)c4_stats->size[0];
   c4_i = (int32_T)c4_d - 1;
@@ -19594,7 +19431,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
     }
 
     if (c4_r->size[0] != 0) {
-      c4_b_st.site = &c4_ki_emlrtRSI;
+      c4_b_st.site = &c4_ii_emlrtRSI;
       c4_i16 = c4_Intensity->size[0];
       c4_i19 = c4_stats->size[0];
       c4_i21 = (int32_T)c4_b_k;
@@ -19614,7 +19451,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
           &c4_b_st) - 1].PixelIdxList->data[c4_i34];
       }
 
-      c4_c_st.site = &c4_li_emlrtRSI;
+      c4_c_st.site = &c4_ji_emlrtRSI;
       c4_i41 = c4_b_idx->size[0];
       c4_b_idx->size[0] = c4_Intensity->size[0];
       c4_emxEnsureCapacity_int32_T(chartInstance, &c4_c_st, c4_b_idx, c4_i41,
@@ -19693,11 +19530,11 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
         c4_c->data[c4_i108] = (real_T)c4_varargout_4->data[c4_i108];
       }
 
-      c4_b_st.site = &c4_ji_emlrtRSI;
-      c4_c_st.site = &c4_mi_emlrtRSI;
+      c4_b_st.site = &c4_hi_emlrtRSI;
+      c4_c_st.site = &c4_ki_emlrtRSI;
       c4_result = c4_c->size[0];
       c4_sizes[0] = c4_result;
-      c4_d_st.site = &c4_ni_emlrtRSI;
+      c4_d_st.site = &c4_li_emlrtRSI;
       c4_expected = c4_sizes[0];
       if (c4_c->size[0] == c4_expected) {
         c4_b = true;
@@ -19831,7 +19668,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
   }
 
   c4_emxFreeMatrix_cell_wrap_52(chartInstance, c4_reshapes);
-  c4_st.site = &c4_hi_emlrtRSI;
+  c4_st.site = &c4_fi_emlrtRSI;
   c4_statsAlreadyComputed->PixelValues = true;
   c4_d1 = (real_T)c4_stats->size[0];
   c4_i4 = (int32_T)c4_d1 - 1;
@@ -19864,7 +19701,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
     c4_stats->data[c4_i36 - 1].PixelValues->size[0] = (int32_T)c4_wc[0];
     c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_stats->data[c4_i36 -
       1].PixelValues, c4_i38, &c4_th_emlrtRTEI);
-    c4_b_st.site = &c4_oi_emlrtRSI;
+    c4_b_st.site = &c4_mi_emlrtRSI;
     c4_i45 = c4_Intensity->size[0];
     c4_i47 = c4_stats->size[0];
     c4_i49 = (int32_T)c4_d_k;
@@ -19884,7 +19721,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
         data[c4_i58];
     }
 
-    c4_c_st.site = &c4_li_emlrtRSI;
+    c4_c_st.site = &c4_ji_emlrtRSI;
     c4_i62 = c4_b_idx->size[0];
     c4_b_idx->size[0] = c4_Intensity->size[0];
     c4_emxEnsureCapacity_int32_T(chartInstance, &c4_c_st, c4_b_idx, c4_i62,
@@ -20024,7 +19861,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
     c4_i37 = (int32_T)c4_f_k;
     c4_Intensity->size[0] = c4_stats->data[emlrtDynamicBoundsCheckR2012b(c4_i37,
       1, c4_i35, &c4_dh_emlrtBCI, c4_sp) - 1].PixelValues->size[0];
-    c4_st.site = &c4_ql_emlrtRSI;
+    c4_st.site = &c4_ll_emlrtRSI;
     c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_Intensity, c4_i32,
       &c4_sh_emlrtRTEI);
     c4_i44 = c4_stats->size[0];
@@ -20041,7 +19878,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
 
     c4_i52 = c4_b_Intensity->size[0];
     c4_b_Intensity->size[0] = c4_Intensity->size[0];
-    c4_st.site = &c4_gi_emlrtRSI;
+    c4_st.site = &c4_ei_emlrtRSI;
     c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_b_Intensity, c4_i52,
       &c4_wh_emlrtRTEI);
     c4_h_loop_ub = c4_Intensity->size[0] - 1;
@@ -20049,7 +19886,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
       c4_b_Intensity->data[c4_i60] = c4_Intensity->data[c4_i60];
     }
 
-    c4_st.site = &c4_gi_emlrtRSI;
+    c4_st.site = &c4_ei_emlrtRSI;
     c4_sumIntensity = c4_b_sum(chartInstance, &c4_st, c4_b_Intensity);
     c4_i65 = c4_stats->size[0];
     c4_i67 = (int32_T)c4_f_k;
@@ -20063,7 +19900,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
       c4_i79 = c4_r1->size[0] * c4_r1->size[1];
       c4_r1->size[0] = c4_stats->data[c4_i77].PixelList->size[0];
       c4_r1->size[1] = 2;
-      c4_st.site = &c4_fi_emlrtRSI;
+      c4_st.site = &c4_di_emlrtRSI;
       c4_emxEnsureCapacity_real_T(chartInstance, &c4_st, c4_r1, c4_i79,
         &c4_bi_emlrtRTEI);
       c4_i83 = c4_stats->size[0];
@@ -20088,7 +19925,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
       c4_i99 = c4_r1->size[0] - 1;
       c4_i101 = c4_r->size[0];
       c4_r->size[0] = c4_i99 + 1;
-      c4_st.site = &c4_fi_emlrtRSI;
+      c4_st.site = &c4_di_emlrtRSI;
       c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_r, c4_i101,
         &c4_bi_emlrtRTEI);
       c4_v_loop_ub = c4_i99;
@@ -20101,7 +19938,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
       emlrtSizeEqCheck1DR2012b(c4_i109, c4_i110, &c4_c_emlrtECI, c4_sp);
       c4_i112 = c4_r2->size[0];
       c4_r2->size[0] = c4_r->size[0];
-      c4_st.site = &c4_fi_emlrtRSI;
+      c4_st.site = &c4_di_emlrtRSI;
       c4_emxEnsureCapacity_real_T1(chartInstance, &c4_st, c4_r2, c4_i112,
         &c4_bi_emlrtRTEI);
       c4_ab_loop_ub = c4_r->size[0] - 1;
@@ -20109,7 +19946,7 @@ static void c4_b_ComputeWeightedCentroid(SFc4_flightControlSystemInstanceStruct 
         c4_r2->data[c4_i115] = c4_r->data[c4_i115] * c4_Intensity->data[c4_i115];
       }
 
-      c4_st.site = &c4_fi_emlrtRSI;
+      c4_st.site = &c4_di_emlrtRSI;
       c4_M = c4_b_sum(chartInstance, &c4_st, c4_r2);
       c4_wc[(int32_T)c4_b_n - 1] = c4_M / c4_sumIntensity;
     }
@@ -20147,13 +19984,13 @@ static void c4_b_round(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_overflow;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_ti_emlrtRSI;
+  c4_st.site = &c4_ri_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
   c4_c_st.tls = c4_b_st.tls;
   c4_nx = c4_c_x->size[0];
-  c4_b_st.site = &c4_ui_emlrtRSI;
+  c4_b_st.site = &c4_si_emlrtRSI;
   c4_b = c4_nx;
   c4_b_b = c4_b;
   if (1 > c4_b_b) {
@@ -20163,7 +20000,7 @@ static void c4_b_round(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   if (c4_overflow) {
-    c4_c_st.site = &c4_ob_emlrtRSI;
+    c4_c_st.site = &c4_mb_emlrtRSI;
     c4_check_forloop_overflow_error(chartInstance, &c4_c_st);
   }
 
@@ -20264,7 +20101,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
   boolean_T c4_overflow;
   c4_st.prev = c4_sp;
   c4_st.tls = c4_sp->tls;
-  c4_st.site = &c4_bf_emlrtRSI;
+  c4_st.site = &c4_ye_emlrtRSI;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
   c4_c_st.prev = &c4_b_st;
@@ -20289,10 +20126,10 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
   c4_b = (c4_c_x->size[0] == 0);
   if (!c4_b) {
-    c4_b_st.site = &c4_wi_emlrtRSI;
-    c4_b_st.site = &c4_cf_emlrtRSI;
+    c4_b_st.site = &c4_ui_emlrtRSI;
+    c4_b_st.site = &c4_af_emlrtRSI;
     c4_n = c4_c_x->size[0];
-    c4_c_st.site = &c4_df_emlrtRSI;
+    c4_c_st.site = &c4_bf_emlrtRSI;
     c4_b_n = c4_c_x->size[0];
     for (c4_i3 = 0; c4_i3 < 4; c4_i3++) {
       c4_x4[c4_i3] = 0.0;
@@ -20345,7 +20182,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
 
     c4_nNaNs = 0;
     c4_ib = 0;
-    c4_d_st.site = &c4_if_emlrtRSI;
+    c4_d_st.site = &c4_gf_emlrtRSI;
     c4_b_b = c4_b_n;
     c4_c_b = c4_b_b;
     if (1 > c4_c_b) {
@@ -20355,7 +20192,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_overflow) {
-      c4_e_st.site = &c4_ob_emlrtRSI;
+      c4_e_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
     }
 
@@ -20483,7 +20320,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_perm[2] = 1;
       }
 
-      c4_d_st.site = &c4_jf_emlrtRSI;
+      c4_d_st.site = &c4_hf_emlrtRSI;
       c4_g_b = c4_ib;
       c4_h_b = c4_g_b;
       if (1 > c4_h_b) {
@@ -20493,7 +20330,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_c_overflow) {
-        c4_e_st.site = &c4_ob_emlrtRSI;
+        c4_e_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
       }
 
@@ -20507,7 +20344,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     c4_m = c4_nNaNs >> 1;
-    c4_d_st.site = &c4_kf_emlrtRSI;
+    c4_d_st.site = &c4_if_emlrtRSI;
     c4_e_b = c4_m;
     c4_f_b = c4_e_b;
     if (1 > c4_f_b) {
@@ -20517,7 +20354,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_b_overflow) {
-      c4_e_st.site = &c4_ob_emlrtRSI;
+      c4_e_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
     }
 
@@ -20541,7 +20378,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
       if (c4_n >= 256) {
         c4_nBlocks = c4_nNonNaN >> 8;
         if (c4_nBlocks > 0) {
-          c4_c_st.site = &c4_ef_emlrtRSI;
+          c4_c_st.site = &c4_cf_emlrtRSI;
           c4_i_b = c4_nBlocks;
           c4_j_b = c4_i_b;
           if (1 > c4_j_b) {
@@ -20551,13 +20388,13 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
           }
 
           if (c4_d_overflow) {
-            c4_d_st.site = &c4_ob_emlrtRSI;
+            c4_d_st.site = &c4_mb_emlrtRSI;
             c4_check_forloop_overflow_error(chartInstance, &c4_d_st);
           }
 
           for (c4_m_b = 1; c4_m_b - 1 < c4_nBlocks; c4_m_b++) {
             c4_n_b = c4_m_b - 1;
-            c4_c_st.site = &c4_ff_emlrtRSI;
+            c4_c_st.site = &c4_df_emlrtRSI;
             c4_d_merge_pow2_block(chartInstance, &c4_c_st, c4_b_idx, c4_c_x,
                                   c4_n_b << 8);
           }
@@ -20565,7 +20402,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_tailOffset = c4_nBlocks << 8;
           c4_nLastBlock = c4_nNonNaN - c4_tailOffset;
           if (c4_nLastBlock > 0) {
-            c4_c_st.site = &c4_gf_emlrtRSI;
+            c4_c_st.site = &c4_ef_emlrtRSI;
             c4_d_merge_block(chartInstance, &c4_c_st, c4_b_idx, c4_c_x,
                              c4_tailOffset, c4_nLastBlock, 2, c4_b_iwork,
                              c4_xwork);
@@ -20575,16 +20412,16 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
         }
       }
 
-      c4_c_st.site = &c4_hf_emlrtRSI;
+      c4_c_st.site = &c4_ff_emlrtRSI;
       c4_d_merge_block(chartInstance, &c4_c_st, c4_b_idx, c4_c_x, 0, c4_nNonNaN,
                        c4_preSortLevel, c4_b_iwork, c4_xwork);
     }
 
     if ((c4_nNaNs > 0) && (c4_nNonNaN > 0)) {
-      c4_c_st.site = &c4_xi_emlrtRSI;
+      c4_c_st.site = &c4_vi_emlrtRSI;
       c4_b_nNonNaN = c4_nNonNaN - 1;
       c4_b_nNaNs = c4_nNaNs - 1;
-      c4_d_st.site = &c4_yi_emlrtRSI;
+      c4_d_st.site = &c4_wi_emlrtRSI;
       c4_k_b = c4_b_nNaNs + 1;
       c4_l_b = c4_k_b;
       if (1 > c4_l_b) {
@@ -20594,7 +20431,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_e_overflow) {
-        c4_e_st.site = &c4_ob_emlrtRSI;
+        c4_e_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
       }
 
@@ -20609,7 +20446,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
         c4_b_idx->data[c4_b_nNaNs + c4_f_k] = c4_b_idx->data[c4_f_k - 1];
       }
 
-      c4_d_st.site = &c4_aj_emlrtRSI;
+      c4_d_st.site = &c4_xi_emlrtRSI;
       c4_o_b = c4_b_nNaNs + 1;
       c4_p_b = c4_o_b;
       if (1 > c4_p_b) {
@@ -20619,7 +20456,7 @@ static void c4_d_sort(SFc4_flightControlSystemInstanceStruct *chartInstance,
       }
 
       if (c4_f_overflow) {
-        c4_e_st.site = &c4_ob_emlrtRSI;
+        c4_e_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_e_st);
       }
 
@@ -20677,7 +20514,7 @@ static void c4_d_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
     c4_bLen = 1 << (c4_b + 2);
     c4_bLen2 = c4_bLen << 1;
     c4_nPairs = 256 >> (c4_b + 3);
-    c4_st.site = &c4_lf_emlrtRSI;
+    c4_st.site = &c4_jf_emlrtRSI;
     c4_b_b = c4_nPairs;
     c4_c_b = c4_b_b;
     if (1 > c4_c_b) {
@@ -20687,14 +20524,14 @@ static void c4_d_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
     for (c4_k = 1; c4_k - 1 < c4_nPairs; c4_k++) {
       c4_b_k = c4_k - 1;
       c4_blockOffset = (c4_offset + c4_b_k * c4_bLen2) - 1;
-      c4_st.site = &c4_mf_emlrtRSI;
+      c4_st.site = &c4_kf_emlrtRSI;
       c4_d_b = c4_bLen2;
       c4_e_b = c4_d_b;
       if (1 > c4_e_b) {
@@ -20704,7 +20541,7 @@ static void c4_d_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
       }
 
       if (c4_b_overflow) {
-        c4_b_st.site = &c4_ob_emlrtRSI;
+        c4_b_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
       }
 
@@ -20735,7 +20572,7 @@ static void c4_d_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
             c4_q++;
           } else {
             c4_offset1 = c4_iout - c4_p;
-            c4_st.site = &c4_nf_emlrtRSI;
+            c4_st.site = &c4_lf_emlrtRSI;
             c4_g_a = c4_p + 1;
             c4_f_b = c4_bLen;
             c4_h_a = c4_g_a;
@@ -20747,7 +20584,7 @@ static void c4_d_merge_pow2_block(SFc4_flightControlSystemInstanceStruct
             }
 
             if (c4_c_overflow) {
-              c4_b_st.site = &c4_ob_emlrtRSI;
+              c4_b_st.site = &c4_mb_emlrtRSI;
               c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
             }
 
@@ -20794,7 +20631,7 @@ static void c4_d_merge_block(SFc4_flightControlSystemInstanceStruct
       c4_tailOffset = c4_bLen * c4_nBlocks;
       c4_nTail = c4_n - c4_tailOffset;
       if (c4_nTail > c4_bLen) {
-        c4_st.site = &c4_of_emlrtRSI;
+        c4_st.site = &c4_mf_emlrtRSI;
         c4_d_merge(chartInstance, &c4_st, c4_b_idx, c4_c_x, c4_offset +
                    c4_tailOffset, c4_bLen, c4_nTail - c4_bLen, c4_b_iwork,
                    c4_xwork);
@@ -20803,7 +20640,7 @@ static void c4_d_merge_block(SFc4_flightControlSystemInstanceStruct
 
     c4_bLen2 = c4_bLen << 1;
     c4_nPairs = c4_nBlocks >> 1;
-    c4_st.site = &c4_pf_emlrtRSI;
+    c4_st.site = &c4_nf_emlrtRSI;
     c4_b = c4_nPairs;
     c4_b_b = c4_b;
     if (1 > c4_b_b) {
@@ -20813,13 +20650,13 @@ static void c4_d_merge_block(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
     for (c4_k = 1; c4_k - 1 < c4_nPairs; c4_k++) {
       c4_b_k = c4_k - 1;
-      c4_st.site = &c4_qf_emlrtRSI;
+      c4_st.site = &c4_of_emlrtRSI;
       c4_d_merge(chartInstance, &c4_st, c4_b_idx, c4_c_x, c4_offset + c4_b_k *
                  c4_bLen2, c4_bLen, c4_bLen, c4_b_iwork, c4_xwork);
     }
@@ -20829,7 +20666,7 @@ static void c4_d_merge_block(SFc4_flightControlSystemInstanceStruct
   }
 
   if (c4_n > c4_bLen) {
-    c4_st.site = &c4_rf_emlrtRSI;
+    c4_st.site = &c4_pf_emlrtRSI;
     c4_d_merge(chartInstance, &c4_st, c4_b_idx, c4_c_x, c4_offset, c4_bLen, c4_n
                - c4_bLen, c4_b_iwork, c4_xwork);
   }
@@ -20866,7 +20703,7 @@ static void c4_d_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_b_st.tls = c4_st.tls;
   if (c4_nq != 0) {
     c4_n = c4_np + c4_nq;
-    c4_st.site = &c4_tf_emlrtRSI;
+    c4_st.site = &c4_rf_emlrtRSI;
     c4_b = c4_n;
     c4_b_b = c4_b;
     if (1 > c4_b_b) {
@@ -20876,7 +20713,7 @@ static void c4_d_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
@@ -20908,7 +20745,7 @@ static void c4_d_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
           c4_q++;
         } else {
           c4_offset1 = c4_iout - c4_p;
-          c4_st.site = &c4_sf_emlrtRSI;
+          c4_st.site = &c4_qf_emlrtRSI;
           c4_g_a = c4_p + 1;
           c4_c_b = c4_np;
           c4_h_a = c4_g_a;
@@ -20920,7 +20757,7 @@ static void c4_d_merge(SFc4_flightControlSystemInstanceStruct *chartInstance,
           }
 
           if (c4_b_overflow) {
-            c4_b_st.site = &c4_ob_emlrtRSI;
+            c4_b_st.site = &c4_mb_emlrtRSI;
             c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
           }
 
@@ -20972,7 +20809,7 @@ static void c4_b_sortrows(SFc4_flightControlSystemInstanceStruct *chartInstance,
   c4_st.tls = c4_sp->tls;
   c4_b_st.prev = &c4_st;
   c4_b_st.tls = c4_st.tls;
-  c4_st.site = &c4_ik_emlrtRSI;
+  c4_st.site = &c4_gk_emlrtRSI;
   c4_k = 0;
   do {
     c4_exitg1 = 0;
@@ -21014,11 +20851,11 @@ static void c4_b_sortrows(SFc4_flightControlSystemInstanceStruct *chartInstance,
   }
 
   c4_emxInit_int32_T1(chartInstance, &c4_st, &c4_h_x, 2, &c4_mi_emlrtRTEI);
-  c4_st.site = &c4_jk_emlrtRSI;
+  c4_st.site = &c4_hk_emlrtRSI;
   c4_i1 = c4_h_x->size[0] * c4_h_x->size[1];
   c4_h_x->size[0] = c4_y->size[0];
   c4_h_x->size[1] = 2;
-  c4_b_st.site = &c4_jk_emlrtRSI;
+  c4_b_st.site = &c4_hk_emlrtRSI;
   c4_emxEnsureCapacity_int32_T1(chartInstance, &c4_b_st, c4_h_x, c4_i1,
     &c4_mi_emlrtRTEI);
   c4_loop_ub = c4_y->size[0] * c4_y->size[1] - 1;
@@ -21037,9 +20874,9 @@ static void c4_b_sortrows(SFc4_flightControlSystemInstanceStruct *chartInstance,
     c4_b_idx->data[c4_i4] = 0;
   }
 
-  c4_b_st.site = &c4_lk_emlrtRSI;
+  c4_b_st.site = &c4_jk_emlrtRSI;
   c4_d_mergesort(chartInstance, &c4_b_st, c4_b_idx, c4_h_x, c4_col, c4_n);
-  c4_st.site = &c4_kk_emlrtRSI;
+  c4_st.site = &c4_ik_emlrtRSI;
   c4_b_apply_row_permutation(chartInstance, &c4_st, c4_y, c4_b_idx);
   c4_emxFree_int32_T(chartInstance, &c4_h_x);
   c4_emxFree_int32_T(chartInstance, &c4_b_idx);
@@ -21095,7 +20932,7 @@ static void c4_d_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_emxInit_int32_T(chartInstance, c4_sp, &c4_b_iwork, 1, &c4_qi_emlrtRTEI);
   c4_i = c4_b_iwork->size[0];
   c4_b_iwork->size[0] = c4_b_idx->size[0];
-  c4_st.site = &c4_jl_emlrtRSI;
+  c4_st.site = &c4_el_emlrtRSI;
   c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_b_iwork, c4_i,
     &c4_oi_emlrtRTEI);
   c4_loop_ub = c4_b_idx->size[0] - 1;
@@ -21111,7 +20948,7 @@ static void c4_d_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
   c4_iv[0] = c4_b_iwork->size[0];
   c4_i3 = c4_b_iwork->size[0];
   c4_b_iwork->size[0] = c4_iv[0];
-  c4_st.site = &c4_jl_emlrtRSI;
+  c4_st.site = &c4_el_emlrtRSI;
   c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_b_iwork, c4_i3,
     &c4_qi_emlrtRTEI);
   c4_np1 = c4_n + 1;
@@ -21122,7 +20959,7 @@ static void c4_d_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
     c4_i5 = c4_d_x->size[0] * c4_d_x->size[1];
     c4_d_x->size[0] = c4_c_x->size[0];
     c4_d_x->size[1] = 2;
-    c4_st.site = &c4_yl_emlrtRSI;
+    c4_st.site = &c4_tl_emlrtRSI;
     c4_emxEnsureCapacity_int32_T1(chartInstance, &c4_st, c4_d_x, c4_i5,
       &c4_ri_emlrtRTEI);
     c4_b_loop_ub = c4_c_x->size[0] * c4_c_x->size[1] - 1;
@@ -21170,7 +21007,7 @@ static void c4_d_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
         c4_i8 = c4_e_x->size[0] * c4_e_x->size[1];
         c4_e_x->size[0] = c4_c_x->size[0];
         c4_e_x->size[1] = 2;
-        c4_st.site = &c4_yl_emlrtRSI;
+        c4_st.site = &c4_tl_emlrtRSI;
         c4_emxEnsureCapacity_int32_T1(chartInstance, &c4_st, c4_e_x, c4_i8,
           &c4_ri_emlrtRTEI);
         c4_c_loop_ub = c4_c_x->size[0] * c4_c_x->size[1] - 1;
@@ -21209,7 +21046,7 @@ static void c4_d_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
       }
 
       c4_p = c4_j - 2;
-      c4_st.site = &c4_xd_emlrtRSI;
+      c4_st.site = &c4_vd_emlrtRSI;
       c4_b = c4_kEnd;
       c4_b_b = c4_b;
       if (1 > c4_b_b) {
@@ -21219,7 +21056,7 @@ static void c4_d_mergesort(SFc4_flightControlSystemInstanceStruct *chartInstance
       }
 
       if (c4_overflow) {
-        c4_b_st.site = &c4_ob_emlrtRSI;
+        c4_b_st.site = &c4_mb_emlrtRSI;
         c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
       }
 
@@ -21268,12 +21105,12 @@ static void c4_b_apply_row_permutation(SFc4_flightControlSystemInstanceStruct
   c4_iv[0] = c4_m;
   c4_i = c4_ycol->size[0];
   c4_ycol->size[0] = c4_iv[0];
-  c4_st.site = &c4_il_emlrtRSI;
+  c4_st.site = &c4_dl_emlrtRSI;
   c4_emxEnsureCapacity_int32_T(chartInstance, &c4_st, c4_ycol, c4_i,
     &c4_si_emlrtRTEI);
   for (c4_j = 0; c4_j < 2; c4_j++) {
     c4_b_j = c4_j;
-    c4_st.site = &c4_mk_emlrtRSI;
+    c4_st.site = &c4_kk_emlrtRSI;
     c4_b = c4_m;
     c4_b_b = c4_b;
     if (1 > c4_b_b) {
@@ -21283,7 +21120,7 @@ static void c4_b_apply_row_permutation(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
@@ -21293,7 +21130,7 @@ static void c4_b_apply_row_permutation(SFc4_flightControlSystemInstanceStruct
         * c4_b_j) - 1];
     }
 
-    c4_st.site = &c4_nk_emlrtRSI;
+    c4_st.site = &c4_lk_emlrtRSI;
     c4_c_b = c4_m;
     c4_d_b = c4_c_b;
     if (1 > c4_d_b) {
@@ -21303,7 +21140,7 @@ static void c4_b_apply_row_permutation(SFc4_flightControlSystemInstanceStruct
     }
 
     if (c4_b_overflow) {
-      c4_b_st.site = &c4_ob_emlrtRSI;
+      c4_b_st.site = &c4_mb_emlrtRSI;
       c4_check_forloop_overflow_error(chartInstance, &c4_b_st);
     }
 
@@ -22842,10 +22679,10 @@ static void init_simulink_io_address(SFc4_flightControlSystemInstanceStruct
 /* SFunction Glue Code */
 void sf_c4_flightControlSystem_get_check_sum(mxArray *plhs[])
 {
-  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(2530576351U);
-  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(1961980417U);
-  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(2758143767U);
-  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(3840610211U);
+  ((real_T *)mxGetPr((plhs[0])))[0] = (real_T)(555101625U);
+  ((real_T *)mxGetPr((plhs[0])))[1] = (real_T)(3519554201U);
+  ((real_T *)mxGetPr((plhs[0])))[2] = (real_T)(2577306236U);
+  ((real_T *)mxGetPr((plhs[0])))[3] = (real_T)(280758653U);
 }
 
 mxArray *sf_c4_flightControlSystem_third_party_uses_info(void)
@@ -22920,7 +22757,7 @@ static const mxArray *sf_get_sim_state_info_c4_flightControlSystem(void)
 
 static const char* sf_get_instance_specialization(void)
 {
-  return "sN07ZPx0z09CpO0na7U4biG";
+  return "se8yLw6YHk2bo8Ikt95CFgF";
 }
 
 static void sf_opaque_initialize_c4_flightControlSystem(void *chartInstanceVar)
@@ -23027,28 +22864,28 @@ const char* sf_c4_flightControlSystem_get_post_codegen_info(void)
 {
   int i;
   const char* encStrCodegen [19] = {
-    "eNrtV01u20YUphU1TYDUMNAUXdRFjHaRLrUIkBYoUseUlAqwY6GUU6Abdzx8EgcazrDzI0s5QK/",
-    "QU2TXQ3TfTW+QTRDkCHlD0rJCkVQUNWlalABND/m9b97/G3lbvSMPr228f/7Y867i8xreDS+7Ps",
-    "jXWwt39r7p3c7Xv6OQsHGfKBJrr/YSJIYfQEtuDZOiJ4ayFMbEEBQIithEKlPFpllsORPjrhXU8",
-    "ekfI0ajIJKWhwcoS8JjwWfIlljTR542U0BNFyA0kZJ2FHU5Gc01Vubcj4COtY3rTNBgAps4tfSR",
-    "5YYlHDpToD2hDUGN9aVugSEGfDOtNNNZqoMLoIwTzogotTYiOoAEHWzgJAnx77E1aFQRRiOizAF",
-    "EZAL6kI1TTimgyMk0fjhjghipGOGdmPtOcFm3Pkd9jmQIvMYhqNuBAjJOJBOmOv5BFy3tCHLGoQ",
-    "1ndlTNFsAv1gX/EYNzUJV+G/pyAoqM4FhUbpo6pDNNozXPkmWYYTE8Iuo+xfhpCCuzFzNHBwTjB",
-    "AOUqIJBamRPDxSboHsr2Wzcc5m5qmRsnAVbr4KlbJ0J1EVhztalwiec60rYQCaHMAGesraJIfWw",
-    "jLUcpzULBxId7NK7uhqsYBj4HOZLEbLScE0KgLTvPMTG8iqSWm1k7GPytg8Plz8vw3rCgBoSCmV",
-    "dQBGmAX2WureaLWTaxR6BqJVJ1SsDZxmyCuXpoRXtc6nG6JOaJnJpgotoJTDWI4wlVsKJxqKpg7",
-    "lYrsJRQiMIXYNhHI6wbBBb4hPtWtt9rLsJM7M2aKpYUhJVi1WHbajjEmqWwIkYC3kuukrGQd7js",
-    "yhgZ8AeHmMMBmmNCYpUTBtsF+xy+xAAk5IowcToANucmnVRydKIubnX8i7n3o3XmHsXcsXnVws8",
-    "WyU83sKzuO/1Rv2+DfxvK5fbX5D7qLBPsyDncDt4f3F798MnXz795Nffnn/+7M/Pvt1k/+mV9c4",
-    "J2/l696IhzwtsspTXDvv9gl7NEv5PF/h38rV+2Lr7U3/aetz6xk+OW4LcPblzxh6kfH806vW9Ut",
-    "D34v2emwyYjWkeK9oL8wOMWxObjXXH//WCvldX+ON6/j67Xny3mfzufjGOZf5qvuKvphdjp1jM2",
-    "39O/5v7xXwu0/9GId5uLdNxc0rEiEOxDt9cn739zeSz/fsr7Nkr2LOXnmdOieuScErvnA45G0Vu",
-    "wBkleTDD9hZv/w19Y1057x3L/Vv0/N8vb9++15nDbyrX2HDuvyu5Te1b9zzyvuHr5ppXwO+8x3Z",
-    "sek582/i/vPXOc7fy9b35Tzs/YjwsOeXnn/EsPiz7+h/J03XwLwG9s8fl",
+    "eNrtV01u20YUphU1SIDUMJAC3gSIV027K4K2cDeNY0pECMi1UcoJuijcMflEDjScYeZHsu6RXZc",
+    "FeoIue4AcIYseojdo35C0rFAkFUXNL0qApof83jfv/42cLf/IwWsb719uO851fN7Au+MU1yflem",
+    "vhLt53nXvl+g8U4iY9IZKkymm9OEnhR1CCGU0F9/lI1MIoH4EEHiI2E1I3sSmaGkb52DM8tHzqS",
+    "ULDJEiEYdEhypLomLMZsmVGnyBPj0oItQcQ6UQKEyceI/FcY6mnbgLhWJm0zQQFOjCZVUsdGaZp",
+    "xqB/AaHPlSaosbrSLdBEg6svGs20lqrgEijSjFHCa61NiAogQwdrOM0i/HtsNBpVhYUJkfoQEjI",
+    "BNaDjnFNwqHJShR/OKSdaSEpYP2WuFVzW7YShPkciAtbiENTtUAIZZ4Jy3Rz/wENL+5ycM+jBuY",
+    "mb2QJ4amzwH1OYgmz028gVE5AkhmPeuGnukP5FHq15lizDNE3hMZEPQ4yfgqgxezFzVEAwTjBEi",
+    "SYY5Eb6aijpBN3byGZS32bmqpIxaRFstQqWs/Un0BaFOZsXcpcwphphQ5ENYAIsZ+0RTdphBWs9",
+    "TikaDQU62KZ3czUYTjHwJcwVPKK14ZpUAHnf+QEby8vI0CgtUheTtzcYLH9ehvlcgxyREOq6gCR",
+    "UAfosd28zW0SVjT0CUSudq1cHLjJkFcpRI8N7UyHH6JOWJnJlgo1oIzBVMcYSK+FUYdG0wWwsV+",
+    "FCEiYQ2QZDGRxh2SC2xifKtraHWHcTqmc9UKGkWU1UDVYdtqG+TahZBqd8zMWUe1KkQdnjiyhgZ",
+    "8AenmIMhnmN8RCpqNLYLujV9hEAJiWRnPL4ENucnHmoZG3E7Nz7yrmae7deYe5dylWfXyzwbNXw",
+    "OAvP6r43O+37dvC/rVLuYEHu08o+3Yqcxe3g/c/Pye/P/rz36+5vf+1/7n9pNtn/4tp654Ttcn3",
+    "nsiHPC2yylNcW+2hBr24N/+4C/065VrA/G0y//enR+P652PfH+rtvXC/2cr7nnXZ9r1X0vXy/Zy",
+    "cDZmOexzL0o/IAY9fEFGPd8u8v6Ht9hT9ulu+L6+8Hm8nfOajGsc5f3Zf81XVS7BSLefvu9P/so",
+    "JrPdfrfqsTbrkU+bs4IjxlU6/D19dk72Ey+2P9khT17FXv28vPMGbFdEs7Cr89GjMaJHXBaChbM",
+    "sL2l2/9B31hXznnLch+Knv/75c3b9ypz+HXlOhvO/bclt6l9655H3jd821xzKvid99iOTc+Jbxr",
+    "/wlnvPHe3XH8//2nnJpRFNaf88jOexUd1Xz+SPF0H/y8fZskr",
     ""
   };
 
-  static char newstr [1333] = "";
+  static char newstr [1325] = "";
   newstr[0] = '\0';
   for (i = 0; i < 19; i++) {
     strcat(newstr, encStrCodegen[i]);
@@ -23061,10 +22898,10 @@ static void mdlSetWorkWidths_c4_flightControlSystem(SimStruct *S)
 {
   const char* newstr = sf_c4_flightControlSystem_get_post_codegen_info();
   sf_set_work_widths(S, newstr);
-  ssSetChecksum0(S,(119285538U));
-  ssSetChecksum1(S,(367469485U));
-  ssSetChecksum2(S,(502175622U));
-  ssSetChecksum3(S,(1008456684U));
+  ssSetChecksum0(S,(2791857663U));
+  ssSetChecksum1(S,(2603072660U));
+  ssSetChecksum2(S,(953983767U));
+  ssSetChecksum3(S,(1965639974U));
 }
 
 static void mdlRTW_c4_flightControlSystem(SimStruct *S)

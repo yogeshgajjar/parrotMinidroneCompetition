@@ -1,5 +1,4 @@
 flightControlSystem_sfun.o
-c1_flightControlSystem.o
 c4_flightControlSystem.o
 flightControlSystem_sfun_registry.o
 -L/home/yogesh/MATLAB/R2020b/bin/glnxa64

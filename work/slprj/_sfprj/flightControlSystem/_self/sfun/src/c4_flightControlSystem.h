@@ -195,40 +195,6 @@ typedef struct tag_sQBCJjKKgS8ZYkH5STYFEHG c4_sQBCJjKKgS8ZYkH5STYFEHG;
 
 #endif                                 /*typedef_c4_sQBCJjKKgS8ZYkH5STYFEHG*/
 
-#ifndef struct_tag_sL6LJlPlxhdTxZzXh5NTaQC
-#define struct_tag_sL6LJlPlxhdTxZzXh5NTaQC
-
-struct tag_sL6LJlPlxhdTxZzXh5NTaQC
-{
-  int32_T intNumBits;
-};
-
-#endif                                 /*struct_tag_sL6LJlPlxhdTxZzXh5NTaQC*/
-
-#ifndef typedef_c4_sL6LJlPlxhdTxZzXh5NTaQC
-#define typedef_c4_sL6LJlPlxhdTxZzXh5NTaQC
-
-typedef struct tag_sL6LJlPlxhdTxZzXh5NTaQC c4_sL6LJlPlxhdTxZzXh5NTaQC;
-
-#endif                                 /*typedef_c4_sL6LJlPlxhdTxZzXh5NTaQC*/
-
-#ifndef struct_tag_5KqFFYIoB1UGDhdZK3TrJE
-#define struct_tag_5KqFFYIoB1UGDhdZK3TrJE
-
-struct tag_5KqFFYIoB1UGDhdZK3TrJE
-{
-  const char_T *f1;
-};
-
-#endif                                 /*struct_tag_5KqFFYIoB1UGDhdZK3TrJE*/
-
-#ifndef typedef_c4_s_5KqFFYIoB1UGDhdZK3TrJE
-#define typedef_c4_s_5KqFFYIoB1UGDhdZK3TrJE
-
-typedef struct tag_5KqFFYIoB1UGDhdZK3TrJE c4_s_5KqFFYIoB1UGDhdZK3TrJE;
-
-#endif                                 /*typedef_c4_s_5KqFFYIoB1UGDhdZK3TrJE*/
-
 #ifndef struct_emxArray_real_T
 #define struct_emxArray_real_T
 
@@ -363,23 +329,6 @@ struct emxArray_real_T_1x0
 typedef struct emxArray_real_T_1x0 c4_emxArray_real_T_1x0;
 
 #endif                                 /*typedef_c4_emxArray_real_T_1x0*/
-
-#ifndef struct_tag_AipFDpYxg7rxehWInfLRBE
-#define struct_tag_AipFDpYxg7rxehWInfLRBE
-
-struct tag_AipFDpYxg7rxehWInfLRBE
-{
-  c4_s_5KqFFYIoB1UGDhdZK3TrJE _data;
-};
-
-#endif                                 /*struct_tag_AipFDpYxg7rxehWInfLRBE*/
-
-#ifndef typedef_c4_s_AipFDpYxg7rxehWInfLRBE
-#define typedef_c4_s_AipFDpYxg7rxehWInfLRBE
-
-typedef struct tag_AipFDpYxg7rxehWInfLRBE c4_s_AipFDpYxg7rxehWInfLRBE;
-
-#endif                                 /*typedef_c4_s_AipFDpYxg7rxehWInfLRBE*/
 
 #ifndef struct_tag_skoeQIuVNKJRHNtBIlOCZhD
 #define struct_tag_skoeQIuVNKJRHNtBIlOCZhD
@@ -1879,23 +1828,6 @@ struct tag_l01fX72x5RPIG9J9rwnNRE
 typedef struct tag_l01fX72x5RPIG9J9rwnNRE c4_cell_65;
 
 #endif                                 /*typedef_c4_cell_65*/
-
-#ifndef struct_tag_DLpD1HCLsUg7APOXIGnkLE
-#define struct_tag_DLpD1HCLsUg7APOXIGnkLE
-
-struct tag_DLpD1HCLsUg7APOXIGnkLE
-{
-  char_T Value[9];
-};
-
-#endif                                 /*struct_tag_DLpD1HCLsUg7APOXIGnkLE*/
-
-#ifndef typedef_c4_s_DLpD1HCLsUg7APOXIGnkLE
-#define typedef_c4_s_DLpD1HCLsUg7APOXIGnkLE
-
-typedef struct tag_DLpD1HCLsUg7APOXIGnkLE c4_s_DLpD1HCLsUg7APOXIGnkLE;
-
-#endif                                 /*typedef_c4_s_DLpD1HCLsUg7APOXIGnkLE*/
 
 #ifndef struct_emxArray_tag_sBO2RC5RVZVTbundPS
 #define struct_emxArray_tag_sBO2RC5RVZVTbundPS
